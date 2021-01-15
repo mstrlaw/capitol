@@ -62,11 +62,12 @@ const renderVideoList = (listItems) => {
   panelBody.innerHTML = '';
   listItems.forEach(item => {
     const { properties: props } = item;
+    let tags = props.tags
     list += `
     <div class="c-Video">
       <div class="c-Video__meta">
         <small><b>${props.id}</b></small>
-        <small class="c-Video__time">${props.time} | ${props.duration}s</small>
+        <small class="c-Video__time">${props.time} | ${props.duration}s | ${tags}</small>
         <small>${props.location}</small>
       </div>
       <a href="#" data-trigger data-id="${props.id}">
@@ -175,8 +176,8 @@ map.on('load', function () {
     // Get all points under a cluster
     clusterSource.getClusterLeaves(clusterId, point_count, 0, function(err, aFeatures){
 
-      // Only list videos for clusters under 26 items
-      if (aFeatures.length <= 25) {
+      // Only list videos for smaller clusters
+      if (aFeatures.length <= 50) {
         deactivateVideoTriggers();
         panelEl.classList.add('is-visible');
         renderVideoList(aFeatures);
