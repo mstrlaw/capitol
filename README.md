@@ -28,15 +28,25 @@ We'll review it and improve the data source.
 
 The amount of effort you want to put into identifying the location of a video is up to you. A rough approximation is enough. Here are some tips for visual recon:
 
-**[Google Maps](https://www.google.com/maps/@38.8896155,-77.010188,1138a,35y,359.75h,0.2t/data=!3m1!1e3)** is definitely the best tool at your disposal; use it extensively:
+##### Outdoors
 
-##### Google Maps Street View
+[Google Maps](https://www.google.com/maps/@38.8896155,-77.010188,1138a,35y,359.75h,0.2t/data=!3m1!1e3) is definitely the best tool at your disposal; use it extensively:
+
+**Street View**
 
 Luckily, Google Maps has plenty of locations you can use to identify the location of videos:
+![Streetview usage](https://github.com/mstrlaw/capitol/blob/master/.github/streetview.gif?raw=true)
 
+**Extract coordinates**
 
-**[Virtually Anywhere](https://www.virtually-anywhere.com/portfolio/uscapitol/)** does virtual tours of the Capitol, useful indoor recognition.
+Once you know the location, you simply need to right-click on the location you want the coordinates for. A menu will show up with the coordinates as the first entry. Simply click them to copy their value.
+![Copying coordinates](https://github.com/mstrlaw/capitol/blob/master/.github/coordinates.gif?raw=true)
 
+##### Indoors
+
+[Virtually Anywhere](https://www.virtually-anywhere.com/portfolio/uscapitol/) is a service that offers virtual tours. You can use it to do indoor recognition of videos within the Capitol.
+
+You can cross-check with [this image](https://i.pinimg.com/originals/c8/b6/f4/c8b6f487cac043ed0e9549e4d29b1ecb.jpg) of the Capitol blueprints. Once you've identified the location on the blueprint, the easiest way is to use the Google Maps method above to get the approximate coordinates.
 
 ### Annotating video categories
 
