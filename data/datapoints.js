@@ -1213,7 +1213,9 @@ export default [
       "location": "National Gallery of Art Sculpture Garden, 9th Street Expressway, Penn Quarter, Washington, District of Columbia, 20004, United States",
       "size": "31.1",
       "duration": "85.3",
-      "tags": [],
+      "tags": [
+        "vlog"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -1557,28 +1559,6 @@ export default [
   {
     "type": "Feature",
     "properties": {
-      "id": "0RXNjbNjJq1A",
-      "platform": "parler",
-      "time": "2021-01-06 14:47:40",
-      "video": "0RXNjbNjJq1A.mp4",
-      "image": "0RXNjbNjJq1A.png",
-      "location": "Constitution Avenue & 15th Street Northwest Far-side Northbound, 15th Street Northwest, Washington, District of Columbia, 20230, United States",
-      "size": "5.4",
-      "duration": "5.6",
-      "tags": [],
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "-77.0337",
-        "38.8923",
-        0
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "id": "N1k8H378YLUP",
       "platform": "parler",
       "time": "2021-01-06 14:47:40",
@@ -1873,7 +1853,9 @@ export default [
       "location": "US Capitol East Gatehouse, 15th Street Northwest, Washington, District of Columbia, 20230, United States",
       "size": "34.3",
       "duration": "45.4",
-      "tags": [],
+      "tags": [
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -1895,7 +1877,9 @@ export default [
       "location": "282, Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "17.1",
       "duration": "10.8",
-      "tags": [],
+      "tags": [
+        "speech"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2049,7 +2033,9 @@ export default [
       "location": "Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "13.3",
       "duration": "17.6",
-      "tags": [],
+      "tags": [
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2181,7 +2167,9 @@ export default [
       "location": "Meridian Stone, Ellipse Road Northwest, Washington, District of Columbia, 20230, United States",
       "size": "74.1",
       "duration": "61.6",
-      "tags": [],
+      "tags": [
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2379,7 +2367,9 @@ export default [
       "location": "Meridian Stone, Ellipse Road Northwest, Washington, District of Columbia, 20230, United States",
       "size": "33.4",
       "duration": "106.7",
-      "tags": [],
+      "tags": [
+        "music"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2511,7 +2501,9 @@ export default [
       "location": "Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "43.8",
       "duration": "43.9",
-      "tags": [],
+      "tags": [
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2555,7 +2547,9 @@ export default [
       "location": "260, Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "26.7",
       "duration": "37.2",
-      "tags": [],
+      "tags": [
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2731,7 +2725,9 @@ export default [
       "location": "Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "30.2",
       "duration": "35.8",
-      "tags": [],
+      "tags": [
+        "music"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -2951,7 +2947,10 @@ export default [
       "location": "Meridian Stone, Ellipse Road Northwest, Washington, District of Columbia, 20230, United States",
       "size": "12.5",
       "duration": "7.1",
-      "tags": [],
+      "tags": [
+        "trump",
+        "speech"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -3017,7 +3016,10 @@ export default [
       "location": "Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "49.2",
       "duration": "93.5",
-      "tags": [],
+      "tags": [
+        "speech",
+        "trump"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -3193,7 +3195,9 @@ export default [
       "location": "230, Constitution Avenue Northwest, Penn Quarter, Washington, District of Columbia, 20560, United States",
       "size": "17.9",
       "duration": "19",
-      "tags": [],
+      "tags": [
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -3573,7 +3577,9 @@ export default [
       "location": "227, Constitution Avenue Northwest, Penn Quarter, Washington, District of Columbia, 20004, United States",
       "size": "13.9",
       "duration": "17.1",
-      "tags": [],
+      "tags": [
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -3751,7 +3757,10 @@ export default [
       "location": "Meridian Stone, Ellipse Road Northwest, Washington, District of Columbia, 20230, United States",
       "size": "69.9",
       "duration": "38.7",
-      "tags": [],
+      "tags": [
+        "speech",
+        "trump"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -3861,7 +3870,9 @@ export default [
       "location": "15th Street Northwest, Washington, District of Columbia, 20230, United States",
       "size": "15",
       "duration": "14.9",
-      "tags": [],
+      "tags": [
+        "music"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -4795,7 +4806,9 @@ export default [
       "location": "282, Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "13.7",
       "duration": "20.2",
-      "tags": [],
+      "tags": [
+        "music"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -4930,7 +4943,9 @@ export default [
       "location": "14th Street & Constitution Avenue Northwest Northbound, Constitution Avenue Northwest, Penn Quarter, Washington, District of Columbia, 20230, United States",
       "size": "61.3",
       "duration": "85.1",
-      "tags": [],
+      "tags": [
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -5222,7 +5237,9 @@ export default [
       "location": "National Gallery of Art Sculpture Garden, 9th Street Expressway, Penn Quarter, Washington, District of Columbia, 20004, United States",
       "size": "15.8",
       "duration": "0.5",
-      "tags": [],
+      "tags": [
+        "vlog"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -5574,7 +5591,9 @@ export default [
       "location": "214, Constitution Avenue Northwest, Penn Quarter, Washington, District of Columbia, 20565, United States",
       "size": "13.3",
       "duration": "15.4",
-      "tags": [],
+      "tags": [
+        "music"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -7162,7 +7181,9 @@ export default [
       "location": "Robert A. Taft Memorial, Constitution Avenue Northwest, Washington, District of Columbia, 20004, United States",
       "size": "23.2",
       "duration": "127.6",
-      "tags": [],
+      "tags": [
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -13810,7 +13831,11 @@ export default [
       "location": "188, West Terraces and Steps, Washington, District of Columbia, 20540, United States",
       "size": "734.1",
       "duration": "577",
-      "tags": [],
+      "tags": [
+        "police",
+        "conversation",
+        "riot"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -14333,7 +14358,11 @@ export default [
       "location": "Internal Revenue Service Building, 1111, Constitution Avenue Northwest, Penn Quarter, Washington, District of Columbia, 20560, United States",
       "size": "546.8",
       "duration": "361.6",
-      "tags": [],
+      "tags": [
+        "music",
+        "police",
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -15407,7 +15436,9 @@ export default [
       "location": "280, 15th Street Northwest, Washington, District of Columbia, 20230, United States",
       "size": "22",
       "duration": "48",
-      "tags": [],
+      "tags": [
+        "speech"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -17017,7 +17048,10 @@ export default [
       "location": "74, C Street Northeast, Washington, District of Columbia, 20002, United States",
       "size": "22.3",
       "duration": "13.7",
-      "tags": [],
+      "tags": [
+        "vlog",
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -17312,7 +17346,9 @@ export default [
       "location": "Constitution Avenue Northwest, Washington, District of Columbia, 20004, United States",
       "size": "13.1",
       "duration": "0.5",
-      "tags": [],
+      "tags": [
+        "police"
+      ],
     },
     "geometry": {
       "type": "Point",
@@ -17378,7 +17414,10 @@ export default [
       "location": "52, C Street Northeast, Washington, District of Columbia, 20002, United States",
       "size": "72.5",
       "duration": "49.6",
-      "tags": [],
+      "tags": [
+        "vlog",
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
