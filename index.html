@@ -6,7 +6,7 @@
     <title>Capitol Assault</title>
     <link rel="stylesheet" type="text/css" href="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js" type="text/javascript"></script>
-    <script src="http://localhost:5000/main.js" type="module"></script>
+    <script src="./main.js" type="module"></script>
     <link rel="stylesheet" type="text/css" href="./styles.css">
   </head>
   <body>
@@ -23,12 +23,60 @@
       >
       </video>
     </div>
-    <div id="panel" class="c-Panel">
+
+    <a id="leftPanelToggle" href="#" class="c-Panel__leftToggle">Filters</a>
+
+    <div id="leftPanel" class="c-Panel c-Panel__left">
       <div class="c-Panel__header">
-        <a id="closePanel" href="#">close</a>
+        <a id="closePanelLeft" href="#" class="c-Panel__closePanel">close</a>
+      </div>
+      <div class="c-Panel__body">
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="vlog" name="vlog" value="vlog">
+          <label for="vlog">vlog</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="music" name="music" value="music">
+          <label for="music">music</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="chants" name="chants" value="chants">
+          <label for="chants">chants</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="conversation" name="conversation" value="conversation">
+          <label for="conversation">conversation</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="riot" name="riot" value="riot">
+          <label for="riot">riot</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="violence" name="violence" value="violence">
+          <label for="violence">violence</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="police" name="police" value="police">
+          <label for="police">police</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="speech" name="speech" value="speech">
+          <label for="speech">speech</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="trespassing" name="trespassing" value="trespassing">
+          <label for="trespassing">trespassing</label>
+        </div>
+      </div>
+    </div>
+
+    <div id="rightPanel" class="c-Panel c-Panel__right">
+      <div class="c-Panel__header">
+        <a id="closePanelRight" href="#" class="c-Panel__closePanel">close</a>
       </div>
       <div id="panelBody" class="c-Panel__body"></div>
     </div>
+
     <div id="map"></div>
   </body>
 </html>

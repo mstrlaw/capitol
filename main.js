@@ -1,24 +1,89 @@
 import datapoints from './data/datapoints.js';
 
 mapboxgl.accessToken = 'pk.eyJ1IjoibXN0cmxhdyIsImEiOiJja2p4ODQ2cW4wcHoyMndzZGdkZGthamVmIn0.mM90iuWzsHPeGZ4TkXoNIw';
-// https://jan06.nyc3.digitaloceanspaces.com/yGh7nMgJB7m2.mp4
 
-/*
-  Panel
-*/
-const panelEl = document.getElementById('panel');
+const capitolPos = [ -77.01071398310138, 38.889831323686515 ];
+const rightPanel = document.getElementById('rightPanel');
+const leftPanel = document.getElementById('leftPanel');
 const panelBody = document.getElementById('panelBody');
 const videoWrapper = document.getElementById('videoWrapper');
 const videoPlayer = document.getElementById('videoPlayer');
 const closePlayerTrigger = document.getElementById('closePlayer');
+const selectedFilters = [];
+const map = new mapboxgl.Map({
+  container: 'map',
+  center: capitolPos,
+  style: 'mapbox://styles/mstrlaw/ckjx89ck51jah17ph25qtcqus',
+  zoom: 13,
+});
 
-document.getElementById('closePanel').addEventListener('click', e => {
+const filterData = (filters) => {
+  const matches = datapoints.filter(data => {
+    const tags = data.properties.tags;
+    if (tags.length > 0) {
+      if (tags.some((tag) => filters.indexOf(tag) !== -1)) {
+        return data;
+      }
+    }
+  });
+  return matches;
+}
+
+/*
+  Left panel
+*/
+document.getElementById('leftPanelToggle').addEventListener('click', e => {
   e.preventDefault();
-  panelEl.classList.remove('is-visible');
+  leftPanel.classList.add('is-visible');
+});
+
+document.getElementById('closePanelLeft').addEventListener('click', e => {
+  e.preventDefault();
+  leftPanel.classList.remove('is-visible');
+});
+
+document.querySelectorAll('input[type="checkbox"]').forEach(filter => {
+  filter.addEventListener('change', e => {
+    if (e.target.checked) {
+      selectedFilters.push(e.target.value)
+    } else {
+      const i = selectedFilters.indexOf(e.target.value);
+      selectedFilters.splice(i, 1);
+    }
+
+    closeRightPanel();
+    clearMapData();
+
+    if (selectedFilters.length > 0) {
+      // Redrwa with filter datapoints
+      const filteredData = filterData(selectedFilters);
+      drawMapData(filteredData);
+    } else {
+      // Redraw whole map
+      drawMapData(datapoints);
+    }
+
+    map.flyTo({
+      center: capitolPos,
+      zoom: 13
+    });
+  })
+});
+
+/*
+  Right panel
+*/
+const closeRightPanel = () => {
+  rightPanel.classList.remove('is-visible');
   deactivateVideoTriggers();
   closePlayer();
   panelBody.innerHTML = ''
-})
+}
+
+document.getElementById('closePanelRight').addEventListener('click', e => {
+  e.preventDefault();
+  closeRightPanel();
+});
 
 /*
   Video triggers
@@ -78,13 +143,6 @@ const renderVideoList = (listItems) => {
     panelBody.innerHTML = list;
   })
 }
-
-const map = new mapboxgl.Map({
-  container: 'map',
-  center: [ -77.01071398310138, 38.889831323686515 ],
-  style: 'mapbox://styles/mstrlaw/ckjx89ck51jah17ph25qtcqus',
-  zoom: 13,
-});
 
 const drawMapData = (data) => {
   map.addSource('videos', {
@@ -191,7 +249,7 @@ map.on('load', function () {
       // Only list videos for smaller clusters
       if (aFeatures.length <= 50) {
         deactivateVideoTriggers();
-        panelEl.classList.add('is-visible');
+        rightPanel.classList.add('is-visible');
         renderVideoList(aFeatures);
         activateVideoTriggers();
       }
@@ -219,7 +277,7 @@ map.on('load', function () {
       center: coordinates
     });
     deactivateVideoTriggers();
-    panelEl.classList.add('is-visible');
+    rightPanel.classList.add('is-visible');
     renderVideoList([e.features[0]]);
     activateVideoTriggers();
   });

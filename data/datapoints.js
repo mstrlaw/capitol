@@ -349,28 +349,6 @@ export default [
   {
     "type": "Feature",
     "properties": {
-      "id": "q6pE1P1jf6ic",
-      "platform": "parler",
-      "time": "2021-01-05 20:03:39",
-      "video": "q6pE1P1jf6ic.mp4",
-      "image": "q6pE1P1jf6ic.png",
-      "location": "World War II Memorial, 1964, Independence Avenue Southwest, Washington, District of Columbia, 20227, United States",
-      "size": "42.8",
-      "duration": "144.7",
-      "tags": [],
-    },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        "-77.0404",
-        "38.8889",
-        0
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
       "id": "RRZBGyTSDKSP",
       "platform": "parler",
       "time": "2021-01-05 20:17:34",
@@ -1989,7 +1967,9 @@ export default [
       "location": "U.S. Department of Commerce, 1401, Constitution Avenue Northwest, Washington, District of Columbia, 20230, United States",
       "size": "25.1",
       "duration": "25.2",
-      "tags": [],
+      "tags": [
+        "vlog"
+      ],
     },
     "geometry": {
       "type": "Point",

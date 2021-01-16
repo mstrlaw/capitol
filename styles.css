@@ -13,48 +13,77 @@ body {
   height: 100vh;
 }
 
-#panel {
+.c-Panel {
   position: absolute;
   background: white;
   height: 98vh;
-  width: 30vw;
-  right: 1vw;
   top: 1vh;
   z-index: 1000;
+  overflow: hidden;
+  transition: transform .5s;
 }
 
-#closePanel {
+.c-Panel__right {
+  right: 1vw;
+  width: 30vw;
+  transform: translateX(35vw);
+}
+
+.c-Panel__left {
+  left: 1vw;
+  width: 20vw;
+  transform: translateX(-35vw);
+}
+
+.c-Panel__right.is-visible,
+.c-Panel__left.is-visible {
+  transform: translateX(0);
+  transition: transform .5s;
+}
+
+.c-Panel__leftToggle {
+  position: absolute;
+  background: white;
+  z-index: 1000;
+  top: 1vh;
+  left: 1vw;
+  padding: 8px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  border-radius: 2px;
+}
+
+.c-Panel__closePanel {
   color: black;
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
 }
 
-.c-Panel {
-  overflow: hidden;
-  transform: translateX(35vw);
-  transition: transform .5s;
-}
-
-.c-Panel.is-visible {
-  transform: translateX(0);
-  transition: transform .5s;
-}
-
 .c-Panel__header,
 .c-Panel__body {
   padding: 8px;
 }
+
 .c-Panel__header {
   display: flex;
   align-items: center;
   justify-content: flex-end;
   border-bottom: 1px solid var(--grayDark);
 }
+
 .c-Panel__body {
   position: relative;
   overflow: auto;
   height: calc(98vh - 18px);
+}
+
+.c-Panel__filter {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1em;
 }
 
 .c-Video {
