@@ -109,7 +109,12 @@ document.getElementById('expandAbout').addEventListener('click', e => {
 */
 const openPlayer = (mediaID) => {
   videoWrapper.classList.add('is-visible');
-  videoPlayer.setAttribute('src', `https://jan06.nyc3.digitaloceanspaces.com/${mediaID}.mp4`)
+  videoPlayer.innerHTML = '';
+  videoPlayer.innerHTML = `
+    <source src="https://jan06.nyc3.digitaloceanspaces.com/webm/${mediaID}.webm" type="video/webm">
+    <source src="https://jan06.nyc3.digitaloceanspaces.com/${mediaID}.mp4" type="video/mp4">
+  `
+  videoPlayer.load();
 }
 
 const closePlayer = () => {
