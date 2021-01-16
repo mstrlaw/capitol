@@ -3,6 +3,8 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta name="keywords" content="Capitol, Capitol Attack, US Capitol Assault, Capitol Videos, Parler Videos">
+    <meta name="description" content="Explore videos of the 2021 storming of the U.S. Capitol">
     <title>Capitol Assault</title>
     <link rel="stylesheet" type="text/css" href="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.css">
     <link rel="stylesheet" type="text/css" href="./styles.css">
@@ -15,7 +17,8 @@
       gtag('config', 'UA-187518887-1');
     </script>
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.0.0/mapbox-gl.js" type="text/javascript"></script>
-    <script src="./main.js" type="module"></script>
+    <!-- <script src="./main.js" type="module"></script> -->
+    <script src="http://localhost:5000/main.js" type="module"></script>
   </head>
   <body>
     <noscript>
@@ -31,9 +34,49 @@
       >
       </video>
     </div>
+    <!-- About panel -->
+    <div id="aboutPanel" class="c-About">
+      <h1 class="c-About__title">
+        Capitol
+      </h1>
+      <p class="c-About__description">
+        Explore the <a href="https://en.wikipedia.org/wiki/2021_storming_of_the_United_States_Capitol" target="_blank">2021 storming of the U.S. Capitol</a>
+      </p>
 
+      <a id="expandAbout" href="#">+ more</a>
+      <br>
+      <br>
+      <div class="c-About__content">
+        <h3>What's this?</h3>
+        <p class="c-About__description">
+          A <a href="https://github.com/mstrlaw/capitol" target="_blank">project</a> to collect and provide a dynamic way of viewing the events surrounding and leading to the 2021 storming of the U.S. Capitol.
+        </p>
+
+        <h3>How does it work?</h3>
+        <p class="c-About__description">
+          Navigate the map and click on clusters or individual markers to view the collected videos for that location.
+        </p>
+
+        <h3>Can I help?</h3>
+        <p class="c-About__description">
+          Yes! Help us pinpoint the geo location of the videos and tag their content.
+          <a href="https://github.com/mstrlaw/capitol" target="_blank">See here</a> how to do it.
+        </p>
+
+        <h3>Why doing this?</h3>
+        <p class="c-About__description">
+          These events represent an assault on democratic values in the U.S. and all around the world. This is our way of making sure this day where this agression happened is not forgotten.
+        </p>
+
+        <br>
+        <b>Disclaimer</b>
+        <br>
+        <small>All content on this website is provided "as is", without warranty or guarantees of any kind, express or implied. Location accuracy of the videos is not guaranteed. If you identify any individual, do not harass or dox them. If you have any tips, <a href="https://tips.fbi.gov/digitalmedia/aad18481a3e8f02" target="_blank">give them to the FBI</a>. This page uses Google Analytics for statistical purposes. <a href="https://github.com/mstrlaw/capitol" target="_blank">View project page</a></small>
+      </div>
+    </div>
+
+    <!-- Left panel -->
     <a id="leftPanelToggle" href="#" class="c-Panel__leftToggle">Filters</a>
-
     <div id="leftPanel" class="c-Panel c-Panel__left">
       <div class="c-Panel__header">
         <a id="closePanelLeft" href="#" class="c-Panel__closePanel">close</a>
@@ -75,9 +118,22 @@
           <input type="checkbox" id="trespassing" name="trespassing" value="trespassing">
           <label for="trespassing">trespassing</label>
         </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="trump" name="trump" value="trump">
+          <label for="trump">trump</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="roger-stone" name="roger-stone" value="roger-stone">
+          <label for="roger-stone">roger stone</label>
+        </div>
+        <div class="c-Panel__filter">
+          <input type="checkbox" id="alex-jones" name="alex-jones" value="alex-jones">
+          <label for="alex-jones">alex jones</label>
+        </div>
       </div>
     </div>
 
+    <!-- Right panel -->
     <div id="rightPanel" class="c-Panel c-Panel__right">
       <div class="c-Panel__header">
         <a id="closePanelRight" href="#" class="c-Panel__closePanel">close</a>

@@ -5,6 +5,7 @@ mapboxgl.accessToken = 'pk.eyJ1IjoibXN0cmxhdyIsImEiOiJja2p4ODQ2cW4wcHoyMndzZGdkZ
 const capitolPos = [ -77.01071398310138, 38.889831323686515 ];
 const rightPanel = document.getElementById('rightPanel');
 const leftPanel = document.getElementById('leftPanel');
+const aboutPanel = document.getElementById('aboutPanel');
 const panelBody = document.getElementById('panelBody');
 const videoWrapper = document.getElementById('videoWrapper');
 const videoPlayer = document.getElementById('videoPlayer');
@@ -86,6 +87,24 @@ document.getElementById('closePanelRight').addEventListener('click', e => {
 });
 
 /*
+  About panel
+*/
+const collapsePanel = () => {
+  document.getElementById('expandAbout').innerText = '+ more';
+  aboutPanel.classList.remove('is-expanded');
+}
+
+document.getElementById('expandAbout').addEventListener('click', e => {
+  e.preventDefault();
+  if (!aboutPanel.matches('.is-expanded')) {
+    e.target.innerText = '- less';
+    aboutPanel.classList.add('is-expanded');
+  } else {
+    collapsePanel();
+  }
+});
+
+/*
   Video triggers
 */
 const openPlayer = (mediaID) => {
@@ -132,8 +151,8 @@ const renderVideoList = (listItems) => {
     <div class="c-Video">
       <div class="c-Video__meta">
         <small><b>${props.id}</b></small>
-        <small class="c-Video__time">${props.time} | ${props.duration}s | ${tags}</small>
-        <small>${props.location}</small>
+        <small class="c-Video__time">${props.time} | ${props.duration}s</small>
+        <small>${props.description}</small>
       </div>
       <a href="#" data-trigger data-id="${props.id}">
         <img src="https://jan06.nyc3.digitaloceanspaces.com/${props.image}" alt="Image ${props.image}">
@@ -221,7 +240,6 @@ const clearMapData = () => {
   map.removeSource('videos');
 }
 
-// var marker = new mapboxgl.Marker().setLngLat([-77.010050750701, 38.88982349147157]).addTo(map);
 map.on('load', function () {
   // Add a new source from our GeoJSON data and
   // set the 'cluster' option to true. GL-JS will
@@ -231,6 +249,8 @@ map.on('load', function () {
 
   // inspect a cluster on click
   map.on('click', 'clusters', function (e) {
+    collapsePanel();
+
     let features = map.queryRenderedFeatures(e.point, {
       layers: ['clusters']
     });
@@ -273,6 +293,7 @@ map.on('load', function () {
   // Handle individual marker click
   map.on('click', 'unclustered-point', function (e) {
     var coordinates = e.features[0].geometry.coordinates.slice();
+    collapsePanel();
     map.flyTo({
       center: coordinates
     });

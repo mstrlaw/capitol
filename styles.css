@@ -8,9 +8,59 @@ body {
   font-family: 'Courier New', monospace;
 }
 
+body {
+  max-width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
 #map {
   width: 100%;
   height: 100vh;
+}
+
+.c-About {
+  position: absolute;
+  background: white;
+  height: 100px;
+  max-width: 23vw;
+  top: 1vh;
+  right: 1vw;
+  padding: .5em;
+  z-index: 950;
+  overflow: hidden;
+  transition: all .5s;
+}
+
+.c-About.is-expanded {
+  max-width: 25vw;
+  height: 96vh;
+  max-width: 23vw;
+  transition: all .5s;
+}
+
+.c-About__title {
+  font-size: 1.5em;
+  margin: 0 0 .2em 0;
+}
+
+.c-About h3{
+  margin: 0 0 .5em 0;
+}
+
+.c-About__content {
+  height: calc(98vh - 18px);
+  overflow: auto;
+}
+.c-About__content small {
+  font-size: .7em;
+}
+
+.c-About__description {
+  margin: 0 0 .5em 0;
+}
+.c-About__description a {
+  color: black;
 }
 
 .c-Panel {
@@ -18,21 +68,22 @@ body {
   background: white;
   height: 98vh;
   top: 1vh;
-  z-index: 1000;
   overflow: hidden;
   transition: transform .5s;
 }
 
 .c-Panel__right {
   right: 1vw;
-  width: 30vw;
+  width: 25vw;
   transform: translateX(35vw);
+  z-index: 1000;
 }
 
 .c-Panel__left {
   left: 1vw;
   width: 20vw;
   transform: translateX(-35vw);
+  z-index: 900;
 }
 
 .c-Panel__right.is-visible,
@@ -106,7 +157,7 @@ body {
   display: none;
   align-items: center;
   justify-content: center;
-  width: 68vw;
+  width: 73vw;
   height: 98vh;
   top: 1vh;
   left: 1vw;
