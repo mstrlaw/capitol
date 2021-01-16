@@ -71,7 +71,7 @@ const renderVideoList = (listItems) => {
         <small>${props.location}</small>
       </div>
       <a href="#" data-trigger data-id="${props.id}">
-        <img src="https://www.tommycarstensen.com/terrorism/${props.image}" alt="">
+        <img src="https://jan06.nyc3.digitaloceanspaces.com/${props.image}" alt="Image ${props.image}">
       </a>
     </div>
     `
@@ -86,16 +86,12 @@ const map = new mapboxgl.Map({
   zoom: 13,
 });
 
-// var marker = new mapboxgl.Marker().setLngLat([-77.010050750701, 38.88982349147157]).addTo(map);
-map.on('load', function () {
-  // Add a new source from our GeoJSON data and
-  // set the 'cluster' option to true. GL-JS will
-  // add the point_count property to your source data.
+const drawMapData = (data) => {
   map.addSource('videos', {
     type: 'geojson',
     data: {
       type: 'FeatureCollection',
-      features: datapoints,
+      features: data,
     },
     cluster: true,
     clusterMaxZoom: 17, // Max zoom to cluster points on
@@ -158,6 +154,22 @@ map.on('load', function () {
       'circle-stroke-color': '#fff'
     }
   });
+}
+
+const clearMapData = () => {
+  map.removeLayer('clusters');
+  map.removeLayer('cluster-count');
+  map.removeLayer('unclustered-point');
+  map.removeSource('videos');
+}
+
+// var marker = new mapboxgl.Marker().setLngLat([-77.010050750701, 38.88982349147157]).addTo(map);
+map.on('load', function () {
+  // Add a new source from our GeoJSON data and
+  // set the 'cluster' option to true. GL-JS will
+  // add the point_count property to your source data.
+
+  drawMapData(datapoints);
 
   // inspect a cluster on click
   map.on('click', 'clusters', function (e) {
