@@ -185,3 +185,29 @@ body {
   padding: 4px;
   z-index: 10;
 }
+
+/* Phone: iPhone Max Pro */
+@media only screen and (max-width: 428px) { 
+  .c-Panel__left {
+    width: 50vw;
+    transform: translateX(-55vw);
+  }
+
+  .c-About {
+    height: 100px;
+    max-width: 110px;
+    z-index: 1001;
+  }
+
+  .c-About__description {
+    font-size: 0.7em;
+  }
+
+  .c-About.is-expanded {
+    max-width: 94vw;
+  }
+
+  .c-About.is-expanded .c-About__description {
+    font-size: 1em;
+  }
+}
