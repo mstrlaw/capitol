@@ -272,7 +272,7 @@ map.on('load', function () {
     clusterSource.getClusterLeaves(clusterId, point_count, 0, function(err, aFeatures){
 
       // Only list videos for smaller clusters
-      if (aFeatures.length <= 50) {
+      if (aFeatures.length <= 150) {
         deactivateVideoTriggers();
         rightPanel.classList.add('is-visible');
         renderVideoList(aFeatures);
