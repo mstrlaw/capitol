@@ -111,8 +111,8 @@ const openPlayer = (mediaID) => {
   videoWrapper.classList.add('is-visible');
   videoPlayer.innerHTML = '';
   videoPlayer.innerHTML = `
-    <source src="https://jan06.nyc3.digitaloceanspaces.com/webm/${mediaID}.webm" type="video/webm">
-    <source src="https://jan06.nyc3.digitaloceanspaces.com/${mediaID}.mp4" type="video/mp4">
+    <source src="https://jan06.nyc3.cdn.digitaloceanspaces.com/webm/${mediaID}.webm" type="video/webm">
+    <source src="https://jan06.nyc3.cdn.digitaloceanspaces.com/${mediaID}.mp4" type="video/mp4">
   `
   videoPlayer.load();
 }
@@ -160,7 +160,7 @@ const renderVideoList = (listItems) => {
         <small>${props.description}</small>
       </div>
       <a href="#" data-trigger data-id="${props.id}">
-        <img src="https://jan06.nyc3.digitaloceanspaces.com/${props.image}" alt="Image ${props.image}">
+        <img src="https://jan06.nyc3.cdn.digitaloceanspaces.com/${props.image}" alt="Image ${props.image}">
       </a>
     </div>
     `
