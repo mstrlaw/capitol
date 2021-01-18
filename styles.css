@@ -210,4 +210,32 @@ body {
   .c-About.is-expanded .c-About__description {
     font-size: 1em;
   }
+
+  .c-Panel__right {
+    width: 98vw;
+    transform: translateX(100vw);
+    z-index: 1002;
+  }
+  
+  .c-Panel__right .c-Video {
+    display: flex;
+  }
+
+  .c-Video__meta {
+    order: 2;
+    padding-left: 15px;
+  }
+
+  .c-Panel__right .c-Video img {
+    max-width: 25vw;
+  }
+
+  .c-Player {
+    z-index: 2000;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background: rgba(0, 0, 0, .9);
+  }
 }
