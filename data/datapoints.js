@@ -17769,7 +17769,7 @@ export default [
     "properties": {
       "id": "947323390369",
       "platform": "twitter",
-      "time": "2021:01:06 21:47:04+00:00",
+      "time": "2021-01-06 21:47:04",
       "video": "947323390369.mp4",
       "image": "947323390369.png",
       "description": "(1) Status Coup on Twitter_ _Trump supporters at #StopTheSteal brawl with police after breaking down barriers and storming toward the Capitol, leaving blood on the ground. Police finally deploy pepper bullets, leadin.mp4",
@@ -17792,7 +17792,7 @@ export default [
     "properties": {
       "id": "912245633556",
       "platform": "twitter",
-      "time": "2021:01:06 21:46:30+00:00",
+      "time": "2021-01-06 21:46:30",
       "video": "912245633556.mp4",
       "image": "912245633556.png",
       "description": "(1) Status Coup on Twitter_ _Watch the stream live, on our YouTube channel where @JonFarinaPhoto is filming and reporting_ https___t.co_F2YRpUPMBB_ _ Twitter.mp4",
@@ -17815,7 +17815,7 @@ export default [
     "properties": {
       "id": "112230400181",
       "platform": "twitter",
-      "time": "2021:01:06 20:24:12+00:00",
+      "time": "2021-01-06 20:24:12",
       "video": "112230400181.mp4",
       "image": "112230400181.png",
       "description": "0KI66xJzRlN70sxF.mp4",
@@ -17838,7 +17838,7 @@ export default [
     "properties": {
       "id": "273203471219",
       "platform": "twitter",
-      "time": "2021:01:06 20:14:22+00:00",
+      "time": "2021-01-06 20:14:22",
       "video": "273203471219.mp4",
       "image": "273203471219.png",
       "description": "8i1Ldx0btddZqJ8J.mp4",
@@ -17861,7 +17861,7 @@ export default [
     "properties": {
       "id": "115731639354",
       "platform": "twitter",
-      "time": "2021:01:09 16:35:02+00:00",
+      "time": "2021-01-09 16:35:02",
       "video": "115731639354.mp4",
       "image": "115731639354.png",
       "description": "A coon hunting buddy of mine that was there yesterday .mp4",
@@ -17884,7 +17884,7 @@ export default [
     "properties": {
       "id": "091667972086",
       "platform": "twitter",
-      "time": "2021:01:08 19:28:08+00:00",
+      "time": "2021-01-08 19:28:08",
       "video": "091667972086.mp4",
       "image": "091667972086.png",
       "description": "A little bit earlier in dc at the capitolbreach as people climbed thru the smashed window.mp4",
@@ -17907,7 +17907,7 @@ export default [
     "properties": {
       "id": "812279212301",
       "platform": "twitter",
-      "time": "2021:01:08 19:16:04+00:00",
+      "time": "2021-01-08 19:16:04",
       "video": "812279212301.mp4",
       "image": "812279212301.png",
       "description": "An officer quakes in fear as the crowd rushes past, pushing officers against the wall inside the U.S. Capitol Building -- via.mp4",
@@ -17930,7 +17930,7 @@ export default [
     "properties": {
       "id": "127438254825",
       "platform": "twitter",
-      "time": "2021:01:06 22:39:14+00:00",
+      "time": "2021-01-06 22:39:14",
       "video": "127438254825.mp4",
       "image": "127438254825.png",
       "description": "BREAKING Trump Supporters Break Glass windows at Capitol, trying to storm in. - - Building.mp4",
@@ -17953,7 +17953,7 @@ export default [
     "properties": {
       "id": "624800887588",
       "platform": "twitter",
-      "time": "2021:01:06 23:17:26+00:00",
+      "time": "2021-01-06 23:17:26",
       "video": "624800887588.mp4",
       "image": "624800887588.png",
       "description": "Elizabeth was not ready for the revolution.mp4",
@@ -17976,7 +17976,7 @@ export default [
     "properties": {
       "id": "114760368887",
       "platform": "twitter",
-      "time": "2021:01:06 19:28:50+00:00",
+      "time": "2021-01-06 19:28:50",
       "video": "114760368887.mp4",
       "image": "114760368887.png",
       "description": "Ok8JwHyZ0k38Jr6l.mp4",
@@ -17999,7 +17999,7 @@ export default [
     "properties": {
       "id": "883836717540",
       "platform": "twitter",
-      "time": "2021:01:06 21:32:34+00:00",
+      "time": "2021-01-06 21:32:34",
       "video": "883836717540.mp4",
       "image": "883836717540.png",
       "description": "Police attempt to block a door into the Capitol as Trump supporters close in from both sid.mp4",
@@ -18022,7 +18022,7 @@ export default [
     "properties": {
       "id": "314846923431",
       "platform": "twitter",
-      "time": "2021:01:08 19:29:16+00:00",
+      "time": "2021-01-08 19:29:16",
       "video": "314846923431.mp4",
       "image": "314846923431.png",
       "description": "Police have regained control over the area occupied by patriots earlier dc.mp4",
@@ -18045,7 +18045,7 @@ export default [
     "properties": {
       "id": "087716930829",
       "platform": "twitter",
-      "time": "2021:01:06 20:47:44+00:00",
+      "time": "2021-01-06 20:47:44",
       "video": "087716930829.mp4",
       "image": "087716930829.png",
       "description": "RMXHhWTQrlr7eAqV.mp4",
@@ -18068,7 +18068,7 @@ export default [
     "properties": {
       "id": "307432394000",
       "platform": "twitter",
-      "time": "2021:01:06 20:33:10+00:00",
+      "time": "2021-01-06 20:33:10",
       "video": "307432394000.mp4",
       "image": "307432394000.png",
       "description": "S88uWmFFCKUb3fzg.mp4",
@@ -18091,7 +18091,7 @@ export default [
     "properties": {
       "id": "405493275751",
       "platform": "twitter",
-      "time": "2021:01:06 21:35:12+00:00",
+      "time": "2021-01-06 21:35:12",
       "video": "405493275751.mp4",
       "image": "405493275751.png",
       "description": "Smoke pouring out of area by House chamber.mp4",
@@ -18114,7 +18114,7 @@ export default [
     "properties": {
       "id": "492703942484",
       "platform": "twitter",
-      "time": "2021:01:06 22:49:54+00:00",
+      "time": "2021-01-06 22:49:54",
       "video": "492703942484.mp4",
       "image": "492703942484.png",
       "description": "Standoff from earlier..mp4",
@@ -18137,7 +18137,7 @@ export default [
     "properties": {
       "id": "123646417062",
       "platform": "twitter",
-      "time": "2021:01:08 19:15:34+00:00",
+      "time": "2021-01-08 19:15:34",
       "video": "123646417062.mp4",
       "image": "123646417062.png",
       "description": "This guy told me he and others broke into Nancy Pelosi’s office inside Congress just now. -- via.mp4",
@@ -18160,7 +18160,7 @@ export default [
     "properties": {
       "id": "569284622137",
       "platform": "twitter",
-      "time": "2021:01:08 19:59:12+00:00",
+      "time": "2021-01-08 19:59:12",
       "video": "569284622137.mp4",
       "image": "569284622137.png",
       "description": "Trump Supporters Storm The Capitol In Washington DC.mp4",
@@ -18183,7 +18183,7 @@ export default [
     "properties": {
       "id": "386751360443",
       "platform": "twitter",
-      "time": "2021:01:06 21:34:52+00:00",
+      "time": "2021-01-06 21:34:52",
       "video": "386751360443.mp4",
       "image": "386751360443.png",
       "description": "Trump Supporters are scaling walls in an attempt to take over the capital.mp4",
@@ -18206,7 +18206,7 @@ export default [
     "properties": {
       "id": "602381348676",
       "platform": "twitter",
-      "time": "2021:01:06 21:34:48+00:00",
+      "time": "2021-01-06 21:34:48",
       "video": "602381348676.mp4",
       "image": "602381348676.png",
       "description": "Trump supporters storm the Capitol in DC as hundreds enter the building DC January6 Januar.mp4",
@@ -18229,7 +18229,7 @@ export default [
     "properties": {
       "id": "061895277567",
       "platform": "twitter",
-      "time": "2021:01:06 20:20:08+00:00",
+      "time": "2021-01-06 20:20:08",
       "video": "061895277567.mp4",
       "image": "061895277567.png",
       "description": "Vc-0JIELYwuXour6.mp4",
@@ -18252,7 +18252,7 @@ export default [
     "properties": {
       "id": "949552159402",
       "platform": "twitter",
-      "time": "2021:01:06 20:24:42+00:00",
+      "time": "2021-01-06 20:24:42",
       "video": "949552159402.mp4",
       "image": "949552159402.png",
       "description": "Vco5HfSTWlWtf0vk.mp4",
@@ -18275,7 +18275,7 @@ export default [
     "properties": {
       "id": "058562609027",
       "platform": "twitter",
-      "time": "2021:01:06 22:32:38+00:00",
+      "time": "2021-01-06 22:32:38",
       "video": "058562609027.mp4",
       "image": "058562609027.png",
       "description": "WATCH The U.S. Capitol remains on lockdown after protestors entered the building.mp4",
@@ -18298,7 +18298,7 @@ export default [
     "properties": {
       "id": "135208005728",
       "platform": "twitter",
-      "time": "2021:01:06 18:58:24+00:00",
+      "time": "2021-01-06 18:58:24",
       "video": "135208005728.mp4",
       "image": "135208005728.png",
       "description": "XQx3K1jkkNk6GRS7.mp4",
@@ -18321,7 +18321,7 @@ export default [
     "properties": {
       "id": "950687056740",
       "platform": "twitter",
-      "time": "2021:01:06 20:47:20+00:00",
+      "time": "2021-01-06 20:47:20",
       "video": "950687056740.mp4",
       "image": "950687056740.png",
       "description": "XfQvh_WjBzNRPAeG.mp4",
@@ -18344,7 +18344,7 @@ export default [
     "properties": {
       "id": "479664253800",
       "platform": "twitter",
-      "time": "2021:01:06 20:26:48+00:00",
+      "time": "2021-01-06 20:26:48",
       "video": "479664253800.mp4",
       "image": "479664253800.png",
       "description": "ZSZAoJy5vQ05GUXB.mp4",
@@ -18367,7 +18367,7 @@ export default [
     "properties": {
       "id": "956062147902",
       "platform": "twitter",
-      "time": "2021:01:06 20:37:50+00:00",
+      "time": "2021-01-06 20:37:50",
       "video": "956062147902.mp4",
       "image": "956062147902.png",
       "description": "ZZxsdyJ6r4qs8oFZ.mp4",
@@ -18390,7 +18390,7 @@ export default [
     "properties": {
       "id": "781898313972",
       "platform": "twitter",
-      "time": "2021:01:06 19:30:20+00:00",
+      "time": "2021-01-06 19:30:20",
       "video": "781898313972.mp4",
       "image": "781898313972.png",
       "description": " Aaron Rupar - Surreal-1346902499178016773.mp4",
@@ -18413,7 +18413,7 @@ export default [
     "properties": {
       "id": "445985332850",
       "platform": "twitter",
-      "time": "2021:01:06 19:40:36+00:00",
+      "time": "2021-01-06 19:40:36",
       "video": "445985332850.mp4",
       "image": "445985332850.png",
       "description": " Alejandro Alvarez - Dozens have forced their way to the top. More coming up the steps. Police are trying to bolster-1346905858031181829.mp4",
@@ -18436,7 +18436,7 @@ export default [
     "properties": {
       "id": "809681047995",
       "platform": "twitter",
-      "time": "2021:01:06 19:17:14+00:00",
+      "time": "2021-01-06 19:17:14",
       "video": "809681047995.mp4",
       "image": "809681047995.png",
       "description": " Andrew Feinberg - It took 159 years, but a mob marching behind a confederate flag has stormed the US-1346899955097726985.mp4",
@@ -18459,7 +18459,7 @@ export default [
     "properties": {
       "id": "622068354485",
       "platform": "twitter",
-      "time": "2021:01:06 21:55:22+00:00",
+      "time": "2021-01-06 21:55:22",
       "video": "622068354485.mp4",
       "image": "622068354485.png",
       "description": " Anonymous 👥 - Trump loyalists attacking media and destroying their equipment. U.S. President Trump l-1346941191015727106.mp4",
@@ -18482,7 +18482,7 @@ export default [
     "properties": {
       "id": "621281175215",
       "platform": "twitter",
-      "time": "2021:01:10 22:22:08+00:00",
+      "time": "2021-01-10 22:22:08",
       "video": "621281175215.mp4",
       "image": "621281175215.png",
       "description": " B3MCNJ3.mp4",
@@ -18505,7 +18505,7 @@ export default [
     "properties": {
       "id": "266058596835",
       "platform": "twitter",
-      "time": "2021:01:06 19:24:28+00:00",
+      "time": "2021-01-06 19:24:28",
       "video": "266058596835.mp4",
       "image": "266058596835.png",
       "description": " BNO News - BREAKING - Clashes reported inside the U.S. Capitol building-1346902451950071817.mp4",
@@ -18528,7 +18528,7 @@ export default [
     "properties": {
       "id": "004754337221",
       "platform": "twitter",
-      "time": "2021:01:06 22:16:22+00:00",
+      "time": "2021-01-06 22:16:22",
       "video": "004754337221.mp4",
       "image": "004754337221.png",
       "description": " Brendan Gutenschwager - 5 pm at the U.S. Capitol Building, with crowds of Trump supporters still out-1346944707306336258.mp4",
@@ -18551,7 +18551,7 @@ export default [
     "properties": {
       "id": "216783428028",
       "platform": "twitter",
-      "time": "2021:01:06 02:27:06+00:00",
+      "time": "2021-01-06 02:27:06",
       "video": "216783428028.mp4",
       "image": "216783428028.png",
       "description": " Brendan Gutenschwager - A group of Trump supporters is currently on the march to BLM Plaza #DC #Wash-1346644973031194626.mp4",
@@ -18574,7 +18574,7 @@ export default [
     "properties": {
       "id": "642741678366",
       "platform": "twitter",
-      "time": "2021:01:06 22:40:30+00:00",
+      "time": "2021-01-06 22:40:30",
       "video": "642741678366.mp4",
       "image": "642741678366.png",
       "description": " Brendan Gutenschwager - Crowds are dispersing after large amounts of teargas were deployed in front -1346950616829067270.mp4",
@@ -18597,7 +18597,7 @@ export default [
     "properties": {
       "id": "069586683702",
       "platform": "twitter",
-      "time": "2021:01:05 19:45:02+00:00",
+      "time": "2021-01-05 19:45:02",
       "video": "069586683702.mp4",
       "image": "069586683702.png",
       "description": " Brendan Gutenschwager - DC Fire and EMS put out the flames of a car that caught fire on 9th Street. -1346543801901477889.mp4",
@@ -18620,7 +18620,7 @@ export default [
     "properties": {
       "id": "520228017683",
       "platform": "twitter",
-      "time": "2021:01:06 22:33:28+00:00",
+      "time": "2021-01-06 22:33:28",
       "video": "520228017683.mp4",
       "image": "520228017683.png",
       "description": " Brendan Gutenschwager - Police fire teargas out of the U.S. Capitol Building as they try to control -1346948856005545984.mp4",
@@ -18643,7 +18643,7 @@ export default [
     "properties": {
       "id": "937953212496",
       "platform": "twitter",
-      "time": "2020:12:13 04:21:18+00:00",
+      "time": "2020:12:13 04:21:18",
       "video": "937953212496.mp4",
       "image": "937953212496.png",
       "description": " Brendan Gutenschwager - Proud Boys and Antifa_Black Lives Matter protesters continue to face off acr-1337976422212702210.mp4",
@@ -18666,7 +18666,7 @@ export default [
     "properties": {
       "id": "705022139327",
       "platform": "twitter",
-      "time": "2021:01:06 19:16:56+00:00",
+      "time": "2021-01-06 19:16:56",
       "video": "705022139327.mp4",
       "image": "705022139327.png",
       "description": " Brendan Gutenschwager - Riots outside the Capitol Building as Trump supporters rush to try to enter -1346899257694019585.mp4",
@@ -18689,7 +18689,7 @@ export default [
     "properties": {
       "id": "858993797249",
       "platform": "twitter",
-      "time": "2021:01:05 20:57:42+00:00",
+      "time": "2021-01-05 20:57:42",
       "video": "858993797249.mp4",
       "image": "858993797249.png",
       "description": " Brendan Gutenschwager - Setup is underway for tomorrow’s ‘Save America March’ at The Ellipse just ou-1346562075049525248.mp4",
@@ -18712,7 +18712,7 @@ export default [
     "properties": {
       "id": "414488927719",
       "platform": "twitter",
-      "time": "2020:12:13 04:55:06+00:00",
+      "time": "2020:12:13 04:55:06",
       "video": "414488927719.mp4",
       "image": "414488927719.png",
       "description": " Brendan Gutenschwager - Shortly before midnight and many are dispersing now from the blocks surround-1337984902898348032.mp4",
@@ -18735,7 +18735,7 @@ export default [
     "properties": {
       "id": "649612091700",
       "platform": "twitter",
-      "time": "2020:12:13 03:55:28+00:00",
+      "time": "2020:12:13 03:55:28",
       "video": "649612091700.mp4",
       "image": "649612091700.png",
       "description": " Brendan Gutenschwager - Smashing the Black Lives Matter boards on the streets of DC tonight as the M-1337969911432425472.mp4",
@@ -18758,7 +18758,7 @@ export default [
     "properties": {
       "id": "534771431277",
       "platform": "twitter",
-      "time": "2020:12:13 16:35:34+00:00",
+      "time": "2020:12:13 16:35:34",
       "video": "534771431277.mp4",
       "image": "534771431277.png",
       "description": " Brendan Gutenschwager - Some of the Trump supporters remaining in town are holding a “Keep Christmas-1338161212006215683.mp4",
@@ -18781,7 +18781,7 @@ export default [
     "properties": {
       "id": "786542480907",
       "platform": "twitter",
-      "time": "2021:01:06 04:50:46+00:00",
+      "time": "2021-01-06 04:50:46",
       "video": "786542480907.mp4",
       "image": "786542480907.png",
       "description": " Brendan Gutenschwager - Speeches in the Plaza as the crowd of about 100 Trump supporters remains out-1346681120054796288.mp4",
@@ -18804,7 +18804,7 @@ export default [
     "properties": {
       "id": "242327894249",
       "platform": "twitter",
-      "time": "2021:01:06 15:13:58+00:00",
+      "time": "2021-01-06 15:13:58",
       "video": "242327894249.mp4",
       "image": "242327894249.png",
       "description": " Brendan Gutenschwager - Tens of thousands of Trump supporters are out in DC this morning, packing Th-1346837967172734977.mp4",
@@ -18827,7 +18827,7 @@ export default [
     "properties": {
       "id": "214577331982",
       "platform": "twitter",
-      "time": "2021:01:06 16:14:50+00:00",
+      "time": "2021-01-06 16:14:50",
       "video": "214577331982.mp4",
       "image": "214577331982.png",
       "description": " Brendan Gutenschwager - The Chinese American Alliance for Trump is out at today’s rally, holding up -1346853437590425601.mp4",
@@ -18850,7 +18850,7 @@ export default [
     "properties": {
       "id": "638170581407",
       "platform": "twitter",
-      "time": "2021:01:01 21:40:48+00:00",
+      "time": "2021-01-01 21:40:48",
       "video": "638170581407.mp4",
       "image": "638170581407.png",
       "description": " Brendan Gutenschwager - The Proud Boys and militia groups are also out for today’s protest at the Or-1345123357830774786.mp4",
@@ -18873,7 +18873,7 @@ export default [
     "properties": {
       "id": "913830779104",
       "platform": "twitter",
-      "time": "2020:12:13 04:04:48+00:00",
+      "time": "2020:12:13 04:04:48",
       "video": "913830779104.mp4",
       "image": "913830779104.png",
       "description": " Brendan Gutenschwager - The Proud Boys take a knee next to the police line at BLM Plaza to pay respe-1337972250734157828.mp4",
@@ -18896,7 +18896,7 @@ export default [
     "properties": {
       "id": "241018606488",
       "platform": "twitter",
-      "time": "2021:01:06 16:58:54+00:00",
+      "time": "2021-01-06 16:58:54",
       "video": "241018606488.mp4",
       "image": "241018606488.png",
       "description": " Brendan Gutenschwager - The crowd cheers as President Trump takes the stage here in Washington D.C. -1346864398837702656.mp4",
@@ -18919,7 +18919,7 @@ export default [
     "properties": {
       "id": "168668094036",
       "platform": "twitter",
-      "time": "2021:01:06 20:41:04+00:00",
+      "time": "2021-01-06 20:41:04",
       "video": "168668094036.mp4",
       "image": "168668094036.png",
       "description": " Brendan Gutenschwager - The crowd enters the Capitol Rotunda after police stand down while the build-1346920484009611264.mp4",
@@ -18942,7 +18942,7 @@ export default [
     "properties": {
       "id": "030350366429",
       "platform": "twitter",
-      "time": "2021:01:06 22:51:06+00:00",
+      "time": "2021-01-06 22:51:06",
       "video": "030350366429.mp4",
       "image": "030350366429.png",
       "description": " Brendan Gutenschwager - The crowd is pushed further back as police secure the U.S. Capitol and lawn -1346953117267582977.mp4",
@@ -18965,7 +18965,7 @@ export default [
     "properties": {
       "id": "448910865856",
       "platform": "twitter",
-      "time": "2021:01:07 22:53:28+00:00",
+      "time": "2021-01-07 22:53:28",
       "video": "448910865856.mp4",
       "image": "448910865856.png",
       "description": " Brendan Gutenschwager - The group of Trump supporters sings the National Anthem at the Lincoln Memor-1347316020101443584.mp4",
@@ -18988,7 +18988,7 @@ export default [
     "properties": {
       "id": "290229294792",
       "platform": "twitter",
-      "time": "2021:01:06 16:23:20+00:00",
+      "time": "2021-01-06 16:23:20",
       "video": "290229294792.mp4",
       "image": "290229294792.png",
       "description": " Brendan Gutenschwager - The overflow crowd on the National Mall continues to grow as rallygoers awai-1346855548160008192.mp4",
@@ -19011,7 +19011,7 @@ export default [
     "properties": {
       "id": "709983823311",
       "platform": "twitter",
-      "time": "2021:01:06 15:05:30+00:00",
+      "time": "2021-01-06 15:05:30",
       "video": "709983823311.mp4",
       "image": "709983823311.png",
       "description": " Brendan Gutenschwager - Trump supporters march towards Constitution Avenue to enter today’s ‘Save Am-1346835831349194752.mp4",
@@ -19034,7 +19034,7 @@ export default [
     "properties": {
       "id": "926964241088",
       "platform": "twitter",
-      "time": "2021:01:07 23:02:56+00:00",
+      "time": "2021-01-07 23:02:56",
       "video": "926964241088.mp4",
       "image": "926964241088.png",
       "description": " Brendan Gutenschwager - “America first!” chants from the group of Trump supporters who held a short -1347318407448956928.mp4",
@@ -19057,7 +19057,7 @@ export default [
     "properties": {
       "id": "904320078922",
       "platform": "twitter",
-      "time": "2020:12:19 23:21:48+00:00",
+      "time": "2020:12:19 23:21:48",
       "video": "904320078922.mp4",
       "image": "904320078922.png",
       "description": " Brendan Gutenschwager - “Antifa just crossed 15th” Police inform each other over the radios as an of-1340437734955991040.mp4",
@@ -19080,7 +19080,7 @@ export default [
     "properties": {
       "id": "194399456701",
       "platform": "twitter",
-      "time": "2020:12:23 22:53:34+00:00",
+      "time": "2020:12:23 22:53:34",
       "video": "194399456701.mp4",
       "image": "194399456701.png",
       "description": " Brendan Gutenschwager - “Arm the Proletariat!” A few armed counter-protesters have now arrived here -1341880191262601217.mp4",
@@ -19103,7 +19103,7 @@ export default [
     "properties": {
       "id": "555809060897",
       "platform": "twitter",
-      "time": "2020:12:24 00:58:12+00:00",
+      "time": "2020:12:24 00:58:12",
       "video": "555809060897.mp4",
       "image": "555809060897.png",
       "description": " Brendan Gutenschwager - “Do your job!” Police officers are chastised by the Trump supporters as they-1341911574563446789.mp4",
@@ -19126,7 +19126,7 @@ export default [
     "properties": {
       "id": "169166669223",
       "platform": "twitter",
-      "time": "2021:01:06 02:29:48+00:00",
+      "time": "2021-01-06 02:29:48",
       "video": "169166669223.mp4",
       "image": "169166669223.png",
       "description": " Brendan Gutenschwager - “F_ Antifa!” chants as the crowd of Proud Boys and Trump supporters mobilize-1346645650147049476.mp4",
@@ -19149,7 +19149,7 @@ export default [
     "properties": {
       "id": "836158495648",
       "platform": "twitter",
-      "time": "2021:01:06 17:11:20+00:00",
+      "time": "2021-01-06 17:11:20",
       "video": "836158495648.mp4",
       "image": "836158495648.png",
       "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the crowd as the President speaks at the Save-1346867511762018305.mp4",
@@ -19172,7 +19172,7 @@ export default [
     "properties": {
       "id": "557054390584",
       "platform": "twitter",
-      "time": "2021:01:07 22:15:28+00:00",
+      "time": "2021-01-07 22:15:28",
       "video": "557054390584.mp4",
       "image": "557054390584.png",
       "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the group of a few dozen supporters at the Li-1347306410867126273.mp4",
@@ -19195,7 +19195,7 @@ export default [
     "properties": {
       "id": "027587769625",
       "platform": "twitter",
-      "time": "2021:01:04 20:53:32+00:00",
+      "time": "2021-01-04 20:53:32",
       "video": "027587769625.mp4",
       "image": "027587769625.png",
       "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the rally line before heading into the venue -1346199938666024961.mp4",
@@ -19218,7 +19218,7 @@ export default [
     "properties": {
       "id": "692831359512",
       "platform": "twitter",
-      "time": "2020:12:14 20:57:58+00:00",
+      "time": "2020:12:14 20:57:58",
       "video": "692831359512.mp4",
       "image": "692831359512.png",
       "description": " Brendan Gutenschwager - “I am telling you that they’re not going to be allowed into the Capitol” A l-1338589744050135054.mp4",
@@ -19241,7 +19241,7 @@ export default [
     "properties": {
       "id": "608608321103",
       "platform": "twitter",
-      "time": "2021:01:06 21:28:18+00:00",
+      "time": "2021-01-06 21:28:18",
       "video": "608608321103.mp4",
       "image": "608608321103.png",
       "description": " Brendan Gutenschwager - “Stop the Steal!” chants as the Trump supporters push through the Capitol Bu-1346932169244078080.mp4",
@@ -19264,7 +19264,7 @@ export default [
     "properties": {
       "id": "527783044002",
       "platform": "twitter",
-      "time": "2021:01:06 17:17:58+00:00",
+      "time": "2021-01-06 17:17:58",
       "video": "527783044002.mp4",
       "image": "527783044002.png",
       "description": " Brendan Gutenschwager - “We’re gonna walk down to the Capitol” Trump prepares the crowd for the next-1346869176758128643.mp4",
@@ -19287,7 +19287,7 @@ export default [
     "properties": {
       "id": "239679353828",
       "platform": "twitter",
-      "time": "2021:01:07 22:41:02+00:00",
+      "time": "2021-01-07 22:41:02",
       "video": "239679353828.mp4",
       "image": "239679353828.png",
       "description": " Brendan Gutenschwager - “When Trump asks, you come back.” A man says as the group rallies on the ste-1347312902076829705.mp4",
@@ -19310,7 +19310,7 @@ export default [
     "properties": {
       "id": "448024702996",
       "platform": "twitter",
-      "time": "2021:01:06 04:22:56+00:00",
+      "time": "2021-01-06 04:22:56",
       "video": "448024702996.mp4",
       "image": "448024702996.png",
       "description": " Brendan Gutenschwager - “Whose house Our house!” chants from the Trump supporters in downtown DC ton-1346674148311969793.mp4",
@@ -19333,7 +19333,7 @@ export default [
     "properties": {
       "id": "443446033474",
       "platform": "twitter",
-      "time": "2021:01:06 22:21:48+00:00",
+      "time": "2021-01-06 22:21:48",
       "video": "443446033474.mp4",
       "image": "443446033474.png",
       "description": " Christal Hayes - Outside the Capitol, pro-Trump protesters are smashing cameras and other media equi-1346945835368501249.mp4",
@@ -19356,7 +19356,7 @@ export default [
     "properties": {
       "id": "014320650611",
       "platform": "twitter",
-      "time": "2021:01:06 19:14:28+00:00",
+      "time": "2021-01-06 19:14:28",
       "video": "014320650611.mp4",
       "image": "014320650611.png",
       "description": " Disclose.tv 🚨 - JUST IN - Protesters have stormed the U.S Capitol, climbing floors inside.-1346900121515139081.mp4",
@@ -19379,7 +19379,7 @@ export default [
     "properties": {
       "id": "681685851379",
       "platform": "twitter",
-      "time": "2021:01:06 18:08:14+00:00",
+      "time": "2021-01-06 18:08:14",
       "video": "681685851379.mp4",
       "image": "681685851379.png",
       "description": " ELIJAH SCHAFFER - BREAKING - Trump supporters have breached the Capitol building, tearing down 4 lay-1346881968819105792.mp4",
@@ -19402,7 +19402,7 @@ export default [
     "properties": {
       "id": "903580907084",
       "platform": "twitter",
-      "time": "2021:01:06 14:05:56+00:00",
+      "time": "2021-01-06 14:05:56",
       "video": "903580907084.mp4",
       "image": "903580907084.png",
       "description": " Ford Fischer - #MAGA activists begin to assemble on east side of the Capitol. About to begin a live -1346820846753619972.mp4",
@@ -19425,7 +19425,7 @@ export default [
     "properties": {
       "id": "080650582173",
       "platform": "twitter",
-      "time": "2021:01:07 01:28:48+00:00",
+      "time": "2021-01-07 01:28:48",
       "video": "080650582173.mp4",
       "image": "080650582173.png",
       "description": " Ford Fischer - A lot happens in this clip.  As riot police push forward, Trump supporters tried to w-1346993115358502912.mp4",
@@ -19448,7 +19448,7 @@ export default [
     "properties": {
       "id": "814306688256",
       "platform": "twitter",
-      "time": "2021:01:07 00:40:00+00:00",
+      "time": "2021-01-07 00:40:00",
       "video": "814306688256.mp4",
       "image": "814306688256.png",
       "description": " Ford Fischer - Cops tried to use sting balls &amp; pepper spray to repel the crowd, who retaliated b-1346980840501358592.mp4",
@@ -19471,7 +19471,7 @@ export default [
     "properties": {
       "id": "480565772221",
       "platform": "twitter",
-      "time": "2021:01:06 21:21:28+00:00",
+      "time": "2021-01-06 21:21:28",
       "video": "480565772221.mp4",
       "image": "480565772221.png",
       "description": " Ford Fischer - For the last half hour or so I was filming people go in and out of Capitol on entranc-1346930724876607488.mp4",
@@ -19494,7 +19494,7 @@ export default [
     "properties": {
       "id": "976670155790",
       "platform": "twitter",
-      "time": "2021:01:07 01:36:18+00:00",
+      "time": "2021-01-07 01:36:18",
       "video": "976670155790.mp4",
       "image": "976670155790.png",
       "description": " Ford Fischer - Having basically been repelled from the Capitol building, the group then stormed towa-1346995117123489794.mp4",
@@ -19517,7 +19517,7 @@ export default [
     "properties": {
       "id": "879125779420",
       "platform": "twitter",
-      "time": "2021:01:07 00:44:46+00:00",
+      "time": "2021-01-07 00:44:46",
       "video": "879125779420.mp4",
       "image": "879125779420.png",
       "description": " Ford Fischer - I spoke to one activist who says Mike Pence caused the 'situation.'  He _then_ mentio-1346984665622716418.mp4",
@@ -19540,7 +19540,7 @@ export default [
     "properties": {
       "id": "690112064540",
       "platform": "twitter",
-      "time": "2021:01:07 00:05:38+00:00",
+      "time": "2021-01-07 00:05:38",
       "video": "690112064540.mp4",
       "image": "690112064540.png",
       "description": " Ford Fischer - In one of the first fights, police tried to arrest someone, and then Trump supporters-1346971943757508609.mp4",
@@ -19563,7 +19563,7 @@ export default [
     "properties": {
       "id": "609062084858",
       "platform": "twitter",
-      "time": "2021:01:06 23:58:24+00:00",
+      "time": "2021-01-06 23:58:24",
       "video": "609062084858.mp4",
       "image": "609062084858.png",
       "description": " Ford Fischer - It was shortly after that that Trump supporters began pushing harder, to the point th-1346970079565590528.mp4",
@@ -19586,7 +19586,7 @@ export default [
     "properties": {
       "id": "004778146121",
       "platform": "twitter",
-      "time": "2021:01:06 23:59:48+00:00",
+      "time": "2021-01-06 23:59:48",
       "video": "004778146121.mp4",
       "image": "004778146121.png",
       "description": " Ford Fischer - It was then that with the area above the steps taken over by Trump supporters, they w-1346970443673202688.mp4",
@@ -19609,7 +19609,7 @@ export default [
     "properties": {
       "id": "702596756194",
       "platform": "twitter",
-      "time": "2021:01:06 13:46:16+00:00",
+      "time": "2021-01-06 13:46:16",
       "video": "702596756194.mp4",
       "image": "702596756194.png",
       "description": " Ford Fischer - Just arrived at the Capitol to begin my coverage of today’s #StopTheSteal protest in -1346815918165405696.mp4",
@@ -19632,7 +19632,7 @@ export default [
     "properties": {
       "id": "239255166740",
       "platform": "twitter",
-      "time": "2021:01:07 01:06:04+00:00",
+      "time": "2021-01-07 01:06:04",
       "video": "239255166740.mp4",
       "image": "239255166740.png",
       "description": " Ford Fischer - Of course, the main entrance on the capitol steps wasn't the only territory being fou-1346987504642084865.mp4",
@@ -19655,7 +19655,7 @@ export default [
     "properties": {
       "id": "521277931647",
       "platform": "twitter",
-      "time": "2021:01:07 01:22:26+00:00",
+      "time": "2021-01-07 01:22:26",
       "video": "521277931647.mp4",
       "image": "521277931647.png",
       "description": " Ford Fischer - Officers attempted to use zipties to lock the door shut. When that didn't work, they -1346991296695595009.mp4",
@@ -19678,7 +19678,7 @@ export default [
     "properties": {
       "id": "349497712038",
       "platform": "twitter",
-      "time": "2021:01:06 23:55:24+00:00",
+      "time": "2021-01-06 23:55:24",
       "video": "349497712038.mp4",
       "image": "349497712038.png",
       "description": " Ford Fischer - One person fell off the steps (which I didn't manage to capture on video).  Trump sup-1346969357855956992.mp4",
@@ -19701,7 +19701,7 @@ export default [
     "properties": {
       "id": "128470944584",
       "platform": "twitter",
-      "time": "2021:01:07 00:23:32+00:00",
+      "time": "2021-01-07 00:23:32",
       "video": "128470944584.mp4",
       "image": "128470944584.png",
       "description": " Ford Fischer - People kept encouraging others to enter, and police struggled to force the door close-1346976595446280195.mp4",
@@ -19724,7 +19724,7 @@ export default [
     "properties": {
       "id": "718326012008",
       "platform": "twitter",
-      "time": "2021:01:07 00:16:54+00:00",
+      "time": "2021-01-07 00:16:54",
       "video": "718326012008.mp4",
       "image": "718326012008.png",
       "description": " Ford Fischer - People kept going in and out of the Capitol entrance. One man came outside to announc-1346974935730827265.mp4",
@@ -19747,7 +19747,7 @@ export default [
     "properties": {
       "id": "837421267784",
       "platform": "twitter",
-      "time": "2021:01:06 21:41:58+00:00",
+      "time": "2021-01-06 21:41:58",
       "video": "837421267784.mp4",
       "image": "837421267784.png",
       "description": " Ford Fischer - Police are making some ground in clearing the people attempting to breach south side -1346936628980428807.mp4",
@@ -19770,7 +19770,7 @@ export default [
     "properties": {
       "id": "468520906013",
       "platform": "twitter",
-      "time": "2021:01:07 01:01:24+00:00",
+      "time": "2021-01-07 01:01:24",
       "video": "468520906013.mp4",
       "image": "468520906013.png",
       "description": " Ford Fischer - Police finally managed to get the door closed after several officers managed to spray-1346986054620995584.mp4",
@@ -19793,7 +19793,7 @@ export default [
     "properties": {
       "id": "547120412658",
       "platform": "twitter",
-      "time": "2021:01:06 18:27:38+00:00",
+      "time": "2021-01-06 18:27:38",
       "video": "547120412658.mp4",
       "image": "547120412658.png",
       "description": " Ford Fischer - President Trump called for his supporters to march from the White House area down Pen-1346886726363578371.mp4",
@@ -19816,7 +19816,7 @@ export default [
     "properties": {
       "id": "519759322724",
       "platform": "twitter",
-      "time": "2021:01:07 00:35:56+00:00",
+      "time": "2021-01-07 00:35:56",
       "video": "519759322724.mp4",
       "image": "519759322724.png",
       "description": " Ford Fischer - Some participants in the Capitol insurgency seemed to find it a novelty.  This woman -1346979665207062529.mp4",
@@ -19839,7 +19839,7 @@ export default [
     "properties": {
       "id": "282847657893",
       "platform": "twitter",
-      "time": "2021:01:06 21:23:32+00:00",
+      "time": "2021-01-06 21:23:32",
       "video": "282847657893.mp4",
       "image": "282847657893.png",
       "description": " Ford Fischer - South entrance to Capitol right now. Police have resorted to shooting fire extinguish-1346931575238356992.mp4",
@@ -19862,7 +19862,7 @@ export default [
     "properties": {
       "id": "664701493021",
       "platform": "twitter",
-      "time": "2021:01:07 00:09:18+00:00",
+      "time": "2021-01-07 00:09:18",
       "video": "664701493021.mp4",
       "image": "664701493021.png",
       "description": " Ford Fischer - The Trump supporters began going up the east steps of the Capitol to storm through th-1346972919503724547.mp4",
@@ -19885,7 +19885,7 @@ export default [
     "properties": {
       "id": "272081762701",
       "platform": "twitter",
-      "time": "2021:01:06 22:26:54+00:00",
+      "time": "2021-01-06 22:26:54",
       "video": "272081762701.mp4",
       "image": "272081762701.png",
       "description": " Ford Fischer - They’re beginning to clear outside-1346947517246799882.mp4",
@@ -19908,7 +19908,7 @@ export default [
     "properties": {
       "id": "983085902762",
       "platform": "twitter",
-      "time": "2021:01:06 22:32:52+00:00",
+      "time": "2021-01-06 22:32:52",
       "video": "983085902762.mp4",
       "image": "983085902762.png",
       "description": " Ford Fischer - Trump supporters have effectively lost the ground they originally made by breaching b-1346948987111288832.mp4",
@@ -19931,7 +19931,7 @@ export default [
     "properties": {
       "id": "724106516893",
       "platform": "twitter",
-      "time": "2021:01:07 00:14:14+00:00",
+      "time": "2021-01-07 00:14:14",
       "video": "724106516893.mp4",
       "image": "724106516893.png",
       "description": " Ford Fischer - Trump supporters were blocked by riot cops when they got the door opened, but they pr-1346974462940491778.mp4",
@@ -19954,7 +19954,7 @@ export default [
     "properties": {
       "id": "106179802860",
       "platform": "twitter",
-      "time": "2021:01:06 19:25:20+00:00",
+      "time": "2021-01-06 19:25:20",
       "video": "106179802860.mp4",
       "image": "106179802860.png",
       "description": " Ford Fischer - https -_t.co_6rsCa51aQC-1346901336307216384 (1).mp4",
@@ -19977,7 +19977,7 @@ export default [
     "properties": {
       "id": "543278572611",
       "platform": "twitter",
-      "time": "2021:01:06 21:57:52+00:00",
+      "time": "2021-01-06 21:57:52",
       "video": "543278572611.mp4",
       "image": "543278572611.png",
       "description": " Ford Fischer - “Fuck fake news!”  Trump supporters charged at the major media cameras set up on West-1346942284164706306.mp4",
@@ -20000,7 +20000,7 @@ export default [
     "properties": {
       "id": "937344898179",
       "platform": "twitter",
-      "time": "2021:01:06 20:06:28+00:00",
+      "time": "2021-01-06 20:06:28",
       "video": "937344898179.mp4",
       "image": "937344898179.png",
       "description": " Igor Bobic - Here’s the scary moment when protesters initially got into the building from the first floor and made their way outside Senate chamber.-1346911809274478594.mp4",
@@ -20023,7 +20023,7 @@ export default [
     "properties": {
       "id": "912530796461",
       "platform": "twitter",
-      "time": "2021:01:06 22:19:22+00:00",
+      "time": "2021-01-06 22:19:22",
       "video": "912530796461.mp4",
       "image": "912530796461.png",
       "description": " Jeremy Lee Quinn - Kicked out   See last livestream for inside the Capitol riot-1346945128145903617.mp4",
@@ -20046,7 +20046,7 @@ export default [
     "properties": {
       "id": "499464771069",
       "platform": "twitter",
-      "time": "2021:01:06 21:15:28+00:00",
+      "time": "2021-01-06 21:15:28",
       "video": "499464771069.mp4",
       "image": "499464771069.png",
       "description": " Jeremy Lee Quinn - People getting up in it  Again I haven’t seen any weapons per Dc regulations. Cur-1346928974144933888.mp4",
@@ -20069,7 +20069,7 @@ export default [
     "properties": {
       "id": "181874605286",
       "platform": "twitter",
-      "time": "2021:01:10 03:41:38+00:00",
+      "time": "2021-01-10 03:41:38",
       "video": "181874605286.mp4",
       "image": "181874605286.png",
       "description": " John Scott-Railton - NEW FOOTAGE - a long, disciplined line of men in body armor moves as a unit up -1348115530654347266.mp4",
@@ -20092,7 +20092,7 @@ export default [
     "properties": {
       "id": "387983426111",
       "platform": "twitter",
-      "time": "2021:01:06 19:35:34+00:00",
+      "time": "2021-01-06 19:35:34",
       "video": "387983426111.mp4",
       "image": "387983426111.png",
       "description": " Joshua Potash - Holy shit they’re literally breaking into the Capitol-1346904724600188929.mp4",
@@ -20115,7 +20115,7 @@ export default [
     "properties": {
       "id": "140363321441",
       "platform": "twitter",
-      "time": "2021:01:06 21:22:38+00:00",
+      "time": "2021-01-06 21:22:38",
       "video": "140363321441.mp4",
       "image": "140363321441.png",
       "description": " Leigh Ann Caldwell - FBI SWAT team in Capitol complex-1346930771575992321.mp4",
@@ -20138,7 +20138,7 @@ export default [
     "properties": {
       "id": "983364411745",
       "platform": "twitter",
-      "time": "2021:01:06 19:06:24+00:00",
+      "time": "2021-01-06 19:06:24",
       "video": "983364411745.mp4",
       "image": "983364411745.png",
       "description": " Leigh Ann Caldwell - We are back in cannon. This is what’s happening at the steps of the Capitol, wh-1346896530729545732.mp4",
@@ -20161,7 +20161,7 @@ export default [
     "properties": {
       "id": "398720510500",
       "platform": "twitter",
-      "time": "2021:01:06 19:47:42+00:00",
+      "time": "2021-01-06 19:47:42",
       "video": "398720510500.mp4",
       "image": "398720510500.png",
       "description": " Matt Fuller - Video from the chamber.-1346906856581713922.mp4",
@@ -20184,7 +20184,7 @@ export default [
     "properties": {
       "id": "054234348042",
       "platform": "twitter",
-      "time": "2021:01:06 19:12:54+00:00",
+      "time": "2021-01-06 19:12:54",
       "video": "054234348042.mp4",
       "image": "054234348042.png",
       "description": " Matt Laslo - They breached the Capitol-1346898208312713223.mp4",
@@ -20207,7 +20207,7 @@ export default [
     "properties": {
       "id": "840788312786",
       "platform": "twitter",
-      "time": "2021:01:06 22:17:56+00:00",
+      "time": "2021-01-06 22:17:56",
       "video": "840788312786.mp4",
       "image": "840788312786.png",
       "description": " Matthew Miller - A line of people exit the Capitol building. One bloodied in the head and more came -1346944869588230144.mp4",
@@ -20230,7 +20230,7 @@ export default [
     "properties": {
       "id": "176125148301",
       "platform": "twitter",
-      "time": "2021:01:06 21:53:48+00:00",
+      "time": "2021-01-06 21:53:48",
       "video": "176125148301.mp4",
       "image": "176125148301.png",
       "description": " Mike Carter - BREAKING VIDEO - Woman shot inside U.S. Capitol.   The House of Congress is now a crim-1346938605948850176.mp4",
@@ -20253,7 +20253,7 @@ export default [
     "properties": {
       "id": "966237335953",
       "platform": "twitter",
-      "time": "2021:01:06 21:55:00+00:00",
+      "time": "2021-01-06 21:55:00",
       "video": "966237335953.mp4",
       "image": "966237335953.png",
       "description": " Mike Gee - The moment an unarmed protester was shot in the neck #CapitolBuilding #DCProtests-1346939141896994817.mp4",
@@ -20276,7 +20276,7 @@ export default [
     "properties": {
       "id": "177524102103",
       "platform": "twitter",
-      "time": "2021:01:06 03:36:10+00:00",
+      "time": "2021-01-06 03:36:10",
       "video": "177524102103.mp4",
       "image": "177524102103.png",
       "description": " Miss N0b0dy - #blm plaza in #dc-1346662366029746177 (1).mp4",
@@ -20299,7 +20299,7 @@ export default [
     "properties": {
       "id": "232584728903",
       "platform": "twitter",
-      "time": "2021:01:06 03:41:24+00:00",
+      "time": "2021-01-06 03:41:24",
       "video": "232584728903.mp4",
       "image": "232584728903.png",
       "description": " Miss N0b0dy - “Tomorrow we neee to go into the capital... Peacefully!” ##Washington  #dc-1346663698761449477 (1).mp4",
@@ -20322,7 +20322,7 @@ export default [
     "properties": {
       "id": "416509997204",
       "platform": "twitter",
-      "time": "2021:01:06 22:04:22+00:00",
+      "time": "2021-01-06 22:04:22",
       "video": "416509997204.mp4",
       "image": "416509997204.png",
       "description": " Shomari Stone - BREAKING. Mob of Trump supporters swarm the media near the US Capitol. They yell wha-1346941715895250949.mp4",
@@ -20345,7 +20345,7 @@ export default [
     "properties": {
       "id": "507896299612",
       "platform": "twitter",
-      "time": "2021:01:06 19:21:08+00:00",
+      "time": "2021-01-06 19:21:08",
       "video": "507896299612.mp4",
       "image": "507896299612.png",
       "description": " Steven Nelson - Trump protesters just discharged a fire extinguisher outside Senate chamber. Many protesters are inside building, and most people are hiding from them-1346900228264308737.mp4",
@@ -20368,7 +20368,7 @@ export default [
     "properties": {
       "id": "105249378607",
       "platform": "twitter",
-      "time": "2021:01:06 20:14:00+00:00",
+      "time": "2021-01-06 20:14:00",
       "video": "105249378607.mp4",
       "image": "105249378607.png",
       "description": " Tayler Hansen - A young woman was just shot in the neck right besides me in the Capitol Building-1346913549898149888.mp4",
@@ -20391,7 +20391,7 @@ export default [
     "properties": {
       "id": "994118252815",
       "platform": "twitter",
-      "time": "2021:01:06 20:14:30+00:00",
+      "time": "2021-01-06 20:14:30",
       "video": "994118252815.mp4",
       "image": "994118252815.png",
       "description": " Tayler Hansen - https -_t.co_ZpzejGQSeD-1346913859102253056.mp4",
@@ -20414,7 +20414,7 @@ export default [
     "properties": {
       "id": "770862170987",
       "platform": "twitter",
-      "time": "2021:01:06 20:44:42+00:00",
+      "time": "2021-01-06 20:44:42",
       "video": "770862170987.mp4",
       "image": "770862170987.png",
       "description": " Tess Owen - Someone was reportedly shot inside - potentially this individual who was transported fro-1346921232655024130.mp4",
@@ -20437,7 +20437,7 @@ export default [
     "properties": {
       "id": "407148397873",
       "platform": "twitter",
-      "time": "2021:01:06 21:49:50+00:00",
+      "time": "2021-01-06 21:49:50",
       "video": "407148397873.mp4",
       "image": "407148397873.png",
       "description": " What's Trending - Newsmax anchor seen asking for permission to report from inside of the Capitol ami-1346937663262113799.mp4",
@@ -20460,7 +20460,7 @@ export default [
     "properties": {
       "id": "688635520716",
       "platform": "twitter",
-      "time": "2021:01:06 21:37:28+00:00",
+      "time": "2021-01-06 21:37:28",
       "video": "688635520716.mp4",
       "image": "688635520716.png",
       "description": " What's Trending - Protestors are seen recreating the George Floyd death at the National Capitol City-1346934524853186560.mp4",
@@ -20483,7 +20483,7 @@ export default [
     "properties": {
       "id": "475521273925",
       "platform": "twitter",
-      "time": "2021:01:06 22:00:14+00:00",
+      "time": "2021-01-06 22:00:14",
       "video": "475521273925.mp4",
       "image": "475521273925.png",
       "description": " William Turton - JUST NOW - protestors charging the media-1346940440935870472.mp4",
@@ -20506,7 +20506,7 @@ export default [
     "properties": {
       "id": "271954232199",
       "platform": "twitter",
-      "time": "2021:01:06 20:34:32+00:00",
+      "time": "2021-01-06 20:34:32",
       "video": "271954232199.mp4",
       "image": "271954232199.png",
       "description": " Zachary Petrizzo - Montgomery County Police are moving in on the front side of the US Capitol Building.-1346918965889609728.mp4",
@@ -20529,7 +20529,7 @@ export default [
     "properties": {
       "id": "773001770052",
       "platform": "twitter",
-      "time": "2021:01:06 21:02:54+00:00",
+      "time": "2021-01-06 21:02:54",
       "video": "773001770052.mp4",
       "image": "773001770052.png",
       "description": " jr_majewski_1346925784192135170_1.mp4",
@@ -20552,7 +20552,7 @@ export default [
     "properties": {
       "id": "040423809784",
       "platform": "twitter",
-      "time": "2021:01:06 20:38:46+00:00",
+      "time": "2021-01-06 20:38:46",
       "video": "040423809784.mp4",
       "image": "040423809784.png",
       "description": " talia JANE - Now that I have service, a rundown on what just happened_what I just saw. MAGAs rushed the Capitol steps, breaking-1346920683608047616.mp4",
@@ -20575,7 +20575,7 @@ export default [
     "properties": {
       "id": "201608196776",
       "platform": "twitter",
-      "time": "2021:01:06 19:57:42+00:00",
+      "time": "2021-01-06 19:57:42",
       "video": "201608196776.mp4",
       "image": "201608196776.png",
       "description": " they didn’t “breach” or “storm” the capitol building THEY WERE LET IN-1346924307692318723.mp4",
@@ -20598,7 +20598,7 @@ export default [
     "properties": {
       "id": "254973105006",
       "platform": "twitter",
-      "time": "2021:01:06 20:16:28+00:00",
+      "time": "2021-01-06 20:16:28",
       "video": "254973105006.mp4",
       "image": "254973105006.png",
       "description": "_jRmmICpRxZe65FI.mp4",
@@ -20621,7 +20621,7 @@ export default [
     "properties": {
       "id": "241434281687",
       "platform": "twitter",
-      "time": "2021:01:06 21:20:58+00:00",
+      "time": "2021-01-06 21:20:58",
       "video": "241434281687.mp4",
       "image": "241434281687.png",
       "description": "_lssSmHufCR-44Bj.mp4",
@@ -20644,7 +20644,7 @@ export default [
     "properties": {
       "id": "051614799983",
       "platform": "twitter",
-      "time": "2021:01:06 20:55:44+00:00",
+      "time": "2021-01-06 20:55:44",
       "video": "051614799983.mp4",
       "image": "051614799983.png",
       "description": "_wiHHoaTbSaoe-JC.mp4",
@@ -20667,7 +20667,7 @@ export default [
     "properties": {
       "id": "788462361019",
       "platform": "twitter",
-      "time": "2021:01:06 20:46:18+00:00",
+      "time": "2021-01-06 20:46:18",
       "video": "788462361019.mp4",
       "image": "788462361019.png",
       "description": "cJZIIaFWDepoE14q.mp4",
@@ -20690,7 +20690,7 @@ export default [
     "properties": {
       "id": "965557886694",
       "platform": "twitter",
-      "time": "2021:01:06 20:13:12+00:00",
+      "time": "2021-01-06 20:13:12",
       "video": "965557886694.mp4",
       "image": "965557886694.png",
       "description": "nsECuxHg3gcpSCxn.mp4",
@@ -20713,7 +20713,7 @@ export default [
     "properties": {
       "id": "904058707734",
       "platform": "twitter",
-      "time": "2021:01:06 18:54:48+00:00",
+      "time": "2021-01-06 18:54:48",
       "video": "904058707734.mp4",
       "image": "904058707734.png",
       "description": "o1zZ_lKHbe6IATlv.mp4",
@@ -20736,7 +20736,7 @@ export default [
     "properties": {
       "id": "511582667599",
       "platform": "twitter",
-      "time": "2021:01:06 19:59:24+00:00",
+      "time": "2021-01-06 19:59:24",
       "video": "511582667599.mp4",
       "image": "511582667599.png",
       "description": "po7vn_oogd45efc4.mp4",
@@ -20759,7 +20759,7 @@ export default [
     "properties": {
       "id": "389978907839",
       "platform": "twitter",
-      "time": "2021:01:06 20:33:32+00:00",
+      "time": "2021-01-06 20:33:32",
       "video": "389978907839.mp4",
       "image": "389978907839.png",
       "description": "qd1I5z1I2z9uKBY8.mp4",
@@ -20782,7 +20782,7 @@ export default [
     "properties": {
       "id": "836207407493",
       "platform": "twitter",
-      "time": "2021:01:10 01:29:28+00:00",
+      "time": "2021-01-10 01:29:28",
       "video": "836207407493.mp4",
       "image": "836207407493.png",
       "description": "tUEMagZjvLVb_small.mp4",
