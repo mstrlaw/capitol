@@ -188,7 +188,6 @@ const renderVideoList = (listItems) => {
     `
     panelBody.innerHTML = list;
   })
-  new ClipboardJS('.btn');
 }
 
 const drawMapData = (data) => {
