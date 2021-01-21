@@ -3,6 +3,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "P4xbw982oXD5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 12:55:36",
       "video": "P4xbw982oXD5.mp4",
@@ -25,6 +26,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XI4jB2qLJve2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 14:50:31",
       "video": "XI4jB2qLJve2.mp4",
@@ -47,6 +49,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GxxgHLFoZh26",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 15:08:40",
       "video": "GxxgHLFoZh26.mp4",
@@ -69,6 +72,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hG1jccUFQzXx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 17:34:32",
       "video": "hG1jccUFQzXx.mp4",
@@ -93,6 +97,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZL8HCK76qzZr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 17:42:08",
       "video": "ZL8HCK76qzZr.mp4",
@@ -115,6 +120,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "e99NYvfpgC0P",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 18:19:04",
       "video": "e99NYvfpgC0P.mp4",
@@ -140,6 +146,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Q7pXj92SdEwH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 18:24:37",
       "video": "Q7pXj92SdEwH.mp4",
@@ -162,6 +169,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZOzO5iRM9rYc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 18:26:35",
       "video": "ZOzO5iRM9rYc.mp4",
@@ -186,6 +194,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JFBcTjyx726j",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 18:27:13",
       "video": "JFBcTjyx726j.mp4",
@@ -208,6 +217,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7xcHzeYFmH5J",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 18:42:59",
       "video": "7xcHzeYFmH5J.mp4",
@@ -232,6 +242,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9R41xX7bevNI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 19:30:16",
       "video": "9R41xX7bevNI.mp4",
@@ -256,6 +267,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SKHiA38yC6PR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 19:38:29",
       "video": "SKHiA38yC6PR.mp4",
@@ -280,6 +292,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jsswcn7pfQoQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 19:39:02",
       "video": "jsswcn7pfQoQ.mp4",
@@ -304,6 +317,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pWQ0r3PTYy8Z",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 19:51:43",
       "video": "pWQ0r3PTYy8Z.mp4",
@@ -328,6 +342,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UoI2wFztcuzU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 20:03:39",
       "video": "UoI2wFztcuzU.mp4",
@@ -350,6 +365,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "RRZBGyTSDKSP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 20:17:34",
       "video": "RRZBGyTSDKSP.mp4",
@@ -374,6 +390,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uea75HdM5YCy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 20:44:53",
       "video": "uea75HdM5YCy.mp4",
@@ -398,6 +415,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CvpZn0u8x368",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 20:49:51",
       "video": "CvpZn0u8x368.mp4",
@@ -422,6 +440,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "O6pFfIZPv0Qr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 21:05:59",
       "video": "O6pFfIZPv0Qr.mp4",
@@ -446,6 +465,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mK8d49lp3sbe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 21:19:18",
       "video": "mK8d49lp3sbe.mp4",
@@ -468,6 +488,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MwBNolC2HPZ5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 21:38:53",
       "video": "MwBNolC2HPZ5.mp4",
@@ -493,6 +514,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ranMbZa03t0i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 21:55:01",
       "video": "ranMbZa03t0i.mp4",
@@ -517,6 +539,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eYDfwjABisqN",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 21:56:39",
       "video": "eYDfwjABisqN.mp4",
@@ -541,6 +564,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ljhlRXjLF1in",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 22:38:41",
       "video": "ljhlRXjLF1in.mp4",
@@ -565,6 +589,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "z4ZctighyZkC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 23:39:21",
       "video": "z4ZctighyZkC.mp4",
@@ -589,6 +614,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bRZ0Na3Zb0Gy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 23:41:24",
       "video": "bRZ0Na3Zb0Gy.mp4",
@@ -613,6 +639,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8Emg7PNDcvIa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-05 23:43:57",
       "video": "8Emg7PNDcvIa.mp4",
@@ -637,6 +664,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oUTz8VjR0TS0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 0:02:39",
       "video": "oUTz8VjR0TS0.mp4",
@@ -661,6 +689,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SYrL5ychSNYs",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 0:21:55",
       "video": "SYrL5ychSNYs.mp4",
@@ -685,6 +714,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2bA317by5x7J",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 0:41:50",
       "video": "2bA317by5x7J.mp4",
@@ -709,6 +739,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OYfUeXTfX88D",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 0:45:46",
       "video": "OYfUeXTfX88D.mp4",
@@ -733,6 +764,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aDNmvpzKl90o",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 1:03:29",
       "video": "aDNmvpzKl90o.mp4",
@@ -758,6 +790,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8L4mcsc4jEmg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 1:48:19",
       "video": "8L4mcsc4jEmg.mp4",
@@ -782,6 +815,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MTOmhxigqpaF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 2:38:46",
       "video": "MTOmhxigqpaF.mp4",
@@ -804,6 +838,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uxifQpI6dByQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 2:41:14",
       "video": "uxifQpI6dByQ.mp4",
@@ -826,6 +861,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TZLDaTO3EbLU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 3:33:58",
       "video": "TZLDaTO3EbLU.mp4",
@@ -850,6 +886,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BziLuY5elmb1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 4:44:08",
       "video": "BziLuY5elmb1.mp4",
@@ -872,6 +909,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TxM1JgGIikUv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 5:15:07",
       "video": "TxM1JgGIikUv.mp4",
@@ -894,6 +932,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mtR54fIOsU8Y",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 6:41:44",
       "video": "mtR54fIOsU8Y.mp4",
@@ -918,6 +957,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fc14gHzx64vY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 6:53:25",
       "video": "fc14gHzx64vY.mp4",
@@ -940,6 +980,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2oSHSLNMqoOE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 7:11:15",
       "video": "2oSHSLNMqoOE.mp4",
@@ -962,6 +1003,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VYDYrP2y5GPi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 11:50:53",
       "video": "VYDYrP2y5GPi.mp4",
@@ -984,6 +1026,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zvhAF87Dreod",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 12:38:55",
       "video": "zvhAF87Dreod.mp4",
@@ -1006,6 +1049,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2fqpw5l9SeIl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 12:51:45",
       "video": "2fqpw5l9SeIl.mp4",
@@ -1028,6 +1072,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2PNO2eGV8Hwp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 12:55:26",
       "video": "2PNO2eGV8Hwp.mp4",
@@ -1052,6 +1097,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Kef0T1bzWcyp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 12:56:09",
       "video": "Kef0T1bzWcyp.mp4",
@@ -1074,6 +1120,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "diIeD4Ne7Ear",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 12:57:17",
       "video": "diIeD4Ne7Ear.mp4",
@@ -1096,6 +1143,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NfQdczPVYzb8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:16:57",
       "video": "NfQdczPVYzb8.mp4",
@@ -1118,6 +1166,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7lZbNvTpYzCg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:19:12",
       "video": "7lZbNvTpYzCg.mp4",
@@ -1140,6 +1189,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZHPkLzKWK2Bs",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:29:03",
       "video": "ZHPkLzKWK2Bs.mp4",
@@ -1162,6 +1212,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hi0orAgffuhA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:37:55",
       "video": "hi0orAgffuhA.mp4",
@@ -1184,6 +1235,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qVsqMakVxGNP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:38:23",
       "video": "qVsqMakVxGNP.mp4",
@@ -1208,6 +1260,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QrSz0Vfcz3kt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:39:09",
       "video": "QrSz0Vfcz3kt.mp4",
@@ -1230,6 +1283,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kISkMn20ifwv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:39:52",
       "video": "kISkMn20ifwv.mp4",
@@ -1252,6 +1306,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "evguRVYcqPlB",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:40:29",
       "video": "evguRVYcqPlB.mp4",
@@ -1274,6 +1329,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8c4mOel34hEc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:40:32",
       "video": "8c4mOel34hEc.mp4",
@@ -1296,6 +1352,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tTRU8pK4m8u8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:40:34",
       "video": "tTRU8pK4m8u8.mp4",
@@ -1318,6 +1375,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ftbEXsKvOCYn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:40:37",
       "video": "ftbEXsKvOCYn.mp4",
@@ -1340,6 +1398,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VBc81C9bHigX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:40:38",
       "video": "VBc81C9bHigX.mp4",
@@ -1362,6 +1421,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "O0hhrxFbpIfo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:44:50",
       "video": "O0hhrxFbpIfo.mp4",
@@ -1384,6 +1444,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nH1EL07ukyOE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 13:58:33",
       "video": "nH1EL07ukyOE.mp4",
@@ -1406,6 +1467,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bgBdloFHQ4V4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:01:48",
       "video": "bgBdloFHQ4V4.mp4",
@@ -1428,6 +1490,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "d1zM5ane4tm1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:05:02",
       "video": "d1zM5ane4tm1.mp4",
@@ -1450,6 +1513,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "z1Dd4eQWsblX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:14:34",
       "video": "z1Dd4eQWsblX.mp4",
@@ -1472,6 +1536,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AzVSx3ypAHRi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:15:20",
       "video": "AzVSx3ypAHRi.mp4",
@@ -1494,6 +1559,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UPriYin65X3Z",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:44:53",
       "video": "UPriYin65X3Z.mp4",
@@ -1516,6 +1582,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "33nIRE4z014q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:46:48",
       "video": "33nIRE4z014q.mp4",
@@ -1538,6 +1605,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "N1k8H378YLUP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:47:40",
       "video": "N1k8H378YLUP.mp4",
@@ -1560,6 +1628,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OmJrVOATOxzU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:49:03",
       "video": "OmJrVOATOxzU.mp4",
@@ -1582,6 +1651,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yCgKBE1BvgoE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:51:58",
       "video": "yCgKBE1BvgoE.mp4",
@@ -1604,6 +1674,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SHRvr30FtRLb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:56:29",
       "video": "SHRvr30FtRLb.mp4",
@@ -1626,6 +1697,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "J9U6khb56IEE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:57:48",
       "video": "J9U6khb56IEE.mp4",
@@ -1648,6 +1720,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xRKQwtpCEB9v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:58:51",
       "video": "xRKQwtpCEB9v.mp4",
@@ -1670,6 +1743,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lLoZaH6iGNOT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 14:59:19",
       "video": "lLoZaH6iGNOT.mp4",
@@ -1692,6 +1766,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ql2J5GJRtJVh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:00:26",
       "video": "Ql2J5GJRtJVh.mp4",
@@ -1714,6 +1789,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gB5saDDhwvz9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:02:13",
       "video": "gB5saDDhwvz9.mp4",
@@ -1736,6 +1812,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MgMiCd8EjrVH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:14:59",
       "video": "MgMiCd8EjrVH.mp4",
@@ -1758,6 +1835,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PhBg4kuTHVLi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:18:47",
       "video": "PhBg4kuTHVLi.mp4",
@@ -1780,6 +1858,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xOGr2U6ve8W1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:19:55",
       "video": "xOGr2U6ve8W1.mp4",
@@ -1802,6 +1881,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2U6tbzcZD7NQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:20:05",
       "video": "2U6tbzcZD7NQ.mp4",
@@ -1824,6 +1904,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wynEdR3TziJm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:24:25",
       "video": "wynEdR3TziJm.mp4",
@@ -1848,6 +1929,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1hITmFMmXf5t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:28:05",
       "video": "1hITmFMmXf5t.mp4",
@@ -1872,6 +1954,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6MmRehcrcAwY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:29:17",
       "video": "6MmRehcrcAwY.mp4",
@@ -1894,6 +1977,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dCrPCc3Hvnpm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:29:55",
       "video": "dCrPCc3Hvnpm.mp4",
@@ -1916,6 +2000,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "skJlzyllttT3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:29:55",
       "video": "skJlzyllttT3.mp4",
@@ -1938,6 +2023,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BVo7j7cX5sF9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:32:59",
       "video": "BVo7j7cX5sF9.mp4",
@@ -1960,6 +2046,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bCkOoiJFTH0C",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:36:40",
       "video": "bCkOoiJFTH0C.mp4",
@@ -1984,6 +2071,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "e6BtsS1j9zs8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:40:15",
       "video": "e6BtsS1j9zs8.mp4",
@@ -2006,6 +2094,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "o6xUbL7Zm7Tf",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:41:52",
       "video": "o6xUbL7Zm7Tf.mp4",
@@ -2030,6 +2119,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "a6R6xt7VEDuE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:43:50",
       "video": "a6R6xt7VEDuE.mp4",
@@ -2052,6 +2142,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zXAmZwiG3yfA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:45:52",
       "video": "zXAmZwiG3yfA.mp4",
@@ -2074,6 +2165,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VkFHYXJdaOHA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:47:01",
       "video": "VkFHYXJdaOHA.mp4",
@@ -2096,6 +2188,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oINbKytzEefK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:47:01",
       "video": "oINbKytzEefK.mp4",
@@ -2118,6 +2211,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sUCLs52fT3CW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:47:57",
       "video": "sUCLs52fT3CW.mp4",
@@ -2140,6 +2234,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lFFk9PXz5bhC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:47:59",
       "video": "lFFk9PXz5bhC.mp4",
@@ -2164,6 +2259,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dy5GFIwCwuOP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:51:41",
       "video": "dy5GFIwCwuOP.mp4",
@@ -2186,6 +2282,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ROFyGFcodhj2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 15:56:55",
       "video": "ROFyGFcodhj2.mp4",
@@ -2208,6 +2305,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xkyLOWZxjxPj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:00:17",
       "video": "xkyLOWZxjxPj.mp4",
@@ -2230,6 +2328,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "RpS3ATCnUMRu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:01:34",
       "video": "RpS3ATCnUMRu.mp4",
@@ -2252,6 +2351,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aBf5G5aaPDj9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:05:15",
       "video": "aBf5G5aaPDj9.mp4",
@@ -2274,6 +2374,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ds6ZUPblNzv4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:06:37",
       "video": "Ds6ZUPblNzv4.mp4",
@@ -2296,6 +2397,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EniSIqkMzJqV",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:11:51",
       "video": "EniSIqkMzJqV.mp4",
@@ -2318,6 +2420,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dVipXMFYPp43",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:12:38",
       "video": "dVipXMFYPp43.mp4",
@@ -2340,6 +2443,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wItTIbLfoXBY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:14:33",
       "video": "wItTIbLfoXBY.mp4",
@@ -2364,6 +2468,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0pHHD2IPnGI5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:18:12",
       "video": "0pHHD2IPnGI5.mp4",
@@ -2386,6 +2491,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZlcEDu06k1O9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:19:30",
       "video": "ZlcEDu06k1O9.mp4",
@@ -2408,6 +2514,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zq269gxmbYsI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:24:44",
       "video": "zq269gxmbYsI.mp4",
@@ -2430,6 +2537,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "D1hTLKXn3FIC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:32:43",
       "video": "D1hTLKXn3FIC.mp4",
@@ -2452,6 +2560,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lVKkqagkDm91",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:34:37",
       "video": "lVKkqagkDm91.mp4",
@@ -2474,6 +2583,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "znHqCskR67k6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:36:02",
       "video": "znHqCskR67k6.mp4",
@@ -2498,6 +2608,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IyVON4loRnvA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:37:30",
       "video": "IyVON4loRnvA.mp4",
@@ -2520,6 +2631,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oq0jpbCT651M",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:41:59",
       "video": "oq0jpbCT651M.mp4",
@@ -2544,6 +2656,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IGhJlpaMZ7QE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:48:44",
       "video": "IGhJlpaMZ7QE.mp4",
@@ -2566,6 +2679,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LR1mPrzxmeQv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:49:33",
       "video": "LR1mPrzxmeQv.mp4",
@@ -2588,6 +2702,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NLbwqxP0yA6f",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:51:27",
       "video": "NLbwqxP0yA6f.mp4",
@@ -2610,6 +2725,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uJnCqo00NHIl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:51:28",
       "video": "uJnCqo00NHIl.mp4",
@@ -2632,6 +2748,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SjPt47R3IMWH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:51:49",
       "video": "SjPt47R3IMWH.mp4",
@@ -2654,6 +2771,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fNodpDg9wS24",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:54:41",
       "video": "fNodpDg9wS24.mp4",
@@ -2676,6 +2794,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BKSLTTzLt0u2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:55:10",
       "video": "BKSLTTzLt0u2.mp4",
@@ -2698,6 +2817,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ljl6PXazsbVv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:57:42",
       "video": "ljl6PXazsbVv.mp4",
@@ -2722,6 +2842,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "y3ZnJwouF005",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:57:57",
       "video": "y3ZnJwouF005.mp4",
@@ -2744,6 +2865,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CtpFcLr34Uql",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:58:02",
       "video": "CtpFcLr34Uql.mp4",
@@ -2766,6 +2888,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tIvvSQeMO2zH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:58:05",
       "video": "tIvvSQeMO2zH.mp4",
@@ -2788,6 +2911,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iBmtugeXvTOP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:58:08",
       "video": "iBmtugeXvTOP.mp4",
@@ -2810,6 +2934,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PpcSJ2t5R9I2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:58:16",
       "video": "PpcSJ2t5R9I2.mp4",
@@ -2832,6 +2957,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PS5QzMyOoJ1Y",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:58:48",
       "video": "PS5QzMyOoJ1Y.mp4",
@@ -2854,6 +2980,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "RBaqoUEvZ7bX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:59:17",
       "video": "RBaqoUEvZ7bX.mp4",
@@ -2876,6 +3003,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LguBSCUFcY67",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:59:36",
       "video": "LguBSCUFcY67.mp4",
@@ -2898,6 +3026,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IEScWmDsSfKX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 16:59:36",
       "video": "IEScWmDsSfKX.mp4",
@@ -2920,6 +3049,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CjBp5eYn9SIM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:00:04",
       "video": "CjBp5eYn9SIM.mp4",
@@ -2945,6 +3075,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wQZ0XA36Xpih",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:00:17",
       "video": "wQZ0XA36Xpih.mp4",
@@ -2967,6 +3098,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OwqjIgbC5LCD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:01:34",
       "video": "OwqjIgbC5LCD.mp4",
@@ -2989,6 +3121,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IBrEVWHnY1c3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:02:14",
       "video": "IBrEVWHnY1c3.mp4",
@@ -3014,6 +3147,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MGIywYHb2lB8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:03:36",
       "video": "MGIywYHb2lB8.mp4",
@@ -3036,6 +3170,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Yv60aO8hsb4H",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:03:36",
       "video": "Yv60aO8hsb4H.mp4",
@@ -3058,6 +3193,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "e8PppkH5mMcT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:05:37",
       "video": "e8PppkH5mMcT.mp4",
@@ -3080,6 +3216,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8YA6CeYMxHh4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:07:48",
       "video": "8YA6CeYMxHh4.mp4",
@@ -3102,6 +3239,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nf9v20YjxIN6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:07:48",
       "video": "nf9v20YjxIN6.mp4",
@@ -3124,6 +3262,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XNw9fkLnbCLz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:07:51",
       "video": "XNw9fkLnbCLz.mp4",
@@ -3146,6 +3285,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "40mZ6CU28v4l",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:08:00",
       "video": "40mZ6CU28v4l.mp4",
@@ -3168,6 +3308,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pPqRA75aYGRj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:27:07",
       "video": "pPqRA75aYGRj.mp4",
@@ -3192,6 +3333,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0Pk8BEfptuZG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:29:06",
       "video": "0Pk8BEfptuZG.mp4",
@@ -3214,6 +3356,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5GIdUYtOQZvC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:29:06",
       "video": "5GIdUYtOQZvC.mp4",
@@ -3236,6 +3379,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Vfb7RDCU9APR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:29:06",
       "video": "Vfb7RDCU9APR.mp4",
@@ -3258,6 +3402,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IDijozQkiiVl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:45:18",
       "video": "IDijozQkiiVl.mp4",
@@ -3280,6 +3425,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CxuimH5Nb5do",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:47:37",
       "video": "CxuimH5Nb5do.mp4",
@@ -3302,6 +3448,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "b0s87hxTGufb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:55:17",
       "video": "b0s87hxTGufb.mp4",
@@ -3324,6 +3471,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "i7xUeEr5Ysmm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:55:17",
       "video": "i7xUeEr5Ysmm.mp4",
@@ -3346,6 +3494,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pryOHn3pxRih",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:55:25",
       "video": "pryOHn3pxRih.mp4",
@@ -3368,6 +3517,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yPG52agghF1w",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:55:40",
       "video": "yPG52agghF1w.mp4",
@@ -3390,6 +3540,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LdowRJbSeiWb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:56:21",
       "video": "LdowRJbSeiWb.mp4",
@@ -3414,6 +3565,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Dr91Sy9JPaqz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:57:16",
       "video": "Dr91Sy9JPaqz.mp4",
@@ -3438,6 +3590,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bHrrdOH7wawk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:59:19",
       "video": "bHrrdOH7wawk.mp4",
@@ -3460,6 +3613,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aRWTR7sk7i90",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 17:59:41",
       "video": "aRWTR7sk7i90.mp4",
@@ -3482,6 +3636,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zBLIrh4Yl7XH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:00:11",
       "video": "zBLIrh4Yl7XH.mp4",
@@ -3506,6 +3661,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tb76lsT2Wakl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:01:54",
       "video": "tb76lsT2Wakl.mp4",
@@ -3528,6 +3684,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sT75WFu2QPLW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:02:10",
       "video": "sT75WFu2QPLW.mp4",
@@ -3550,6 +3707,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Zalcz8BiXAeX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:04:06",
       "video": "Zalcz8BiXAeX.mp4",
@@ -3574,6 +3732,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VJKKCQ9W822I",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:05:12",
       "video": "VJKKCQ9W822I.mp4",
@@ -3596,6 +3755,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HFM8mZssF1pW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:05:53",
       "video": "HFM8mZssF1pW.mp4",
@@ -3620,6 +3780,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5F4X9i7bivo4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:06:20",
       "video": "5F4X9i7bivo4.mp4",
@@ -3642,6 +3803,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fqMErkRVItV0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:07:25",
       "video": "fqMErkRVItV0.mp4",
@@ -3664,6 +3826,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eGWFiGU2WtR8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:07:29",
       "video": "eGWFiGU2WtR8.mp4",
@@ -3686,6 +3849,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dNQEWzlDBIPp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:07:49",
       "video": "dNQEWzlDBIPp.mp4",
@@ -3708,6 +3872,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CBSlM2vCEM1D",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:10:01",
       "video": "CBSlM2vCEM1D.mp4",
@@ -3730,6 +3895,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "63ExNlmUp31h",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:10:41",
       "video": "63ExNlmUp31h.mp4",
@@ -3755,6 +3921,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BxD1M9oq62fW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:11:29",
       "video": "BxD1M9oq62fW.mp4",
@@ -3777,6 +3944,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "27RdbSgSj64v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:11:59",
       "video": "27RdbSgSj64v.mp4",
@@ -3799,6 +3967,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kHIl0dyeUCkt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:12:16",
       "video": "kHIl0dyeUCkt.mp4",
@@ -3821,6 +3990,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JvjJL1ie366a",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:13:12",
       "video": "JvjJL1ie366a.mp4",
@@ -3843,6 +4013,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tIdRNahpGUtR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:14:10",
       "video": "tIdRNahpGUtR.mp4",
@@ -3867,6 +4038,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CQtHtEEczheT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:17:50",
       "video": "CQtHtEEczheT.mp4",
@@ -3889,6 +4061,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TK5675UzIa2n",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:18:48",
       "video": "TK5675UzIa2n.mp4",
@@ -3911,6 +4084,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7fckI1220tbu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:19:23",
       "video": "7fckI1220tbu.mp4",
@@ -3933,6 +4107,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PQxU7YHg4q2t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:19:23",
       "video": "PQxU7YHg4q2t.mp4",
@@ -3955,6 +4130,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QhHQcvLey9wa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:19:23",
       "video": "QhHQcvLey9wa.mp4",
@@ -3977,6 +4153,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wCbOT5Lhqo7n",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:19:23",
       "video": "wCbOT5Lhqo7n.mp4",
@@ -3999,6 +4176,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "c8OcZF1R9C8W",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:20:07",
       "video": "c8OcZF1R9C8W.mp4",
@@ -4021,6 +4199,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qk0SCeACvdk7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:20:18",
       "video": "qk0SCeACvdk7.mp4",
@@ -4045,6 +4224,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NjTHt5oXZv7s",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:20:47",
       "video": "NjTHt5oXZv7s.mp4",
@@ -4067,6 +4247,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SP1MBI261cbW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:21:40",
       "video": "SP1MBI261cbW.mp4",
@@ -4089,6 +4270,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0m53Jfe0nCjK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:21:48",
       "video": "0m53Jfe0nCjK.mp4",
@@ -4111,6 +4293,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2SYR2Wjra3ic",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:21:48",
       "video": "2SYR2Wjra3ic.mp4",
@@ -4133,6 +4316,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "T6crwRF3b40U",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:21:48",
       "video": "T6crwRF3b40U.mp4",
@@ -4155,6 +4339,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CKSVgexBTTpn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:21:56",
       "video": "CKSVgexBTTpn.mp4",
@@ -4177,6 +4362,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qP56A9uC1Nzf",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:23:20",
       "video": "qP56A9uC1Nzf.mp4",
@@ -4199,6 +4385,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EFv9XkrdDg8Q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:25:03",
       "video": "EFv9XkrdDg8Q.mp4",
@@ -4221,6 +4408,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1TszpHzh2B7A",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:25:38",
       "video": "1TszpHzh2B7A.mp4",
@@ -4243,6 +4431,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IjCvip4YonXA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:26:08",
       "video": "IjCvip4YonXA.mp4",
@@ -4265,6 +4454,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TdAjv2eDi3Ep",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:26:54",
       "video": "TdAjv2eDi3Ep.mp4",
@@ -4289,6 +4479,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ty8H2A9NGGGD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:27:42",
       "video": "Ty8H2A9NGGGD.mp4",
@@ -4311,6 +4502,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UC7nTJ2ha9WM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:27:50",
       "video": "UC7nTJ2ha9WM.mp4",
@@ -4333,6 +4525,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WXkILSGX6H82",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:29:01",
       "video": "WXkILSGX6H82.mp4",
@@ -4355,6 +4548,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tfjhpJnZ8uOu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:29:08",
       "video": "tfjhpJnZ8uOu.mp4",
@@ -4377,6 +4571,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rSygHXIxTYOV",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:29:24",
       "video": "rSygHXIxTYOV.mp4",
@@ -4399,6 +4594,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9tpBDvg0t5aY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:29:46",
       "video": "9tpBDvg0t5aY.mp4",
@@ -4421,6 +4617,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Wm6o3hXiTzPa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:31:24",
       "video": "Wm6o3hXiTzPa.mp4",
@@ -4443,6 +4640,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FX86zIGkN6wH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:31:51",
       "video": "FX86zIGkN6wH.mp4",
@@ -4465,6 +4663,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IxOOCB3tAJ31",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:31:57",
       "video": "IxOOCB3tAJ31.mp4",
@@ -4487,6 +4686,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Dsw78s0t9tya",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:33:05",
       "video": "Dsw78s0t9tya.mp4",
@@ -4509,6 +4709,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "49N6wcN2AIni",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:33:12",
       "video": "49N6wcN2AIni.mp4",
@@ -4531,6 +4732,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0gsiVBqJRXUf",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:34:01",
       "video": "0gsiVBqJRXUf.mp4",
@@ -4553,6 +4755,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bqc61J4Nsg9a",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:34:10",
       "video": "bqc61J4Nsg9a.mp4",
@@ -4575,6 +4778,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EvuXaSzgYJ14",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:34:38",
       "video": "EvuXaSzgYJ14.mp4",
@@ -4597,6 +4801,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "J6NjsQ3OmDEK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:34:48",
       "video": "J6NjsQ3OmDEK.mp4",
@@ -4619,6 +4824,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "A1kOgSwRYI8P",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:34:51",
       "video": "A1kOgSwRYI8P.mp4",
@@ -4645,6 +4851,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0jaHRfXYTxdk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:35:42",
       "video": "0jaHRfXYTxdk.mp4",
@@ -4667,6 +4874,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iGMPJYFvf344",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:35:53",
       "video": "iGMPJYFvf344.mp4",
@@ -4689,6 +4897,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pF7XCEbbEFZa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:35:53",
       "video": "pF7XCEbbEFZa.mp4",
@@ -4711,6 +4920,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZTGSyftpq6Ok",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:36:35",
       "video": "ZTGSyftpq6Ok.mp4",
@@ -4735,6 +4945,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Q6DY9FC1N3Rp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:36:37",
       "video": "Q6DY9FC1N3Rp.mp4",
@@ -4757,6 +4968,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Km2S7d92uPH8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:36:54",
       "video": "Km2S7d92uPH8.mp4",
@@ -4779,6 +4991,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rkxKI1heDXZb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:38:30",
       "video": "rkxKI1heDXZb.mp4",
@@ -4803,6 +5016,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gj867lWsCvHv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:39:20",
       "video": "gj867lWsCvHv.mp4",
@@ -4828,6 +5042,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2pXy1CcaE27O",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:40:03",
       "video": "2pXy1CcaE27O.mp4",
@@ -4850,6 +5065,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "C4IM4xTcxLWH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:40:26",
       "video": "C4IM4xTcxLWH.mp4",
@@ -4872,6 +5088,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EGrFrkDN88km",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:40:26",
       "video": "EGrFrkDN88km.mp4",
@@ -4894,6 +5111,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "vSIv4wwvoemh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:42:09",
       "video": "vSIv4wwvoemh.mp4",
@@ -4916,6 +5134,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h3WFiY3EaDV4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:43:57",
       "video": "h3WFiY3EaDV4.mp4",
@@ -4940,6 +5159,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UOkSuERIMvZT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:44:20",
       "video": "UOkSuERIMvZT.mp4",
@@ -4964,6 +5184,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "vpuHVwUv1HHH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:44:38",
       "video": "vpuHVwUv1HHH.mp4",
@@ -4986,6 +5207,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iMd39P13ZWQk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:44:45",
       "video": "iMd39P13ZWQk.mp4",
@@ -5008,6 +5230,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WD1im1v0jLMX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:45:00",
       "video": "WD1im1v0jLMX.mp4",
@@ -5030,6 +5253,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "A8Jiah39MrVY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:45:02",
       "video": "A8Jiah39MrVY.mp4",
@@ -5052,6 +5276,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sqSMP875Jkmb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:45:02",
       "video": "sqSMP875Jkmb.mp4",
@@ -5074,6 +5299,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CmTRG8bUhFov",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:45:17",
       "video": "CmTRG8bUhFov.mp4",
@@ -5096,6 +5322,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "17mewAmmdqm8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:45:57",
       "video": "17mewAmmdqm8.mp4",
@@ -5120,6 +5347,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2tVrTWzXKhhJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:46:11",
       "video": "2tVrTWzXKhhJ.mp4",
@@ -5144,6 +5372,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Q2s5oVN1pfgk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:47:13",
       "video": "Q2s5oVN1pfgk.mp4",
@@ -5166,6 +5395,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Vvx00yf3SVVM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:48:42",
       "video": "Vvx00yf3SVVM.mp4",
@@ -5188,6 +5418,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WaNexB6Lznsq",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:48:59",
       "video": "WaNexB6Lznsq.mp4",
@@ -5210,6 +5441,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jGP69Dp5E6Am",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:49:09",
       "video": "jGP69Dp5E6Am.mp4",
@@ -5234,6 +5466,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nkL4Fpk5C8U1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:49:51",
       "video": "nkL4Fpk5C8U1.mp4",
@@ -5256,6 +5489,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QgPc65a71aHC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:50:41",
       "video": "QgPc65a71aHC.mp4",
@@ -5278,6 +5512,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4ENe4AvLzDXg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:50:43",
       "video": "4ENe4AvLzDXg.mp4",
@@ -5300,6 +5535,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kr6uD1TWjlQv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:50:43",
       "video": "kr6uD1TWjlQv.mp4",
@@ -5322,6 +5558,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4AquVMy2oe6C",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:52:20",
       "video": "4AquVMy2oe6C.mp4",
@@ -5344,6 +5581,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jNECpFrRhbpg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:52:20",
       "video": "jNECpFrRhbpg.mp4",
@@ -5366,6 +5604,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IlhIaEMwpl6i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:52:43",
       "video": "IlhIaEMwpl6i.mp4",
@@ -5388,6 +5627,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "i44n33HT20J8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:52:43",
       "video": "i44n33HT20J8.mp4",
@@ -5410,6 +5650,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9wOEguonR5WK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:53:34",
       "video": "9wOEguonR5WK.mp4",
@@ -5432,6 +5673,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mAXJK2q00tGs",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:53:53",
       "video": "mAXJK2q00tGs.mp4",
@@ -5454,6 +5696,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jSsrf328EmUH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:54:12",
       "video": "jSsrf328EmUH.mp4",
@@ -5476,6 +5719,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Lap0L50xI3S5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:54:14",
       "video": "Lap0L50xI3S5.mp4",
@@ -5498,6 +5742,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2bujYLrW7vAX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:54:20",
       "video": "2bujYLrW7vAX.mp4",
@@ -5520,6 +5765,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QjlS1mXfbokU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:54:22",
       "video": "QjlS1mXfbokU.mp4",
@@ -5542,6 +5788,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lefVDZuXCGQ6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:54:27",
       "video": "lefVDZuXCGQ6.mp4",
@@ -5564,6 +5811,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cJtt6jzaEVsY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:55:09",
       "video": "cJtt6jzaEVsY.mp4",
@@ -5588,6 +5836,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3xX9V5SrmugB",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:55:26",
       "video": "3xX9V5SrmugB.mp4",
@@ -5610,6 +5859,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "adtV4zbkXr5x",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:55:26",
       "video": "adtV4zbkXr5x.mp4",
@@ -5632,6 +5882,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cONvl0p08sMY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:55:26",
       "video": "cONvl0p08sMY.mp4",
@@ -5654,6 +5905,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lla5uObGdq5U",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:56:58",
       "video": "lla5uObGdq5U.mp4",
@@ -5676,6 +5928,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ayocSVsXW3h3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:57:19",
       "video": "ayocSVsXW3h3.mp4",
@@ -5698,6 +5951,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0pHzY3h13IO9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:57:37",
       "video": "0pHzY3h13IO9.mp4",
@@ -5722,6 +5976,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HS34fpbzqg2b",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:57:49",
       "video": "HS34fpbzqg2b.mp4",
@@ -5744,6 +5999,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Qef9FWcq57B2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:58:06",
       "video": "Qef9FWcq57B2.mp4",
@@ -5766,6 +6022,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GFrBbk68socZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:58:56",
       "video": "GFrBbk68socZ.mp4",
@@ -5788,6 +6045,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Qo3hom0Qb1at",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:59:05",
       "video": "Qo3hom0Qb1at.mp4",
@@ -5810,6 +6068,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QgPXUnbdhx3q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:59:09",
       "video": "QgPXUnbdhx3q.mp4",
@@ -5835,6 +6094,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fdkrw2R8HliY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 18:59:43",
       "video": "fdkrw2R8HliY.mp4",
@@ -5857,6 +6117,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mNHDBC1SRe5i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:00:01",
       "video": "mNHDBC1SRe5i.mp4",
@@ -5881,6 +6142,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kLb23eMMSAyI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:00:55",
       "video": "kLb23eMMSAyI.mp4",
@@ -5903,6 +6165,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UIQNpWMQtfbc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:01:37",
       "video": "UIQNpWMQtfbc.mp4",
@@ -5925,6 +6188,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mLFVFnRzLjic",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:01:49",
       "video": "mLFVFnRzLjic.mp4",
@@ -5949,6 +6213,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KUWzwIjF44AC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:01:59",
       "video": "KUWzwIjF44AC.mp4",
@@ -5971,6 +6236,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "I9VWJlj35vcy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:03:52",
       "video": "I9VWJlj35vcy.mp4",
@@ -5993,6 +6259,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "70PxGZN8jdkz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:03:59",
       "video": "70PxGZN8jdkz.mp4",
@@ -6015,6 +6282,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Hcv3lzEsnWaa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:04:17",
       "video": "Hcv3lzEsnWaa.mp4",
@@ -6037,6 +6305,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0RkqluQmLWCt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:04:48",
       "video": "0RkqluQmLWCt.mp4",
@@ -6059,6 +6328,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "U4cg0Dfgtz12",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:04:49",
       "video": "U4cg0Dfgtz12.mp4",
@@ -6081,6 +6351,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "V1yoNnUsal33",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:05:22",
       "video": "V1yoNnUsal33.mp4",
@@ -6103,6 +6374,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "reu60mHQDzBX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:19",
       "video": "reu60mHQDzBX.mp4",
@@ -6125,6 +6397,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2XUH3sL1gOJ6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:26",
       "video": "2XUH3sL1gOJ6.mp4",
@@ -6147,6 +6420,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CE7LhOl22vJ9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:28",
       "video": "CE7LhOl22vJ9.mp4",
@@ -6169,6 +6443,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "b0gyazQqn9kx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:45",
       "video": "b0gyazQqn9kx.mp4",
@@ -6191,6 +6466,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TmIiF8Y5fMPQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:47",
       "video": "TmIiF8Y5fMPQ.mp4",
@@ -6213,6 +6489,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LAIAfAzBL39U",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:06:57",
       "video": "LAIAfAzBL39U.mp4",
@@ -6235,6 +6512,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FBad9SgiC62l",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:07:51",
       "video": "FBad9SgiC62l.mp4",
@@ -6257,6 +6535,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OpeBH66qudQA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:07:58",
       "video": "OpeBH66qudQA.mp4",
@@ -6279,6 +6558,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TOEhY6KrDYU3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:08:18",
       "video": "TOEhY6KrDYU3.mp4",
@@ -6301,6 +6581,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nmB6WgFjPbwx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:08:32",
       "video": "nmB6WgFjPbwx.mp4",
@@ -6325,6 +6606,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PwoSeJkaPd5b",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:08:39",
       "video": "PwoSeJkaPd5b.mp4",
@@ -6347,6 +6629,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IxowMht75PUN",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:08:47",
       "video": "IxowMht75PUN.mp4",
@@ -6369,6 +6652,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mnp38uv7p0Tz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:09:31",
       "video": "mnp38uv7p0Tz.mp4",
@@ -6391,6 +6675,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "u9hBZAW6V6Ft",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:09:31",
       "video": "u9hBZAW6V6Ft.mp4",
@@ -6413,6 +6698,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pt4FtwnKbCIy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:09:50",
       "video": "pt4FtwnKbCIy.mp4",
@@ -6435,6 +6721,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GDnybzI29aCx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:09:50",
       "video": "GDnybzI29aCx.mp4",
@@ -6457,6 +6744,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cmzbWnPI5Jgs",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:09:54",
       "video": "cmzbWnPI5Jgs.mp4",
@@ -6479,6 +6767,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Dg4C2BcNChXn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:10:04",
       "video": "Dg4C2BcNChXn.mp4",
@@ -6504,6 +6793,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JhXxhl6veRlW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:10:12",
       "video": "JhXxhl6veRlW.mp4",
@@ -6526,6 +6816,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Hhbv22uc4cZT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:10:26",
       "video": "Hhbv22uc4cZT.mp4",
@@ -6548,6 +6839,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gDUGUplC0cfv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:11:06",
       "video": "gDUGUplC0cfv.mp4",
@@ -6570,6 +6862,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4z3SiPE3gdYo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:11:44",
       "video": "4z3SiPE3gdYo.mp4",
@@ -6592,6 +6885,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "b5lCVIHnrm2q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:11:46",
       "video": "b5lCVIHnrm2q.mp4",
@@ -6614,6 +6908,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ayhN8jk35w5F",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:12:12",
       "video": "ayhN8jk35w5F.mp4",
@@ -6638,6 +6933,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "g5Yl8ERzrXxe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:12:48",
       "video": "g5Yl8ERzrXxe.mp4",
@@ -6662,6 +6958,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pwLo9ArrdDdt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:11",
       "video": "pwLo9ArrdDdt.mp4",
@@ -6684,6 +6981,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3GuxpBJHLuKf",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:29",
       "video": "3GuxpBJHLuKf.mp4",
@@ -6706,6 +7004,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "d5Xmqp4NDLs6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:29",
       "video": "d5Xmqp4NDLs6.mp4",
@@ -6728,6 +7027,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xt00juDlyV9n",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:29",
       "video": "xt00juDlyV9n.mp4",
@@ -6750,6 +7050,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xHkUeMHMFx3F",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:35",
       "video": "xHkUeMHMFx3F.mp4",
@@ -6772,6 +7073,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kVSC3Z1yeZEe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:13:40",
       "video": "kVSC3Z1yeZEe.mp4",
@@ -6794,6 +7096,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bMHWhr5qAMH9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:14:18",
       "video": "bMHWhr5qAMH9.mp4",
@@ -6816,6 +7119,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CN67oIug5zAh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:14:26",
       "video": "CN67oIug5zAh.mp4",
@@ -6840,6 +7144,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kR4Y0kFSrb9C",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:15:19",
       "video": "kR4Y0kFSrb9C.mp4",
@@ -6862,6 +7167,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sMxOkJCipo0O",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:15:53",
       "video": "sMxOkJCipo0O.mp4",
@@ -6884,6 +7190,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "DzTb5lFGVF6I",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:16:10",
       "video": "DzTb5lFGVF6I.mp4",
@@ -6906,6 +7213,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kAv6wX8KsD1i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:16:21",
       "video": "kAv6wX8KsD1i.mp4",
@@ -6928,6 +7236,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0d6xvM4dAiW4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:16:27",
       "video": "0d6xvM4dAiW4.mp4",
@@ -6950,6 +7259,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7n9O8ZT8uXvQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:16:54",
       "video": "7n9O8ZT8uXvQ.mp4",
@@ -6972,6 +7282,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "neDUluCOUqv7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:16:56",
       "video": "neDUluCOUqv7.mp4",
@@ -6994,6 +7305,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JRY1ImJKWHvi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:17:11",
       "video": "JRY1ImJKWHvi.mp4",
@@ -7016,6 +7328,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zq7UIxedJaq1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:18:08",
       "video": "zq7UIxedJaq1.mp4",
@@ -7038,6 +7351,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ac7N27Vi6PJd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:18:31",
       "video": "Ac7N27Vi6PJd.mp4",
@@ -7062,6 +7376,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "UiC5TplHHHMG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:19:28",
       "video": "UiC5TplHHHMG.mp4",
@@ -7084,6 +7399,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "d7W6peU7P7SA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:20:36",
       "video": "d7W6peU7P7SA.mp4",
@@ -7108,6 +7424,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "D7gBZ66rFsaJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:20:41",
       "video": "D7gBZ66rFsaJ.mp4",
@@ -7132,6 +7449,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8154Nmd3bQq2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:20:41",
       "video": "8154Nmd3bQq2.mp4",
@@ -7154,6 +7472,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aYhh5zOFFNcR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:21:01",
       "video": "aYhh5zOFFNcR.mp4",
@@ -7178,6 +7497,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "akK49L4aRpbh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:21:06",
       "video": "akK49L4aRpbh.mp4",
@@ -7200,6 +7520,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "t4AqEOluEwK2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:22:48",
       "video": "t4AqEOluEwK2.mp4",
@@ -7222,6 +7543,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "U7VsTu7M14LE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:23:59",
       "video": "U7VsTu7M14LE.mp4",
@@ -7244,6 +7566,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "prkBlbR39wl6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:24:56",
       "video": "prkBlbR39wl6.mp4",
@@ -7266,6 +7589,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7Fu9YJVZmNkj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:24:58",
       "video": "7Fu9YJVZmNkj.mp4",
@@ -7288,6 +7612,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CBjQ5bkcprs4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:24:58",
       "video": "CBjQ5bkcprs4.mp4",
@@ -7312,6 +7637,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MOPeiWMzp6mh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:25:36",
       "video": "MOPeiWMzp6mh.mp4",
@@ -7334,6 +7660,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4BhzQKA2VI0d",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:26:09",
       "video": "4BhzQKA2VI0d.mp4",
@@ -7356,6 +7683,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "R208i0FuPZ4N",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:26:13",
       "video": "R208i0FuPZ4N.mp4",
@@ -7378,6 +7706,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "weArmA6HzH6s",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:26:27",
       "video": "weArmA6HzH6s.mp4",
@@ -7400,6 +7729,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jkHvCmHQ8YzJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:26:53",
       "video": "jkHvCmHQ8YzJ.mp4",
@@ -7422,6 +7752,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9quKY3UvWlvg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:28:19",
       "video": "9quKY3UvWlvg.mp4",
@@ -7444,6 +7775,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6FY6c0d8IMjz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:28:31",
       "video": "6FY6c0d8IMjz.mp4",
@@ -7466,6 +7798,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IOqrjPvbQx6s",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:28:31",
       "video": "IOqrjPvbQx6s.mp4",
@@ -7488,6 +7821,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GW0AjcMLlz1v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:28:47",
       "video": "GW0AjcMLlz1v.mp4",
@@ -7510,6 +7844,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "x7HrWSfLcYr7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:28:55",
       "video": "x7HrWSfLcYr7.mp4",
@@ -7532,6 +7867,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AYijYnzI0Gbr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:38",
       "video": "AYijYnzI0Gbr.mp4",
@@ -7554,6 +7890,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8wZMDTyKo5Tm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "8wZMDTyKo5Tm.mp4",
@@ -7576,6 +7913,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "DMtXYvwqu6HV",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "DMtXYvwqu6HV.mp4",
@@ -7598,6 +7936,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QxqgND9HYqZb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "QxqgND9HYqZb.mp4",
@@ -7620,6 +7959,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Yl9407p2WPZh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "Yl9407p2WPZh.mp4",
@@ -7642,6 +7982,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eQuAGfU87pPB",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "eQuAGfU87pPB.mp4",
@@ -7664,6 +8005,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "r7CBzBlbDAI1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:29:52",
       "video": "r7CBzBlbDAI1.mp4",
@@ -7686,6 +8028,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uu11kCrXZa78",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:23",
       "video": "uu11kCrXZa78.mp4",
@@ -7708,6 +8051,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9YKTu0zdQL5F",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:32",
       "video": "9YKTu0zdQL5F.mp4",
@@ -7730,6 +8074,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jlY81ya1uxzI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:32",
       "video": "jlY81ya1uxzI.mp4",
@@ -7752,6 +8097,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dZY4EmEcSdUF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:35",
       "video": "dZY4EmEcSdUF.mp4",
@@ -7774,6 +8120,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WYkjlMj5VqBl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:47",
       "video": "WYkjlMj5VqBl.mp4",
@@ -7796,6 +8143,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4wIDySD7tKxo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:30:48",
       "video": "4wIDySD7tKxo.mp4",
@@ -7823,6 +8171,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CZgJF11YMHNh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:31:05",
       "video": "CZgJF11YMHNh.mp4",
@@ -7847,6 +8196,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "24fJYQldjZd2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:31:20",
       "video": "24fJYQldjZd2.mp4",
@@ -7869,6 +8219,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cnj6DJtVllfK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:33:02",
       "video": "cnj6DJtVllfK.mp4",
@@ -7891,6 +8242,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "i4km00GwGXJl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:33:06",
       "video": "i4km00GwGXJl.mp4",
@@ -7913,6 +8265,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HpFLIM31gIU3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:34:02",
       "video": "HpFLIM31gIU3.mp4",
@@ -7935,6 +8288,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TXMlp22HyR7c",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:34:35",
       "video": "TXMlp22HyR7c.mp4",
@@ -7957,6 +8311,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PI503wb3YSoh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:34:52",
       "video": "PI503wb3YSoh.mp4",
@@ -7979,6 +8334,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eGLhyqeTOQCx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:34:58",
       "video": "eGLhyqeTOQCx.mp4",
@@ -8001,6 +8357,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "535LGMMm0KtE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:28",
       "video": "535LGMMm0KtE.mp4",
@@ -8023,6 +8380,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TFY9jqrTi1fT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:35",
       "video": "TFY9jqrTi1fT.mp4",
@@ -8045,6 +8403,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "A6nbSYGTQ2hW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:36",
       "video": "A6nbSYGTQ2hW.mp4",
@@ -8067,6 +8426,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1B7KFzHPr5ST",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:36",
       "video": "1B7KFzHPr5ST.mp4",
@@ -8089,6 +8449,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ai8AzhEoyrGX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:43",
       "video": "ai8AzhEoyrGX.mp4",
@@ -8115,6 +8476,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8rCpNjS3g3Ok",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:51",
       "video": "8rCpNjS3g3Ok.mp4",
@@ -8139,6 +8501,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KAu8c8e4lbDG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:54",
       "video": "KAu8c8e4lbDG.mp4",
@@ -8161,6 +8524,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XZeZIBxC6R64",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:35:55",
       "video": "XZeZIBxC6R64.mp4",
@@ -8185,6 +8549,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "k5DNY63jXHR9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:36:12",
       "video": "k5DNY63jXHR9.mp4",
@@ -8209,6 +8574,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "YyiW5o4xagEw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:36:16",
       "video": "YyiW5o4xagEw.mp4",
@@ -8231,6 +8597,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "A1z3oGHrEMaJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:36:20",
       "video": "A1z3oGHrEMaJ.mp4",
@@ -8255,6 +8622,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "65TvMK7dx9fy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:36:58",
       "video": "65TvMK7dx9fy.mp4",
@@ -8277,6 +8645,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dT3kSGZzzSzI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:37:57",
       "video": "dT3kSGZzzSzI.mp4",
@@ -8299,6 +8668,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ns9EbTf56zJM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:37:57",
       "video": "ns9EbTf56zJM.mp4",
@@ -8321,6 +8691,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "K7kOq8ql1BVw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:38:00",
       "video": "K7kOq8ql1BVw.mp4",
@@ -8343,6 +8714,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sxHzcBEewg7i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:38:02",
       "video": "sxHzcBEewg7i.mp4",
@@ -8365,6 +8737,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oe78jzaih2Fp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:38:07",
       "video": "oe78jzaih2Fp.mp4",
@@ -8387,6 +8760,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8fsC1EfPO70k",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:38:18",
       "video": "8fsC1EfPO70k.mp4",
@@ -8409,6 +8783,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wsRe9EYoao7V",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:38:37",
       "video": "wsRe9EYoao7V.mp4",
@@ -8434,6 +8809,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dwvgDZzQRsY3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:39:11",
       "video": "dwvgDZzQRsY3.mp4",
@@ -8456,6 +8832,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tXIzFNM5yp9f",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:39:52",
       "video": "tXIzFNM5yp9f.mp4",
@@ -8481,6 +8858,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0DCuGD9WARVH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:40:56",
       "video": "0DCuGD9WARVH.mp4",
@@ -8503,6 +8881,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qGwtu6qUHfjy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:01",
       "video": "qGwtu6qUHfjy.mp4",
@@ -8525,6 +8904,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "X9301RyNxl2u",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:31",
       "video": "X9301RyNxl2u.mp4",
@@ -8547,6 +8927,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "k7KE6Yc6SkoA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:31",
       "video": "k7KE6Yc6SkoA.mp4",
@@ -8569,6 +8950,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IKryGnxGkGMy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:35",
       "video": "IKryGnxGkGMy.mp4",
@@ -8591,6 +8973,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2ydAnxMmbVs2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:47",
       "video": "2ydAnxMmbVs2.mp4",
@@ -8613,6 +8996,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7zqjUDoBOHwI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:41:59",
       "video": "7zqjUDoBOHwI.mp4",
@@ -8637,6 +9021,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9M4Lnsf790sK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:42:20",
       "video": "9M4Lnsf790sK.mp4",
@@ -8661,6 +9046,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Cg3gG8trkats",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:42:21",
       "video": "Cg3gG8trkats.mp4",
@@ -8683,6 +9069,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AwZ6iEJ07eyx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:42:55",
       "video": "AwZ6iEJ07eyx.mp4",
@@ -8705,6 +9092,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JmnaAbNVz3nl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:43:38",
       "video": "JmnaAbNVz3nl.mp4",
@@ -8727,6 +9115,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4nZvifrR6Gb5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:43:39",
       "video": "4nZvifrR6Gb5.mp4",
@@ -8752,6 +9141,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "z32a3bWM4IU5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:43:50",
       "video": "z32a3bWM4IU5.mp4",
@@ -8774,6 +9164,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xy2JnbdsJG5q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:44:21",
       "video": "xy2JnbdsJG5q.mp4",
@@ -8796,6 +9187,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QPVWWBfaGylL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:01",
       "video": "QPVWWBfaGylL.mp4",
@@ -8818,6 +9210,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FsiTLLuzqPC5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:02",
       "video": "FsiTLLuzqPC5.mp4",
@@ -8840,6 +9233,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BKzCTrgUan1v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:08",
       "video": "BKzCTrgUan1v.mp4",
@@ -8862,6 +9256,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fT9hBhlaFgZd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:08",
       "video": "fT9hBhlaFgZd.mp4",
@@ -8884,6 +9279,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "seke9fBiFTyF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:08",
       "video": "seke9fBiFTyF.mp4",
@@ -8906,6 +9302,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Kmm034ViQJyl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:13",
       "video": "Kmm034ViQJyl.mp4",
@@ -8928,6 +9325,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OgrPDRox3rYY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:17",
       "video": "OgrPDRox3rYY.mp4",
@@ -8952,6 +9350,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "G3QrHQ8hQT2j",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:35",
       "video": "G3QrHQ8hQT2j.mp4",
@@ -8974,6 +9373,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iLT5LyXUlPV9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:35",
       "video": "iLT5LyXUlPV9.mp4",
@@ -8996,6 +9396,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9bJLFfPeZlk8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:45:42",
       "video": "9bJLFfPeZlk8.mp4",
@@ -9018,6 +9419,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mwt1iRwgWYqy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:04",
       "video": "mwt1iRwgWYqy.mp4",
@@ -9042,6 +9444,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7iB22C7LbbNy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:27",
       "video": "7iB22C7LbbNy.mp4",
@@ -9064,6 +9467,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "DWGQ3kX1t1bF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:27",
       "video": "DWGQ3kX1t1bF.mp4",
@@ -9086,6 +9490,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fpdroYF3R9Fm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:27",
       "video": "fpdroYF3R9Fm.mp4",
@@ -9108,6 +9513,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jBCihjRZf0Q3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:32",
       "video": "jBCihjRZf0Q3.mp4",
@@ -9130,6 +9536,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VVtO7erqIcAG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:57",
       "video": "VVtO7erqIcAG.mp4",
@@ -9152,6 +9559,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aliZGu3YsI5q",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:46:57",
       "video": "aliZGu3YsI5q.mp4",
@@ -9174,6 +9582,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iLnkEpoJQrGI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:47:06",
       "video": "iLnkEpoJQrGI.mp4",
@@ -9196,6 +9605,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "onVXm7gZrnOG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:47:22",
       "video": "onVXm7gZrnOG.mp4",
@@ -9224,6 +9634,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pQf5uxtLtxH5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:47:30",
       "video": "pQf5uxtLtxH5.mp4",
@@ -9246,6 +9657,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eGOoR3I08FkK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:47:46",
       "video": "eGOoR3I08FkK.mp4",
@@ -9268,6 +9680,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KMyt1obG9scS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:48:35",
       "video": "KMyt1obG9scS.mp4",
@@ -9293,6 +9706,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kneFRcEfGSQC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:48:52",
       "video": "kneFRcEfGSQC.mp4",
@@ -9317,6 +9731,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QNPHAGgOFQAp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:49:08",
       "video": "QNPHAGgOFQAp.mp4",
@@ -9339,6 +9754,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Qau1A0qmEkCT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:49:10",
       "video": "Qau1A0qmEkCT.mp4",
@@ -9361,6 +9777,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "x8vmLFDDM1IM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:49:45",
       "video": "x8vmLFDDM1IM.mp4",
@@ -9383,6 +9800,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hL2yyR9YsFmy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:50:17",
       "video": "hL2yyR9YsFmy.mp4",
@@ -9405,6 +9823,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "b4zuuhfp6WDv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:50:25",
       "video": "b4zuuhfp6WDv.mp4",
@@ -9427,6 +9846,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "T57zH8SK96yv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:50:29",
       "video": "T57zH8SK96yv.mp4",
@@ -9449,6 +9869,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PQdPojnDKG5e",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:50:55",
       "video": "PQdPojnDKG5e.mp4",
@@ -9473,6 +9894,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5lmXbMBh57vI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:50:58",
       "video": "5lmXbMBh57vI.mp4",
@@ -9495,6 +9917,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZGCqQo5go8RC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:51:10",
       "video": "ZGCqQo5go8RC.mp4",
@@ -9519,6 +9942,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3ZXOHhUdKlYd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:51:30",
       "video": "3ZXOHhUdKlYd.mp4",
@@ -9541,6 +9965,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MAUXuBm0ERQ6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:52:02",
       "video": "MAUXuBm0ERQ6.mp4",
@@ -9563,6 +9988,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4BN8CUCRxXuI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:52:10",
       "video": "4BN8CUCRxXuI.mp4",
@@ -9585,6 +10011,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h2nH3xXOsrQ5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:52:10",
       "video": "h2nH3xXOsrQ5.mp4",
@@ -9607,6 +10034,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "S3xTtPUyKMam",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:52:15",
       "video": "S3xTtPUyKMam.mp4",
@@ -9631,6 +10059,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QuamW4hp4JQw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:52:24",
       "video": "QuamW4hp4JQw.mp4",
@@ -9653,6 +10082,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xQzHp0aizbvU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:13",
       "video": "xQzHp0aizbvU.mp4",
@@ -9675,6 +10105,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6p2yjz4nBLcd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:25",
       "video": "6p2yjz4nBLcd.mp4",
@@ -9697,6 +10128,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GfSUNqBBliUF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:31",
       "video": "GfSUNqBBliUF.mp4",
@@ -9719,6 +10151,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GXN2iRqMxDy0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:35",
       "video": "GXN2iRqMxDy0.mp4",
@@ -9743,6 +10176,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "QsKjvIGPfWKU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:53",
       "video": "QsKjvIGPfWKU.mp4",
@@ -9765,6 +10199,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Wvt5X1vEtjgO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:53:53",
       "video": "Wvt5X1vEtjgO.mp4",
@@ -9787,6 +10222,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tk5IR0D4aQuw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:02",
       "video": "tk5IR0D4aQuw.mp4",
@@ -9811,6 +10247,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8wCMdWEW39Ff",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:28",
       "video": "8wCMdWEW39Ff.mp4",
@@ -9835,6 +10272,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "vmiDLX97YgI9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:31",
       "video": "vmiDLX97YgI9.mp4",
@@ -9859,6 +10297,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "edx5l3yDUQ6B",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:55",
       "video": "edx5l3yDUQ6B.mp4",
@@ -9881,6 +10320,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h0ZpQjfbpkQL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:55",
       "video": "h0ZpQjfbpkQL.mp4",
@@ -9903,6 +10343,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "niqYpYO732cz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:54:55",
       "video": "niqYpYO732cz.mp4",
@@ -9925,6 +10366,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NU3mL7uF5ryx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:55:04",
       "video": "NU3mL7uF5ryx.mp4",
@@ -9947,6 +10389,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IA3EZSOAq1Mo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:55:32",
       "video": "IA3EZSOAq1Mo.mp4",
@@ -9969,6 +10412,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NxFqzCuhUuWu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:55:59",
       "video": "NxFqzCuhUuWu.mp4",
@@ -9994,6 +10438,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zQq9yoQY3r3t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:57:07",
       "video": "zQq9yoQY3r3t.mp4",
@@ -10016,6 +10461,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "G7450BeenqR7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:57:09",
       "video": "G7450BeenqR7.mp4",
@@ -10040,6 +10486,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CNrWBNcfCr8w",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:57:52",
       "video": "CNrWBNcfCr8w.mp4",
@@ -10062,6 +10509,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OcH04ImVxWii",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:58:02",
       "video": "OcH04ImVxWii.mp4",
@@ -10086,6 +10534,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lTQpQNshDHhK",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:58:09",
       "video": "lTQpQNshDHhK.mp4",
@@ -10108,6 +10557,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "U6EA5mgSkTWR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:59:16",
       "video": "U6EA5mgSkTWR.mp4",
@@ -10130,6 +10580,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2PBoIh9W74cM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:59:41",
       "video": "2PBoIh9W74cM.mp4",
@@ -10152,6 +10603,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KOZwp3W3n68V",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 19:59:41",
       "video": "KOZwp3W3n68V.mp4",
@@ -10174,6 +10626,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tN18oEGcdGtX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:01:15",
       "video": "tN18oEGcdGtX.mp4",
@@ -10196,6 +10649,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AmVOZeAY7tjF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:01:50",
       "video": "AmVOZeAY7tjF.mp4",
@@ -10218,6 +10672,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "c7pkKiK235B9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:01:50",
       "video": "c7pkKiK235B9.mp4",
@@ -10240,6 +10695,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yN6bjJ3ztpBm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:01:50",
       "video": "yN6bjJ3ztpBm.mp4",
@@ -10262,6 +10718,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "55IZysHw38wO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:02:11",
       "video": "55IZysHw38wO.mp4",
@@ -10284,6 +10741,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XN72wrdt4gqJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:02:28",
       "video": "XN72wrdt4gqJ.mp4",
@@ -10306,6 +10764,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "W8ltLizECrMG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:02:50",
       "video": "W8ltLizECrMG.mp4",
@@ -10331,6 +10790,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kau2NI4P6n48",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:04:27",
       "video": "kau2NI4P6n48.mp4",
@@ -10353,6 +10813,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nEh3x4CIh2Id",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:05:32",
       "video": "nEh3x4CIh2Id.mp4",
@@ -10375,6 +10836,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GKDXRqh3021Z",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:05:34",
       "video": "GKDXRqh3021Z.mp4",
@@ -10397,6 +10859,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XBDMuKJHZYGP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:07:10",
       "video": "XBDMuKJHZYGP.mp4",
@@ -10422,6 +10885,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cH7hJfL5O4UU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:00",
       "video": "cH7hJfL5O4UU.mp4",
@@ -10444,6 +10908,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WySGloihPeyr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:23",
       "video": "WySGloihPeyr.mp4",
@@ -10466,6 +10931,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OTfQ508rSNT2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:24",
       "video": "OTfQ508rSNT2.mp4",
@@ -10488,6 +10954,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LQN0zyD01D3i",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:25",
       "video": "LQN0zyD01D3i.mp4",
@@ -10513,6 +10980,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "YOZZhOBy8vLv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:38",
       "video": "YOZZhOBy8vLv.mp4",
@@ -10535,6 +11003,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uWqE9aiqIa5b",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:08:56",
       "video": "uWqE9aiqIa5b.mp4",
@@ -10559,6 +11028,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BzlETjKJ7mw7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:09:31",
       "video": "BzlETjKJ7mw7.mp4",
@@ -10581,6 +11051,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "C6CA3XcXO87g",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:09:55",
       "video": "C6CA3XcXO87g.mp4",
@@ -10603,6 +11074,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "92T2a5WhOOdi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:22",
       "video": "92T2a5WhOOdi.mp4",
@@ -10625,6 +11097,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BnoDFbldwdly",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:22",
       "video": "BnoDFbldwdly.mp4",
@@ -10647,6 +11120,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Q7J24BNG2mCD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:22",
       "video": "Q7J24BNG2mCD.mp4",
@@ -10669,6 +11143,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7ImZGTdfdcUk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:24",
       "video": "7ImZGTdfdcUk.mp4",
@@ -10691,6 +11166,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ckvcLvKYv4cd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:24",
       "video": "ckvcLvKYv4cd.mp4",
@@ -10713,6 +11189,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dH7rHe3d36Wo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:24",
       "video": "dH7rHe3d36Wo.mp4",
@@ -10735,6 +11212,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "v86cAAcKaAx7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:10:29",
       "video": "v86cAAcKaAx7.mp4",
@@ -10757,6 +11235,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZhHAD9NO8kHg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:11:14",
       "video": "ZhHAD9NO8kHg.mp4",
@@ -10779,6 +11258,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "c1vJVaLcIdbk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:11:14",
       "video": "c1vJVaLcIdbk.mp4",
@@ -10801,6 +11281,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rrdaPC4SVNDT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:11:24",
       "video": "rrdaPC4SVNDT.mp4",
@@ -10823,6 +11304,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9mroY9bM530c",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:11:33",
       "video": "9mroY9bM530c.mp4",
@@ -10848,6 +11330,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dnaYFpHBSu5k",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:12:08",
       "video": "dnaYFpHBSu5k.mp4",
@@ -10870,6 +11353,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "T4Umz6d0SMnc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:12:16",
       "video": "T4Umz6d0SMnc.mp4",
@@ -10894,6 +11378,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "naDQiKfDfv7G",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:12:17",
       "video": "naDQiKfDfv7G.mp4",
@@ -10916,6 +11401,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2XwJn0Iqphrc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:02",
       "video": "2XwJn0Iqphrc.mp4",
@@ -10940,6 +11426,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OYFkHMYFMLfZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:05",
       "video": "OYFkHMYFMLfZ.mp4",
@@ -10964,6 +11451,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0ILtbKNKST48",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:25",
       "video": "0ILtbKNKST48.mp4",
@@ -10986,6 +11474,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JFDVk6DaG1KD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:52",
       "video": "JFDVk6DaG1KD.mp4",
@@ -11008,6 +11497,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TCEV0FC63Cns",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:52",
       "video": "TCEV0FC63Cns.mp4",
@@ -11030,6 +11520,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VXQewijq1iuR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:13:58",
       "video": "VXQewijq1iuR.mp4",
@@ -11052,6 +11543,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "P965teMlfY6l",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:14:00",
       "video": "P965teMlfY6l.mp4",
@@ -11074,6 +11566,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "he044xyPOURQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:14:11",
       "video": "he044xyPOURQ.mp4",
@@ -11096,6 +11589,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wvTbtnGOAknX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:14:30",
       "video": "wvTbtnGOAknX.mp4",
@@ -11123,6 +11617,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "tAc2BMgZlMhL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:14:41",
       "video": "tAc2BMgZlMhL.mp4",
@@ -11145,6 +11640,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KbHJ1yC6Suub",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:15:50",
       "video": "KbHJ1yC6Suub.mp4",
@@ -11167,6 +11663,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FrQl6xqto2uu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:15:55",
       "video": "FrQl6xqto2uu.mp4",
@@ -11189,6 +11686,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "e1gcuShcWxYz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:17:20",
       "video": "e1gcuShcWxYz.mp4",
@@ -11211,6 +11709,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5WD4sk51MUzc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:17:40",
       "video": "5WD4sk51MUzc.mp4",
@@ -11233,6 +11732,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "IXySAT5Xk5o8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:17:49",
       "video": "IXySAT5Xk5o8.mp4",
@@ -11255,6 +11755,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nc76VY2gAWt8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:18:02",
       "video": "nc76VY2gAWt8.mp4",
@@ -11277,6 +11778,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JidHZjUPGeIb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:18:32",
       "video": "JidHZjUPGeIb.mp4",
@@ -11299,6 +11801,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JKrCxU305gfZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:18:49",
       "video": "JKrCxU305gfZ.mp4",
@@ -11321,6 +11824,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ahY8n2R8hyxb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:18:52",
       "video": "ahY8n2R8hyxb.mp4",
@@ -11343,6 +11847,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "58lWitKHBAbq",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:19:25",
       "video": "58lWitKHBAbq.mp4",
@@ -11365,6 +11870,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rKv1m3cDVn8K",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:19:46",
       "video": "rKv1m3cDVn8K.mp4",
@@ -11387,6 +11893,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dyxOuy25PXw6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:20:29",
       "video": "dyxOuy25PXw6.mp4",
@@ -11411,6 +11918,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "C4YoY0OUVVNO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:20:37",
       "video": "C4YoY0OUVVNO.mp4",
@@ -11433,6 +11941,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "X3bX08cgxZ14",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:20:45",
       "video": "X3bX08cgxZ14.mp4",
@@ -11455,6 +11964,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5KP7PnNWK4Ue",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:21:40",
       "video": "5KP7PnNWK4Ue.mp4",
@@ -11477,6 +11987,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6VYEdaOOP3hD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:21:40",
       "video": "6VYEdaOOP3hD.mp4",
@@ -11499,6 +12010,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7WJTCduTUKpl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:21:40",
       "video": "7WJTCduTUKpl.mp4",
@@ -11521,6 +12033,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uAKQeDMoSL0c",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:22:15",
       "video": "uAKQeDMoSL0c.mp4",
@@ -11543,6 +12056,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2DzUC8Jvgx4g",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:22:17",
       "video": "2DzUC8Jvgx4g.mp4",
@@ -11567,6 +12081,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "50d3X1juOHK8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:23:05",
       "video": "50d3X1juOHK8.mp4",
@@ -11589,6 +12104,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ehSae1O1C9pt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:23:05",
       "video": "ehSae1O1C9pt.mp4",
@@ -11611,6 +12127,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Tn46zhOR0nF1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:23:53",
       "video": "Tn46zhOR0nF1.mp4",
@@ -11635,6 +12152,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dF2z7e7CkqqD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:23:58",
       "video": "dF2z7e7CkqqD.mp4",
@@ -11657,6 +12175,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fyEPZnIr509X",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:06",
       "video": "fyEPZnIr509X.mp4",
@@ -11679,6 +12198,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OVRHonUii72H",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:21",
       "video": "OVRHonUii72H.mp4",
@@ -11701,6 +12221,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BvNA5CiE47yt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:26",
       "video": "BvNA5CiE47yt.mp4",
@@ -11725,6 +12246,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Iw8f3g3OZ7Ib",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:26",
       "video": "Iw8f3g3OZ7Ib.mp4",
@@ -11749,6 +12271,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AP1Rxpm2FsWe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:30",
       "video": "AP1Rxpm2FsWe.mp4",
@@ -11771,6 +12294,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7zAhxOgZLwXG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:24:46",
       "video": "7zAhxOgZLwXG.mp4",
@@ -11793,6 +12317,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bjXvAoK0Gu5F",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:25:12",
       "video": "bjXvAoK0Gu5F.mp4",
@@ -11815,6 +12340,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5L54o4c0fxCG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:25:41",
       "video": "5L54o4c0fxCG.mp4",
@@ -11837,6 +12363,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ATHRnnmNpayv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:25:42",
       "video": "ATHRnnmNpayv.mp4",
@@ -11859,6 +12386,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iRWQjcZoNssg",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:25:42",
       "video": "iRWQjcZoNssg.mp4",
@@ -11881,6 +12409,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qqB0N0VrBJt2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:25:43",
       "video": "qqB0N0VrBJt2.mp4",
@@ -11903,6 +12432,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "REUyWy1tXI22",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:26:46",
       "video": "REUyWy1tXI22.mp4",
@@ -11927,6 +12457,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lxN8ne0vbVD9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:27:23",
       "video": "lxN8ne0vbVD9.mp4",
@@ -11949,6 +12480,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "apk625yMXapx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:27:36",
       "video": "apk625yMXapx.mp4",
@@ -11971,6 +12503,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FEwehCHGBE3e",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:28:51",
       "video": "FEwehCHGBE3e.mp4",
@@ -11993,6 +12526,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KYoi7C8a45cX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:29:40",
       "video": "KYoi7C8a45cX.mp4",
@@ -12015,6 +12549,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oNuC6injCNBb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:30:02",
       "video": "oNuC6injCNBb.mp4",
@@ -12037,6 +12572,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "RfmiOsck22e4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:30:06",
       "video": "RfmiOsck22e4.mp4",
@@ -12059,6 +12595,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ntz8J5eFBH6g",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:31:13",
       "video": "ntz8J5eFBH6g.mp4",
@@ -12084,6 +12621,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SHGsCPYkkOFj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:31:29",
       "video": "SHGsCPYkkOFj.mp4",
@@ -12106,6 +12644,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FRPR3VqfBzIF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:31:47",
       "video": "FRPR3VqfBzIF.mp4",
@@ -12132,6 +12671,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Rp3qrB15ypiE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:34:29",
       "video": "Rp3qrB15ypiE.mp4",
@@ -12154,6 +12694,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gBqTAHIlozbl",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:34:52",
       "video": "gBqTAHIlozbl.mp4",
@@ -12179,6 +12720,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sK1F7q5Fv7IL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:35:23",
       "video": "sK1F7q5Fv7IL.mp4",
@@ -12201,6 +12743,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Bl351Ty32aMu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:35:33",
       "video": "Bl351Ty32aMu.mp4",
@@ -12223,6 +12766,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OlQ3FLNrUgf5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:35:33",
       "video": "OlQ3FLNrUgf5.mp4",
@@ -12245,6 +12789,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "35iIAVuIAijR",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:35:40",
       "video": "35iIAVuIAijR.mp4",
@@ -12267,6 +12812,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "v7WuuCUCUgtD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:38:05",
       "video": "v7WuuCUCUgtD.mp4",
@@ -12291,6 +12837,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "o5ESRQACvFwS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:40:03",
       "video": "o5ESRQACvFwS.mp4",
@@ -12313,6 +12860,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KQ0TpQnsiuCS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:40:44",
       "video": "KQ0TpQnsiuCS.mp4",
@@ -12337,6 +12885,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "D74suPzrQwTL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:41:09",
       "video": "D74suPzrQwTL.mp4",
@@ -12359,6 +12908,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9T1Wgyjt0vKj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:41:31",
       "video": "9T1Wgyjt0vKj.mp4",
@@ -12383,6 +12933,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SINnkDbJKVVy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:41:34",
       "video": "SINnkDbJKVVy.mp4",
@@ -12405,6 +12956,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jYwFYXnCB8gz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:41:46",
       "video": "jYwFYXnCB8gz.mp4",
@@ -12429,6 +12981,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "c0nIoRasIm5z",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:42:18",
       "video": "c0nIoRasIm5z.mp4",
@@ -12453,6 +13006,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2hmWsS7hbKrk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:42:56",
       "video": "2hmWsS7hbKrk.mp4",
@@ -12477,6 +13031,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HX07G51QKPEx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:43:53",
       "video": "HX07G51QKPEx.mp4",
@@ -12499,6 +13054,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dTs1N3WVh3h8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:43:57",
       "video": "dTs1N3WVh3h8.mp4",
@@ -12521,6 +13077,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TpGdYnhxD5kw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:45:26",
       "video": "TpGdYnhxD5kw.mp4",
@@ -12543,6 +13100,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fhqU4rQ4ZFzO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:47:19",
       "video": "fhqU4rQ4ZFzO.mp4",
@@ -12565,6 +13123,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3ViaXA7t2cYc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:48:11",
       "video": "3ViaXA7t2cYc.mp4",
@@ -12587,6 +13146,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0lmypbT9naSL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:49:20",
       "video": "0lmypbT9naSL.mp4",
@@ -12609,6 +13169,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gMBFKGBhPEWE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:49:50",
       "video": "gMBFKGBhPEWE.mp4",
@@ -12631,6 +13192,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "vwn5xmDvxfqV",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:50:07",
       "video": "vwn5xmDvxfqV.mp4",
@@ -12653,6 +13215,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "gy0CVMmIIpqp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:50:40",
       "video": "gy0CVMmIIpqp.mp4",
@@ -12675,6 +13238,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "G4rdUjsXjPju",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:50:50",
       "video": "G4rdUjsXjPju.mp4",
@@ -12697,6 +13261,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "05wJWPlwYEm2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:50:52",
       "video": "05wJWPlwYEm2.mp4",
@@ -12719,6 +13284,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xDvtEJtl0RsY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:51:12",
       "video": "xDvtEJtl0RsY.mp4",
@@ -12741,6 +13307,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "9HgjVjxIB1F0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:51:41",
       "video": "9HgjVjxIB1F0.mp4",
@@ -12763,6 +13330,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "X1mc2UButF8U",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:52:07",
       "video": "X1mc2UButF8U.mp4",
@@ -12785,6 +13353,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AwME4HLA6vtW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:52:29",
       "video": "AwME4HLA6vtW.mp4",
@@ -12809,6 +13378,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XNohvDluHfmx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:52:47",
       "video": "XNohvDluHfmx.mp4",
@@ -12831,6 +13401,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CdZE4mF5ht43",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:52:56",
       "video": "CdZE4mF5ht43.mp4",
@@ -12853,6 +13424,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "29cZegQUocJb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:53:03",
       "video": "29cZegQUocJb.mp4",
@@ -12877,6 +13449,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nYJeSZQnzWD0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:53:33",
       "video": "nYJeSZQnzWD0.mp4",
@@ -12899,6 +13472,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0VjRwooevgzN",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:53:38",
       "video": "0VjRwooevgzN.mp4",
@@ -12921,6 +13495,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "x9k3Cy14CSkF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:54:50",
       "video": "x9k3Cy14CSkF.mp4",
@@ -12943,6 +13518,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MIS1v7mdAmPU",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:55:08",
       "video": "MIS1v7mdAmPU.mp4",
@@ -12965,6 +13541,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hgQYuqIrZTls",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:55:09",
       "video": "hgQYuqIrZTls.mp4",
@@ -12987,6 +13564,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5E16pZQTISLc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:55:25",
       "video": "5E16pZQTISLc.mp4",
@@ -13009,6 +13587,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "J9hbVTooDYoT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:55:33",
       "video": "J9hbVTooDYoT.mp4",
@@ -13031,6 +13610,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "JTr7X40BBrhP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:55:55",
       "video": "JTr7X40BBrhP.mp4",
@@ -13053,6 +13633,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KWcmmaWP9GGe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:56:04",
       "video": "KWcmmaWP9GGe.mp4",
@@ -13078,6 +13659,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "t4l1G51olUAh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:56:50",
       "video": "t4l1G51olUAh.mp4",
@@ -13100,6 +13682,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "a8lp9oooOT3m",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:57:03",
       "video": "a8lp9oooOT3m.mp4",
@@ -13124,6 +13707,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "niJAyVlPCRZJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:58:42",
       "video": "niJAyVlPCRZJ.mp4",
@@ -13146,6 +13730,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OBZizPT08K46",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:58:48",
       "video": "OBZizPT08K46.mp4",
@@ -13168,6 +13753,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "t7MJQilPbkFn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:59:03",
       "video": "t7MJQilPbkFn.mp4",
@@ -13190,6 +13776,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rgDWmSDLhmhC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:59:08",
       "video": "rgDWmSDLhmhC.mp4",
@@ -13216,6 +13803,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h8BjMg20Fk7s",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 20:59:48",
       "video": "h8BjMg20Fk7s.mp4",
@@ -13238,6 +13826,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CgZxY8PDNM9m",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:00:10",
       "video": "CgZxY8PDNM9m.mp4",
@@ -13260,6 +13849,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "goL0HLdYn3Pb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:00:35",
       "video": "goL0HLdYn3Pb.mp4",
@@ -13285,6 +13875,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MVQm0eNzhPVp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:01:10",
       "video": "MVQm0eNzhPVp.mp4",
@@ -13307,6 +13898,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BQ97NR3FGlWY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:01:23",
       "video": "BQ97NR3FGlWY.mp4",
@@ -13331,6 +13923,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "RCK9wvoDmKQA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:01:42",
       "video": "RCK9wvoDmKQA.mp4",
@@ -13353,6 +13946,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FH2gzWNmVnUx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:02:02",
       "video": "FH2gzWNmVnUx.mp4",
@@ -13375,6 +13969,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "059AWtA9q7PG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:02:31",
       "video": "059AWtA9q7PG.mp4",
@@ -13397,6 +13992,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5an2kTUFQs2t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:06",
       "video": "5an2kTUFQs2t.mp4",
@@ -13421,6 +14017,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HP1SIkO4eErL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:11",
       "video": "HP1SIkO4eErL.mp4",
@@ -13443,6 +14040,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LhPiDTMhUSGL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:11",
       "video": "LhPiDTMhUSGL.mp4",
@@ -13465,6 +14063,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mAeQjkqeA7Up",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:11",
       "video": "mAeQjkqeA7Up.mp4",
@@ -13487,6 +14086,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nHwELP7CxOl0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:11",
       "video": "nHwELP7CxOl0.mp4",
@@ -13509,6 +14109,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "dltfIbXGM5gi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:04:29",
       "video": "dltfIbXGM5gi.mp4",
@@ -13534,6 +14135,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fXCW0v9cFfE4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:05:21",
       "video": "fXCW0v9cFfE4.mp4",
@@ -13558,6 +14160,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "D1nBUG3Qu3sw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:06:51",
       "video": "D1nBUG3Qu3sw.mp4",
@@ -13580,6 +14183,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "B7yh3YgnbcFT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:07:42",
       "video": "B7yh3YgnbcFT.mp4",
@@ -13602,6 +14206,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "zql90aBoc1tJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:08:59",
       "video": "zql90aBoc1tJ.mp4",
@@ -13624,6 +14229,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LQKqUqbhU50v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:10:01",
       "video": "LQKqUqbhU50v.mp4",
@@ -13646,6 +14252,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pLfYimJ25ZbI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:11:02",
       "video": "pLfYimJ25ZbI.mp4",
@@ -13668,6 +14275,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "DIPqf1K2PJba",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:11:12",
       "video": "DIPqf1K2PJba.mp4",
@@ -13692,6 +14300,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "V3CaS3mUGMr4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:11:29",
       "video": "V3CaS3mUGMr4.mp4",
@@ -13714,6 +14323,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "w0LzlCqerE1N",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:11:41",
       "video": "w0LzlCqerE1N.mp4",
@@ -13736,6 +14346,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "99Z6yIaTknNG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:13:55",
       "video": "99Z6yIaTknNG.mp4",
@@ -13758,6 +14369,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "WOR0K16Wbi2I",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:14:56",
       "video": "WOR0K16Wbi2I.mp4",
@@ -13782,6 +14394,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7eLmGW77Y5o1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:15:40",
       "video": "7eLmGW77Y5o1.mp4",
@@ -13804,6 +14417,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EjkHpFX9ATgp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:15:58",
       "video": "EjkHpFX9ATgp.mp4",
@@ -13830,6 +14444,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LD5GrQx0MtsI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:16:34",
       "video": "LD5GrQx0MtsI.mp4",
@@ -13852,6 +14467,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0261f0TEn46K",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:17:21",
       "video": "0261f0TEn46K.mp4",
@@ -13876,6 +14492,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "14bBcpxpQBmB",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:21:23",
       "video": "14bBcpxpQBmB.mp4",
@@ -13898,6 +14515,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "M4qAK9MhEpEF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:22:34",
       "video": "M4qAK9MhEpEF.mp4",
@@ -13924,6 +14542,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "auWQW8YMv3Dn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:25:05",
       "video": "auWQW8YMv3Dn.mp4",
@@ -13946,6 +14565,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "U10ndi3PaWJm",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:26:25",
       "video": "U10ndi3PaWJm.mp4",
@@ -13968,6 +14588,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HSEUpO8N6K1f",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:27:20",
       "video": "HSEUpO8N6K1f.mp4",
@@ -13990,6 +14611,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kiBnNejo0JW0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:28:27",
       "video": "kiBnNejo0JW0.mp4",
@@ -14012,6 +14634,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "q7BpcYyFpX7J",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:29:07",
       "video": "q7BpcYyFpX7J.mp4",
@@ -14034,6 +14657,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2MGQVZjSLNJv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:30:10",
       "video": "2MGQVZjSLNJv.mp4",
@@ -14058,6 +14682,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "s5NFb72MrTkr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:30:33",
       "video": "s5NFb72MrTkr.mp4",
@@ -14080,6 +14705,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PE6kDnMTh8Z6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:32:02",
       "video": "PE6kDnMTh8Z6.mp4",
@@ -14104,6 +14730,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "srqxy751uhoy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:32:50",
       "video": "srqxy751uhoy.mp4",
@@ -14126,6 +14753,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "W9d9UvLeBYFu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:33:04",
       "video": "W9d9UvLeBYFu.mp4",
@@ -14150,6 +14778,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8dLyJxfRn3cI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:33:07",
       "video": "8dLyJxfRn3cI.mp4",
@@ -14172,6 +14801,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mxhCOOkUXgbA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:33:07",
       "video": "mxhCOOkUXgbA.mp4",
@@ -14194,6 +14824,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xSgtD3jz8mUZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:34:48",
       "video": "xSgtD3jz8mUZ.mp4",
@@ -14221,6 +14852,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NZ0P8ssAGysd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:38:45",
       "video": "NZ0P8ssAGysd.mp4",
@@ -14243,6 +14875,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "69WACz6SPQg8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:39:03",
       "video": "69WACz6SPQg8.mp4",
@@ -14265,6 +14898,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8ONiSixYGejX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:39:16",
       "video": "8ONiSixYGejX.mp4",
@@ -14287,6 +14921,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hUhwsaOzwD5t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:40:51",
       "video": "hUhwsaOzwD5t.mp4",
@@ -14309,6 +14944,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "C5u7WZz0ibfe",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:41:11",
       "video": "C5u7WZz0ibfe.mp4",
@@ -14331,6 +14967,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6X2ZhStzVa3k",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:42:32",
       "video": "6X2ZhStzVa3k.mp4",
@@ -14357,6 +14994,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GNugjVRmu3Bt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:44:30",
       "video": "GNugjVRmu3Bt.mp4",
@@ -14379,6 +15017,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0gEXueOMmwi8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:49:22",
       "video": "0gEXueOMmwi8.mp4",
@@ -14401,6 +15040,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4sOiN4xK6zIM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:49:22",
       "video": "4sOiN4xK6zIM.mp4",
@@ -14423,6 +15063,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "urT0pVgcvy6B",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:49:43",
       "video": "urT0pVgcvy6B.mp4",
@@ -14445,6 +15086,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PxBfJc8LQNOq",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:50:18",
       "video": "PxBfJc8LQNOq.mp4",
@@ -14467,6 +15109,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "j3ILDT8eDVDi",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:50:38",
       "video": "j3ILDT8eDVDi.mp4",
@@ -14491,6 +15134,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3PkLpHaNWWeH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:51:06",
       "video": "3PkLpHaNWWeH.mp4",
@@ -14513,6 +15157,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sjQ6YrVTYuw6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:54:55",
       "video": "sjQ6YrVTYuw6.mp4",
@@ -14535,6 +15180,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ox9DFySZ4QpV",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:57:36",
       "video": "Ox9DFySZ4QpV.mp4",
@@ -14557,6 +15203,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qLOGkDrTrDbW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 21:57:59",
       "video": "qLOGkDrTrDbW.mp4",
@@ -14579,6 +15226,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "a40TwAVzrZK8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:02:30",
       "video": "a40TwAVzrZK8.mp4",
@@ -14603,6 +15251,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1Ta9ZdFfiNrZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:04:21",
       "video": "1Ta9ZdFfiNrZ.mp4",
@@ -14625,6 +15274,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XFFtlgdmXlYT",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:04:38",
       "video": "XFFtlgdmXlYT.mp4",
@@ -14647,6 +15297,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1Zvr7Xtfv0Yt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:05:04",
       "video": "1Zvr7Xtfv0Yt.mp4",
@@ -14669,6 +15320,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "04V2lSxDsi5n",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:05:08",
       "video": "04V2lSxDsi5n.mp4",
@@ -14691,6 +15343,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "OqD8bxN4Nnkt",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:05:55",
       "video": "OqD8bxN4Nnkt.mp4",
@@ -14713,6 +15366,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "G81yHTuMUvlX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:06:43",
       "video": "G81yHTuMUvlX.mp4",
@@ -14735,6 +15389,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HpQ07PUDmWDk",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:06:45",
       "video": "HpQ07PUDmWDk.mp4",
@@ -14757,6 +15412,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bVPcTXidhYjP",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:07:39",
       "video": "bVPcTXidhYjP.mp4",
@@ -14779,6 +15435,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ehioYC9DKqYv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:07:39",
       "video": "ehioYC9DKqYv.mp4",
@@ -14801,6 +15458,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4GAV26EQ2cD6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:07:42",
       "video": "4GAV26EQ2cD6.mp4",
@@ -14823,6 +15481,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "z5gCyYj1MB4N",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:07:58",
       "video": "z5gCyYj1MB4N.mp4",
@@ -14845,6 +15504,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yNE8dnxhV87u",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:08:09",
       "video": "yNE8dnxhV87u.mp4",
@@ -14867,6 +15527,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cDQaoCt4Nqsr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:08:15",
       "video": "cDQaoCt4Nqsr.mp4",
@@ -14894,6 +15555,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CVJciWvfzVc1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:10:43",
       "video": "CVJciWvfzVc1.mp4",
@@ -14916,6 +15578,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8ziKp2FKa3Sb",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:10:57",
       "video": "8ziKp2FKa3Sb.mp4",
@@ -14938,6 +15601,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yGh7nMgJB7m2",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:12:40",
       "video": "yGh7nMgJB7m2.mp4",
@@ -14960,6 +15624,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "SytVtt4RWF4v",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:12:44",
       "video": "SytVtt4RWF4v.mp4",
@@ -14982,6 +15647,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "eLSgf3w5r4PI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:13:18",
       "video": "eLSgf3w5r4PI.mp4",
@@ -15004,6 +15670,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "e47lIeSz7r45",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:14:47",
       "video": "e47lIeSz7r45.mp4",
@@ -15026,6 +15693,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ufqzju5HCfKn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:18:08",
       "video": "Ufqzju5HCfKn.mp4",
@@ -15048,6 +15716,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "i7PnrbCEXg6R",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:18:24",
       "video": "i7PnrbCEXg6R.mp4",
@@ -15074,6 +15743,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Dwx71JWXxoKv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:18:53",
       "video": "Dwx71JWXxoKv.mp4",
@@ -15096,6 +15766,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GkusTNyuZZWu",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:18:53",
       "video": "GkusTNyuZZWu.mp4",
@@ -15118,6 +15789,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GsVZm7o33oLw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:23:03",
       "video": "GsVZm7o33oLw.mp4",
@@ -15140,6 +15812,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mRzp24FtvPAz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:25:27",
       "video": "mRzp24FtvPAz.mp4",
@@ -15162,6 +15835,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8fGidwR3eLor",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:26:00",
       "video": "8fGidwR3eLor.mp4",
@@ -15184,6 +15858,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZLCE4QPPz3kW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:26:04",
       "video": "ZLCE4QPPz3kW.mp4",
@@ -15206,6 +15881,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kL7oxKMD3okz",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:26:39",
       "video": "kL7oxKMD3okz.mp4",
@@ -15228,6 +15904,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "L581HkTRJuQ1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:26:50",
       "video": "L581HkTRJuQ1.mp4",
@@ -15250,6 +15927,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ACa0xxSznKol",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:28:34",
       "video": "ACa0xxSznKol.mp4",
@@ -15272,6 +15950,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4CgvVPwmomjo",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:28:46",
       "video": "4CgvVPwmomjo.mp4",
@@ -15294,6 +15973,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h7o5lCy59fQJ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:30:25",
       "video": "h7o5lCy59fQJ.mp4",
@@ -15316,6 +15996,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "N3iINAlup94Y",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:36:38",
       "video": "N3iINAlup94Y.mp4",
@@ -15338,6 +16019,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LuLFx5NpoK10",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:37:11",
       "video": "LuLFx5NpoK10.mp4",
@@ -15363,6 +16045,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nCxt12LdrD9a",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:37:49",
       "video": "nCxt12LdrD9a.mp4",
@@ -15385,6 +16068,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8vAuY7nxkr6M",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:39:30",
       "video": "8vAuY7nxkr6M.mp4",
@@ -15409,6 +16093,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2Yk3nUusMZ5M",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:43:12",
       "video": "2Yk3nUusMZ5M.mp4",
@@ -15433,6 +16118,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qZ4Z9PXxNQ0S",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:44:16",
       "video": "qZ4Z9PXxNQ0S.mp4",
@@ -15455,6 +16141,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "uXaWh7G2P36n",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:45:24",
       "video": "uXaWh7G2P36n.mp4",
@@ -15477,6 +16164,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ZHX7ZrxgXRUH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 22:55:36",
       "video": "ZHX7ZrxgXRUH.mp4",
@@ -15499,6 +16187,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cwoMBUgoUj8T",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:02:25",
       "video": "cwoMBUgoUj8T.mp4",
@@ -15524,6 +16213,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Rc6DVzsHCQh8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:05:08",
       "video": "Rc6DVzsHCQh8.mp4",
@@ -15546,6 +16236,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "udvpnvQ3x4To",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:07:05",
       "video": "udvpnvQ3x4To.mp4",
@@ -15568,6 +16259,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1Imn9XMEtSnj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:15:26",
       "video": "1Imn9XMEtSnj.mp4",
@@ -15590,6 +16282,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6JbG6I0FrJhn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:15:26",
       "video": "6JbG6I0FrJhn.mp4",
@@ -15612,6 +16305,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oq59QSJY1eYO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:23:58",
       "video": "oq59QSJY1eYO.mp4",
@@ -15634,6 +16328,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rmPZ2rvZSLkM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-06 23:34:27",
       "video": "rmPZ2rvZSLkM.mp4",
@@ -15658,6 +16353,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "sztJiJaxROhM",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:09:22",
       "video": "sztJiJaxROhM.mp4",
@@ -15680,6 +16376,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1BDzt8hvBi1t",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:09:27",
       "video": "1BDzt8hvBi1t.mp4",
@@ -15702,6 +16399,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LdURLP869BXI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:11:13",
       "video": "LdURLP869BXI.mp4",
@@ -15724,6 +16422,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "mLnzgyK1MjJG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:11:13",
       "video": "mLnzgyK1MjJG.mp4",
@@ -15746,6 +16445,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "w58QuzHkXb6d",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:18:07",
       "video": "w58QuzHkXb6d.mp4",
@@ -15770,6 +16470,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "oDBc1KpGUsMn",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:19:58",
       "video": "oDBc1KpGUsMn.mp4",
@@ -15792,6 +16493,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "0MuvObe1mK4G",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 0:55:37",
       "video": "0MuvObe1mK4G.mp4",
@@ -15814,6 +16516,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "qARMZLFLjYAa",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 1:17:42",
       "video": "qARMZLFLjYAa.mp4",
@@ -15836,6 +16539,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CvueCg8kcpoy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 1:22:12",
       "video": "CvueCg8kcpoy.mp4",
@@ -15860,6 +16564,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "aSj3DssZie5o",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 1:42:44",
       "video": "aSj3DssZie5o.mp4",
@@ -15884,6 +16589,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "fgGsrrkQeDQh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:00:42",
       "video": "fgGsrrkQeDQh.mp4",
@@ -15908,6 +16614,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "W0M6jS61D3P5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:00:58",
       "video": "W0M6jS61D3P5.mp4",
@@ -15930,6 +16637,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2J39t1TfSZLB",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:01:03",
       "video": "2J39t1TfSZLB.mp4",
@@ -15952,6 +16660,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FGl5ZhqR5Jpp",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:01:17",
       "video": "FGl5ZhqR5Jpp.mp4",
@@ -15974,6 +16683,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KDH68TyHUiw5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:01:31",
       "video": "KDH68TyHUiw5.mp4",
@@ -15998,6 +16708,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "650ut3VxB679",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:01:35",
       "video": "650ut3VxB679.mp4",
@@ -16020,6 +16731,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "386TsNXzw58a",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:02:03",
       "video": "386TsNXzw58a.mp4",
@@ -16042,6 +16754,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "vxh4DeXKZw5E",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:11:30",
       "video": "vxh4DeXKZw5E.mp4",
@@ -16064,6 +16777,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PtX0m5xmBWoZ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:12:03",
       "video": "PtX0m5xmBWoZ.mp4",
@@ -16086,6 +16800,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "a6b4E7EOuBfs",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:16:36",
       "video": "a6b4E7EOuBfs.mp4",
@@ -16108,6 +16823,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "cH0PB1OhfbT8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:26:06",
       "video": "cH0PB1OhfbT8.mp4",
@@ -16130,6 +16846,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jW0bQSDFVOEx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 2:34:44",
       "video": "jW0bQSDFVOEx.mp4",
@@ -16154,6 +16871,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Tf8IPAs8Eduh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 3:10:04",
       "video": "Tf8IPAs8Eduh.mp4",
@@ -16176,6 +16894,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "3vGQyQIMf9H5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 3:11:09",
       "video": "3vGQyQIMf9H5.mp4",
@@ -16201,6 +16920,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "980wtH06yGul",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 3:32:50",
       "video": "980wtH06yGul.mp4",
@@ -16223,6 +16943,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HITFOk1YWLly",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 3:46:26",
       "video": "HITFOk1YWLly.mp4",
@@ -16245,6 +16966,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "wd3geYW1nvRL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 3:54:08",
       "video": "wd3geYW1nvRL.mp4",
@@ -16271,6 +16993,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hFXDRJjrOX5Y",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 4:57:36",
       "video": "hFXDRJjrOX5Y.mp4",
@@ -16295,6 +17018,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "kCmbHkMOiPUj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 5:41:12",
       "video": "kCmbHkMOiPUj.mp4",
@@ -16317,6 +17041,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hL3LsRN1titr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 6:01:09",
       "video": "hL3LsRN1titr.mp4",
@@ -16339,6 +17064,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pN3q5NvwoghI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 6:47:12",
       "video": "pN3q5NvwoghI.mp4",
@@ -16361,6 +17087,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "hmh5w1cou88U",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 8:11:26",
       "video": "hmh5w1cou88U.mp4",
@@ -16383,6 +17110,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TzNP4slvH8hH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 8:18:15",
       "video": "TzNP4slvH8hH.mp4",
@@ -16408,6 +17136,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "NUpAt87SN70T",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 10:43:53",
       "video": "NUpAt87SN70T.mp4",
@@ -16430,6 +17159,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "bTZISxkK39sH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 11:44:37",
       "video": "bTZISxkK39sH.mp4",
@@ -16454,6 +17184,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8KdEh2A5hBi1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 12:28:45",
       "video": "8KdEh2A5hBi1.mp4",
@@ -16476,6 +17207,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "CiohAUaVwOfr",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 13:41:53",
       "video": "CiohAUaVwOfr.mp4",
@@ -16498,6 +17230,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "xf5PcQJRH676",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 14:21:14",
       "video": "xf5PcQJRH676.mp4",
@@ -16522,6 +17255,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "m3ho49Ob8DT6",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 14:53:19",
       "video": "m3ho49Ob8DT6.mp4",
@@ -16546,6 +17280,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MN65JKK42QNI",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 16:00:06",
       "video": "MN65JKK42QNI.mp4",
@@ -16568,6 +17303,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "pGwKALiliQd8",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 16:00:06",
       "video": "pGwKALiliQd8.mp4",
@@ -16590,6 +17326,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ojGUhvfqsFA9",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 16:55:30",
       "video": "ojGUhvfqsFA9.mp4",
@@ -16614,6 +17351,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "yQ67Hra75Hkd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 17:59:01",
       "video": "yQ67Hra75Hkd.mp4",
@@ -16636,6 +17374,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "96B6O79yw76a",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 19:54:56",
       "video": "96B6O79yw76a.mp4",
@@ -16658,6 +17397,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "PVCOe6BrAqSS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 19:58:38",
       "video": "PVCOe6BrAqSS.mp4",
@@ -16682,6 +17422,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7h0ZDlfUOgbQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:04:04",
       "video": "7h0ZDlfUOgbQ.mp4",
@@ -16704,6 +17445,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "M81rH3MqmpMQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:04:04",
       "video": "M81rH3MqmpMQ.mp4",
@@ -16726,6 +17468,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "BFebZCtfR5aF",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:13:46",
       "video": "BFebZCtfR5aF.mp4",
@@ -16748,6 +17491,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "XCMfOk219rxY",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:13:46",
       "video": "XCMfOk219rxY.mp4",
@@ -16770,6 +17514,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "DLj1sth1JqF4",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:24:04",
       "video": "DLj1sth1JqF4.mp4",
@@ -16792,6 +17537,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Cisk4qzaYxRH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 20:38:57",
       "video": "Cisk4qzaYxRH.mp4",
@@ -16817,6 +17563,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "67A81y8heYuc",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 21:56:27",
       "video": "67A81y8heYuc.mp4",
@@ -16839,6 +17586,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "AdArLzDy1ObS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:06:05",
       "video": "AdArLzDy1ObS.mp4",
@@ -16861,6 +17609,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "H3xEi7VU7UMH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:13:13",
       "video": "H3xEi7VU7UMH.mp4",
@@ -16887,6 +17636,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jtJAZiNc0Vtx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:25:22",
       "video": "jtJAZiNc0Vtx.mp4",
@@ -16909,6 +17659,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5BtNTG3gRP31",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:27:33",
       "video": "5BtNTG3gRP31.mp4",
@@ -16931,6 +17682,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "5dbHftzxxwQC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:36:34",
       "video": "5dbHftzxxwQC.mp4",
@@ -16955,6 +17707,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "49158lDv9MVH",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 22:58:16",
       "video": "49158lDv9MVH.mp4",
@@ -16977,6 +17730,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nUo6Jkrm2lXO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-07 23:57:54",
       "video": "nUo6Jkrm2lXO.mp4",
@@ -16999,6 +17753,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jswdPZ70U3Uw",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 0:00:22",
       "video": "jswdPZ70U3Uw.mp4",
@@ -17021,6 +17776,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Ptef4gsW1BVh",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 0:39:42",
       "video": "Ptef4gsW1BVh.mp4",
@@ -17046,6 +17802,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "jxQHmvwEr9K0",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 3:11:08",
       "video": "jxQHmvwEr9K0.mp4",
@@ -17068,6 +17825,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "2gQjxzkGI6EX",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 3:29:10",
       "video": "2gQjxzkGI6EX.mp4",
@@ -17090,6 +17848,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "EyE1xpuxB0XW",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 5:29:47",
       "video": "EyE1xpuxB0XW.mp4",
@@ -17112,6 +17871,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1n1kU0AaL7il",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 5:46:22",
       "video": "1n1kU0AaL7il.mp4",
@@ -17137,6 +17897,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "HhOE7VTVyjIj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 10:03:52",
       "video": "HhOE7VTVyjIj.mp4",
@@ -17159,6 +17920,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GM63J01VLMwC",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 13:41:09",
       "video": "GM63J01VLMwC.mp4",
@@ -17183,6 +17945,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "VZLG8Hnn2BZL",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 15:21:32",
       "video": "VZLG8Hnn2BZL.mp4",
@@ -17205,6 +17968,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "L5LAErfLatjG",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 15:35:20",
       "video": "L5LAErfLatjG.mp4",
@@ -17229,6 +17993,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "MwV2lwWVgAF3",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 19:57:25",
       "video": "MwV2lwWVgAF3.mp4",
@@ -17251,6 +18016,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "TeJaNWHSclHd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 21:02:41",
       "video": "TeJaNWHSclHd.mp4",
@@ -17275,6 +18041,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "rvvchSNi1zP1",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 21:22:33",
       "video": "rvvchSNi1zP1.mp4",
@@ -17297,6 +18064,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "B0FxCurP0DbS",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 21:23:40",
       "video": "B0FxCurP0DbS.mp4",
@@ -17319,6 +18087,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7ehCKw9lfJVd",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-08 21:52:23",
       "video": "7ehCKw9lfJVd.mp4",
@@ -17343,6 +18112,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "Oc9WgHNGpAhE",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 1:17:03",
       "video": "Oc9WgHNGpAhE.mp4",
@@ -17365,6 +18135,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "lM9IhrO85Tyy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 2:21:39",
       "video": "lM9IhrO85Tyy.mp4",
@@ -17387,6 +18158,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "nADRtwoQXarD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 2:31:56",
       "video": "nADRtwoQXarD.mp4",
@@ -17412,6 +18184,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "ySO9aSEvs0Fx",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 15:32:19",
       "video": "ySO9aSEvs0Fx.mp4",
@@ -17434,6 +18207,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "1Hkd1vmLib9z",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 15:38:49",
       "video": "1Hkd1vmLib9z.mp4",
@@ -17456,6 +18230,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "KZQCjNA0PoDD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 15:38:49",
       "video": "KZQCjNA0PoDD.mp4",
@@ -17478,6 +18253,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "L6ZOl2DCvn7S",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 15:38:49",
       "video": "L6ZOl2DCvn7S.mp4",
@@ -17500,6 +18276,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "h1XUhjJ5U6fD",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 16:13:11",
       "video": "h1XUhjJ5U6fD.mp4",
@@ -17524,6 +18301,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "GvSfsVukvld7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 17:50:44",
       "video": "GvSfsVukvld7.mp4",
@@ -17546,6 +18324,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "8cSaamVcsMri",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 18:12:21",
       "video": "8cSaamVcsMri.mp4",
@@ -17570,6 +18349,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "FfajlshynACj",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 22:53:03",
       "video": "FfajlshynACj.mp4",
@@ -17592,6 +18372,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "7pyX4y0Z2wiy",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 22:54:45",
       "video": "7pyX4y0Z2wiy.mp4",
@@ -17614,6 +18395,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "f6rOHIXG9rrO",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 22:54:45",
       "video": "f6rOHIXG9rrO.mp4",
@@ -17636,6 +18418,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "6ZJ1lpw5mEMQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-09 23:14:10",
       "video": "6ZJ1lpw5mEMQ.mp4",
@@ -17658,6 +18441,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "4tJb1pr11hRv",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-10 0:18:05",
       "video": "4tJb1pr11hRv.mp4",
@@ -17680,6 +18464,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "LzjH34PY3gv5",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-10 0:24:48",
       "video": "LzjH34PY3gv5.mp4",
@@ -17702,6 +18487,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "S2fZ6snkrKpA",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-10 0:38:48",
       "video": "S2fZ6snkrKpA.mp4",
@@ -17724,6 +18510,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "719yrPG5Q7r7",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-10 0:45:24",
       "video": "719yrPG5Q7r7.mp4",
@@ -17746,6 +18533,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "iYSwurwmWhcQ",
+      "listed": "true",
       "platform": "parler",
       "time": "2021-01-10 1:14:07",
       "video": "iYSwurwmWhcQ.mp4",
@@ -17763,5 +18551,3172 @@ export default [
         0
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "id": "947323390369",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:47:04",
+      "video": "947323390369.mp4",
+      "image": "947323390369.png",
+      "description": "(1) Status Coup on Twitter_ _Trump supporters at #StopTheSteal brawl with police after breaking down barriers and storming toward the Capitol, leaving blood on the ground. Police finally deploy pepper bullets, leadin.mp4",
+      "size": "20",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "912245633556",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:46:30",
+      "video": "912245633556.mp4",
+      "image": "912245633556.png",
+      "description": "(1) Status Coup on Twitter_ _Watch the stream live, on our YouTube channel where @JonFarinaPhoto is filming and reporting_ https___t.co_F2YRpUPMBB_ _ Twitter.mp4",
+      "size": "11",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "112230400181",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:24:12",
+      "video": "112230400181.mp4",
+      "image": "112230400181.png",
+      "description": "0KI66xJzRlN70sxF.mp4",
+      "size": "2.5",
+      "duration": "11.00 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0347514450143",
+        "38.88907315267216",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "273203471219",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:14:22",
+      "video": "273203471219.mp4",
+      "image": "273203471219.png",
+      "description": "8i1Ldx0btddZqJ8J.mp4",
+      "size": "3.0",
+      "duration": "13.47 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00880239885353",
+        "38.890648238187715",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "115731639354",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-09 16:35:02",
+      "video": "115731639354.mp4",
+      "image": "115731639354.png",
+      "description": "A coon hunting buddy of mine that was there yesterday .mp4",
+      "size": "18",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00962604632365",
+        "38.890396278733526",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "091667972086",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-08 19:28:08",
+      "video": "091667972086.mp4",
+      "image": "091667972086.png",
+      "description": "A little bit earlier in dc at the capitolbreach as people climbed thru the smashed window.mp4",
+      "size": "8.5",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01025610744506",
+        "38.88983226549437",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "812279212301",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-08 19:16:04",
+      "video": "812279212301.mp4",
+      "image": "812279212301.png",
+      "description": "An officer quakes in fear as the crowd rushes past, pushing officers against the wall inside the U.S. Capitol Building -- via.mp4",
+      "size": "1989 KiB",
+      "duration": "10.68 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "127438254825",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:39:14",
+      "video": "127438254825.mp4",
+      "image": "127438254825.png",
+      "description": "BREAKING Trump Supporters Break Glass windows at Capitol, trying to storm in. - - Building.mp4",
+      "size": "2.3",
+      "duration": "21.50 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "624800887588",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 23:17:26",
+      "video": "624800887588.mp4",
+      "image": "624800887588.png",
+      "description": "Elizabeth was not ready for the revolution.mp4",
+      "size": "3.8",
+      "duration": "27.89 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "114760368887",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:28:50",
+      "video": "114760368887.mp4",
+      "image": "114760368887.png",
+      "description": "Ok8JwHyZ0k38Jr6l.mp4",
+      "size": "2.1",
+      "duration": "7.85 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00865468577003",
+        "38.88981053053507",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "883836717540",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:32:34",
+      "video": "883836717540.mp4",
+      "image": "883836717540.png",
+      "description": "Police attempt to block a door into the Capitol as Trump supporters close in from both sid.mp4",
+      "size": "8.8",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "314846923431",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-08 19:29:16",
+      "video": "314846923431.mp4",
+      "image": "314846923431.png",
+      "description": "Police have regained control over the area occupied by patriots earlier dc.mp4",
+      "size": "2.1",
+      "duration": "9.96 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01025176830832",
+        "38.889935817995536",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "087716930829",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:47:44",
+      "video": "087716930829.mp4",
+      "image": "087716930829.png",
+      "description": "RMXHhWTQrlr7eAqV.mp4",
+      "size": "13",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00923215712781",
+        "38.889795516447705",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "307432394000",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:33:10",
+      "video": "307432394000.mp4",
+      "image": "307432394000.png",
+      "description": "S88uWmFFCKUb3fzg.mp4",
+      "size": "5.1",
+      "duration": "29.53 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00880142550439",
+        "38.889249645766974",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "405493275751",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:35:12",
+      "video": "405493275751.mp4",
+      "image": "405493275751.png",
+      "description": "Smoke pouring out of area by House chamber.mp4",
+      "size": "5.5",
+      "duration": "26.77 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00878364029158",
+        "38.88900394136166",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "492703942484",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:49:54",
+      "video": "492703942484.mp4",
+      "image": "492703942484.png",
+      "description": "Standoff from earlier..mp4",
+      "size": "6.2",
+      "duration": "25.56 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "123646417062",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-08 19:15:34",
+      "video": "123646417062.mp4",
+      "image": "123646417062.png",
+      "description": "This guy told me he and others broke into Nancy Pelosi’s office inside Congress just now. -- via.mp4",
+      "size": "3.4",
+      "duration": "12.12 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "569284622137",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-08 19:59:12",
+      "video": "569284622137.mp4",
+      "image": "569284622137.png",
+      "description": "Trump Supporters Storm The Capitol In Washington DC.mp4",
+      "size": "246",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01003302566794",
+        "38.89007398840841",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "386751360443",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:34:52",
+      "video": "386751360443.mp4",
+      "image": "386751360443.png",
+      "description": "Trump Supporters are scaling walls in an attempt to take over the capital.mp4",
+      "size": "1607 KiB",
+      "duration": "21.15 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00974742563221",
+        "38.890529743987706",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "602381348676",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:34:48",
+      "video": "602381348676.mp4",
+      "image": "602381348676.png",
+      "description": "Trump supporters storm the Capitol in DC as hundreds enter the building DC January6 Januar.mp4",
+      "size": "5.9",
+      "duration": "24.31 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00914402781817",
+        "38.88962369506263",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "061895277567",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:20:08",
+      "video": "061895277567.mp4",
+      "image": "061895277567.png",
+      "description": "Vc-0JIELYwuXour6.mp4",
+      "size": "11",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00991994527129",
+        "38.8898179483243",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "949552159402",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:24:42",
+      "video": "949552159402.mp4",
+      "image": "949552159402.png",
+      "description": "Vco5HfSTWlWtf0vk.mp4",
+      "size": "5.6",
+      "duration": "19.57 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "058562609027",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:32:38",
+      "video": "058562609027.mp4",
+      "image": "058562609027.png",
+      "description": "WATCH The U.S. Capitol remains on lockdown after protestors entered the building.mp4",
+      "size": "1836 KiB",
+      "duration": "14.85 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00923215712781",
+        "38.889795516447705",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "135208005728",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 18:58:24",
+      "video": "135208005728.mp4",
+      "image": "135208005728.png",
+      "description": "XQx3K1jkkNk6GRS7.mp4",
+      "size": "13",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "950687056740",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:47:20",
+      "video": "950687056740.mp4",
+      "image": "950687056740.png",
+      "description": "XfQvh_WjBzNRPAeG.mp4",
+      "size": "3.6",
+      "duration": "20.34 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "479664253800",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:26:48",
+      "video": "479664253800.mp4",
+      "image": "479664253800.png",
+      "description": "ZSZAoJy5vQ05GUXB.mp4",
+      "size": "2.2",
+      "duration": "23.01 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00922086721151",
+        "38.8895096981628",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "956062147902",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:37:50",
+      "video": "956062147902.mp4",
+      "image": "956062147902.png",
+      "description": "ZZxsdyJ6r4qs8oFZ.mp4",
+      "size": "1613 KiB",
+      "duration": "6.63 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "781898313972",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:30:20",
+      "video": "781898313972.mp4",
+      "image": "781898313972.png",
+      "description": " Aaron Rupar - Surreal-1346902499178016773.mp4",
+      "size": "3.4",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00909052552278",
+        "38.89020954388617",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "445985332850",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:40:36",
+      "video": "445985332850.mp4",
+      "image": "445985332850.png",
+      "description": " Alejandro Alvarez - Dozens have forced their way to the top. More coming up the steps. Police are trying to bolster-1346905858031181829.mp4",
+      "size": "7.7",
+      "duration": "27.12 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01072940584473",
+        "38.88980348061628",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "809681047995",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 19:17:14",
+      "video": "809681047995.mp4",
+      "image": "809681047995.png",
+      "description": " Andrew Feinberg - It took 159 years, but a mob marching behind a confederate flag has stormed the US-1346899955097726985.mp4",
+      "size": "3.6",
+      "duration": "24.43 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "622068354485",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:55:22",
+      "video": "622068354485.mp4",
+      "image": "622068354485.png",
+      "description": " Anonymous 👥 - Trump loyalists attacking media and destroying their equipment. U.S. President Trump l-1346941191015727106.mp4",
+      "size": "21",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00772415456515",
+        "38.89088268827434",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "621281175215",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-10 22:22:08",
+      "video": "621281175215.mp4",
+      "image": "621281175215.png",
+      "description": " B3MCNJ3.mp4",
+      "size": "16",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01017023862553",
+        "38.88963695081167",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "266058596835",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:24:28",
+      "video": "266058596835.mp4",
+      "image": "266058596835.png",
+      "description": " BNO News - BREAKING - Clashes reported inside the U.S. Capitol building-1346902451950071817.mp4",
+      "size": "3.1",
+      "duration": "10.54 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00863105889147",
+        "38.89056021004161",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "004754337221",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:16:22",
+      "video": "004754337221.mp4",
+      "image": "004754337221.png",
+      "description": " Brendan Gutenschwager - 5 pm at the U.S. Capitol Building, with crowds of Trump supporters still out-1346944707306336258.mp4",
+      "size": "2.2",
+      "duration": "11.91 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01025610744506",
+        "38.88983226549437",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "216783428028",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 02:27:06",
+      "video": "216783428028.mp4",
+      "image": "216783428028.png",
+      "description": " Brendan Gutenschwager - A group of Trump supporters is currently on the march to BLM Plaza #DC #Wash-1346644973031194626.mp4",
+      "size": "2.6",
+      "duration": "10.01 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "642741678366",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:40:30",
+      "video": "642741678366.mp4",
+      "image": "642741678366.png",
+      "description": " Brendan Gutenschwager - Crowds are dispersing after large amounts of teargas were deployed in front -1346950616829067270.mp4",
+      "size": "2.6",
+      "duration": "19.36 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01475931805285",
+        "38.8897300588458",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "069586683702",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-05 19:45:02",
+      "video": "069586683702.mp4",
+      "image": "069586683702.png",
+      "description": " Brendan Gutenschwager - DC Fire and EMS put out the flames of a car that caught fire on 9th Street. -1346543801901477889.mp4",
+      "size": "1706 KiB",
+      "duration": "9.66 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "520228017683",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:33:28",
+      "video": "520228017683.mp4",
+      "image": "520228017683.png",
+      "description": " Brendan Gutenschwager - Police fire teargas out of the U.S. Capitol Building as they try to control -1346948856005545984.mp4",
+      "size": "5.0",
+      "duration": "22.78 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00992811225059",
+        "38.88987199246728",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "937953212496",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:13 04:21:18",
+      "video": "937953212496.mp4",
+      "image": "937953212496.png",
+      "description": " Brendan Gutenschwager - Proud Boys and Antifa_Black Lives Matter protesters continue to face off acr-1337976422212702210.mp4",
+      "size": "3.9",
+      "duration": "16.04 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "705022139327",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:16:56",
+      "video": "705022139327.mp4",
+      "image": "705022139327.png",
+      "description": " Brendan Gutenschwager - Riots outside the Capitol Building as Trump supporters rush to try to enter -1346899257694019585.mp4",
+      "size": "7.5",
+      "duration": "26.14 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01039421658884",
+        "38.88969710765347",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "858993797249",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-05 20:57:42",
+      "video": "858993797249.mp4",
+      "image": "858993797249.png",
+      "description": " Brendan Gutenschwager - Setup is underway for tomorrow’s ‘Save America March’ at The Ellipse just ou-1346562075049525248.mp4",
+      "size": "1689 KiB",
+      "duration": "10.35 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "414488927719",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:13 04:55:06",
+      "video": "414488927719.mp4",
+      "image": "414488927719.png",
+      "description": " Brendan Gutenschwager - Shortly before midnight and many are dispersing now from the blocks surround-1337984902898348032.mp4",
+      "size": "1409 KiB",
+      "duration": "8.24 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "649612091700",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2020:12:13 03:55:28",
+      "video": "649612091700.mp4",
+      "image": "649612091700.png",
+      "description": " Brendan Gutenschwager - Smashing the Black Lives Matter boards on the streets of DC tonight as the M-1337969911432425472.mp4",
+      "size": "6.3",
+      "duration": "22.01 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03647730189999",
+        "38.903724150372376",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "534771431277",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2020:12:13 16:35:34",
+      "video": "534771431277.mp4",
+      "image": "534771431277.png",
+      "description": " Brendan Gutenschwager - Some of the Trump supporters remaining in town are holding a “Keep Christmas-1338161212006215683.mp4",
+      "size": "2.2",
+      "duration": "8.50 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.02227867264591",
+        "38.88967506665371",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "786542480907",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 04:50:46",
+      "video": "786542480907.mp4",
+      "image": "786542480907.png",
+      "description": " Brendan Gutenschwager - Speeches in the Plaza as the crowd of about 100 Trump supporters remains out-1346681120054796288.mp4",
+      "size": "1933 KiB",
+      "duration": "9.52 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03650903003258",
+        "38.901173215157755",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "242327894249",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 15:13:58",
+      "video": "242327894249.mp4",
+      "image": "242327894249.png",
+      "description": " Brendan Gutenschwager - Tens of thousands of Trump supporters are out in DC this morning, packing Th-1346837967172734977.mp4",
+      "size": "5.4",
+      "duration": "18.67 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0344858730912",
+        "38.89108405643931",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "214577331982",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 16:14:50",
+      "video": "214577331982.mp4",
+      "image": "214577331982.png",
+      "description": " Brendan Gutenschwager - The Chinese American Alliance for Trump is out at today’s rally, holding up -1346853437590425601.mp4",
+      "size": "4.7",
+      "duration": "16.35 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03799926055208",
+        "38.892163212045396",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "638170581407",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-01 21:40:48",
+      "video": "638170581407.mp4",
+      "image": "638170581407.png",
+      "description": " Brendan Gutenschwager - The Proud Boys and militia groups are also out for today’s protest at the Or-1345123357830774786.mp4",
+      "size": "2004 KiB",
+      "duration": "8.24 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "913830779104",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:13 04:04:48",
+      "video": "913830779104.mp4",
+      "image": "913830779104.png",
+      "description": " Brendan Gutenschwager - The Proud Boys take a knee next to the police line at BLM Plaza to pay respe-1337972250734157828.mp4",
+      "size": "5.2",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "241018606488",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 16:58:54",
+      "video": "241018606488.mp4",
+      "image": "241018606488.png",
+      "description": " Brendan Gutenschwager - The crowd cheers as President Trump takes the stage here in Washington D.C. -1346864398837702656.mp4",
+      "size": "2.5",
+      "duration": "9.05 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "168668094036",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:41:04",
+      "video": "168668094036.mp4",
+      "image": "168668094036.png",
+      "description": " Brendan Gutenschwager - The crowd enters the Capitol Rotunda after police stand down while the build-1346920484009611264.mp4",
+      "size": "4.0",
+      "duration": "16.74 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00882644693637",
+        "38.88979592029975",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "030350366429",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:51:06",
+      "video": "030350366429.mp4",
+      "image": "030350366429.png",
+      "description": " Brendan Gutenschwager - The crowd is pushed further back as police secure the U.S. Capitol and lawn -1346953117267582977.mp4",
+      "size": "5.6",
+      "duration": "24.41 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "448910865856",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 22:53:28",
+      "video": "448910865856.mp4",
+      "image": "448910865856.png",
+      "description": " Brendan Gutenschwager - The group of Trump supporters sings the National Anthem at the Lincoln Memor-1347316020101443584.mp4",
+      "size": "5.6",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.04994824807069",
+        "38.889282574203634",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "290229294792",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 16:23:20",
+      "video": "290229294792.mp4",
+      "image": "290229294792.png",
+      "description": " Brendan Gutenschwager - The overflow crowd on the National Mall continues to grow as rallygoers awai-1346855548160008192.mp4",
+      "size": "3.2",
+      "duration": "11.93 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03416869291772",
+        "38.8911779959986",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "709983823311",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 15:05:30",
+      "video": "709983823311.mp4",
+      "image": "709983823311.png",
+      "description": " Brendan Gutenschwager - Trump supporters march towards Constitution Avenue to enter today’s ‘Save Am-1346835831349194752.mp4",
+      "size": "2.3",
+      "duration": "11.47 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "926964241088",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 23:02:56",
+      "video": "926964241088.mp4",
+      "image": "926964241088.png",
+      "description": " Brendan Gutenschwager - “America first!” chants from the group of Trump supporters who held a short -1347318407448956928.mp4",
+      "size": "2.0",
+      "duration": "14.39 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "904320078922",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:19 23:21:48",
+      "video": "904320078922.mp4",
+      "image": "904320078922.png",
+      "description": " Brendan Gutenschwager - “Antifa just crossed 15th” Police inform each other over the radios as an of-1340437734955991040.mp4",
+      "size": "1755 KiB",
+      "duration": "8.38 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "194399456701",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2020:12:23 22:53:34",
+      "video": "194399456701.mp4",
+      "image": "194399456701.png",
+      "description": " Brendan Gutenschwager - “Arm the Proletariat!” A few armed counter-protesters have now arrived here -1341880191262601217.mp4",
+      "size": "5.0",
+      "duration": "28.00 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03697763176278",
+        "38.90132196429363",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "555809060897",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:24 00:58:12",
+      "video": "555809060897.mp4",
+      "image": "555809060897.png",
+      "description": " Brendan Gutenschwager - “Do your job!” Police officers are chastised by the Trump supporters as they-1341911574563446789.mp4",
+      "size": "5.2",
+      "duration": "20.50 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "169166669223",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 02:29:48",
+      "video": "169166669223.mp4",
+      "image": "169166669223.png",
+      "description": " Brendan Gutenschwager - “F_ Antifa!” chants as the crowd of Proud Boys and Trump supporters mobilize-1346645650147049476.mp4",
+      "size": "1727 KiB",
+      "duration": "7.34 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "836158495648",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 17:11:20",
+      "video": "836158495648.mp4",
+      "image": "836158495648.png",
+      "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the crowd as the President speaks at the Save-1346867511762018305.mp4",
+      "size": "3.1",
+      "duration": "13.09 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "557054390584",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 22:15:28",
+      "video": "557054390584.mp4",
+      "image": "557054390584.png",
+      "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the group of a few dozen supporters at the Li-1347306410867126273.mp4",
+      "size": "1783 KiB",
+      "duration": "9.12 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.049955387537",
+        "38.88924645775779",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "027587769625",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-04 20:53:32",
+      "video": "027587769625.mp4",
+      "image": "027587769625.png",
+      "description": " Brendan Gutenschwager - “Fight for Trump!” chants from the rally line before heading into the venue -1346199938666024961.mp4",
+      "size": "1829 KiB",
+      "duration": "8.85 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "692831359512",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2020:12:14 20:57:58",
+      "video": "692831359512.mp4",
+      "image": "692831359512.png",
+      "description": " Brendan Gutenschwager - “I am telling you that they’re not going to be allowed into the Capitol” A l-1338589744050135054.mp4",
+      "size": "8.9",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "608608321103",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:28:18",
+      "video": "608608321103.mp4",
+      "image": "608608321103.png",
+      "description": " Brendan Gutenschwager - “Stop the Steal!” chants as the Trump supporters push through the Capitol Bu-1346932169244078080.mp4",
+      "size": "3.2",
+      "duration": "16.83 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00894886994845",
+        "38.890247606497034",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "527783044002",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 17:17:58",
+      "video": "527783044002.mp4",
+      "image": "527783044002.png",
+      "description": " Brendan Gutenschwager - “We’re gonna walk down to the Capitol” Trump prepares the crowd for the next-1346869176758128643.mp4",
+      "size": "5.4",
+      "duration": "23.87 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0368503866892",
+        "38.89397353657434",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "239679353828",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 22:41:02",
+      "video": "239679353828.mp4",
+      "image": "239679353828.png",
+      "description": " Brendan Gutenschwager - “When Trump asks, you come back.” A man says as the group rallies on the ste-1347312902076829705.mp4",
+      "size": "3.5",
+      "duration": "14.09 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.04997682349932",
+        "38.88932148723191",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "448024702996",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 04:22:56",
+      "video": "448024702996.mp4",
+      "image": "448024702996.png",
+      "description": " Brendan Gutenschwager - “Whose house Our house!” chants from the Trump supporters in downtown DC ton-1346674148311969793.mp4",
+      "size": "5.8",
+      "duration": "21.41 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03651579316775",
+        "38.903761093884484",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "443446033474",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:21:48",
+      "video": "443446033474.mp4",
+      "image": "443446033474.png",
+      "description": " Christal Hayes - Outside the Capitol, pro-Trump protesters are smashing cameras and other media equi-1346945835368501249.mp4",
+      "size": "8.3",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0114550949755",
+        "38.88906770809245",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "014320650611",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:14:28",
+      "video": "014320650611.mp4",
+      "image": "014320650611.png",
+      "description": " Disclose.tv 🚨 - JUST IN - Protesters have stormed the U.S Capitol, climbing floors inside.-1346900121515139081.mp4",
+      "size": "7.4",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00923215712781",
+        "38.889795516447705",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "681685851379",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 18:08:14",
+      "video": "681685851379.mp4",
+      "image": "681685851379.png",
+      "description": " ELIJAH SCHAFFER - BREAKING - Trump supporters have breached the Capitol building, tearing down 4 lay-1346881968819105792.mp4",
+      "size": "2.0",
+      "duration": "6.87 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01013705013038",
+        "38.88975713276511",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "903580907084",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 14:05:56",
+      "video": "903580907084.mp4",
+      "image": "903580907084.png",
+      "description": " Ford Fischer - #MAGA activists begin to assemble on east side of the Capitol. About to begin a live -1346820846753619972.mp4",
+      "size": "2.4",
+      "duration": "8.38 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "080650582173",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 01:28:48",
+      "video": "080650582173.mp4",
+      "image": "080650582173.png",
+      "description": " Ford Fischer - A lot happens in this clip.  As riot police push forward, Trump supporters tried to w-1346993115358502912.mp4",
+      "size": "17",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0085124891823",
+        "38.889812005432006",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "814306688256",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 00:40:00",
+      "video": "814306688256.mp4",
+      "image": "814306688256.png",
+      "description": " Ford Fischer - Cops tried to use sting balls &amp; pepper spray to repel the crowd, who retaliated b-1346980840501358592.mp4",
+      "size": "19",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "480565772221",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:21:28",
+      "video": "480565772221.mp4",
+      "image": "480565772221.png",
+      "description": " Ford Fischer - For the last half hour or so I was filming people go in and out of Capitol on entranc-1346930724876607488.mp4",
+      "size": "2.7",
+      "duration": "9.52 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00855039023618",
+        "38.889806155197185",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "976670155790",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 01:36:18",
+      "video": "976670155790.mp4",
+      "image": "976670155790.png",
+      "description": " Ford Fischer - Having basically been repelled from the Capitol building, the group then stormed towa-1346995117123489794.mp4",
+      "size": "27",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "879125779420",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 00:44:46",
+      "video": "879125779420.mp4",
+      "image": "879125779420.png",
+      "description": " Ford Fischer - I spoke to one activist who says Mike Pence caused the 'situation.'  He _then_ mentio-1346984665622716418.mp4",
+      "size": "9.8",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "690112064540",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 00:05:38",
+      "video": "690112064540.mp4",
+      "image": "690112064540.png",
+      "description": " Ford Fischer - In one of the first fights, police tried to arrest someone, and then Trump supporters-1346971943757508609.mp4",
+      "size": "7.9",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00869111512418",
+        "38.89032989546303",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "609062084858",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 23:58:24",
+      "video": "609062084858.mp4",
+      "image": "609062084858.png",
+      "description": " Ford Fischer - It was shortly after that that Trump supporters began pushing harder, to the point th-1346970079565590528.mp4",
+      "size": "6.0",
+      "duration": "24.92 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01008596125347",
+        "38.890193459320514",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "004778146121",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 23:59:48",
+      "video": "004778146121.mp4",
+      "image": "004778146121.png",
+      "description": " Ford Fischer - It was then that with the area above the steps taken over by Trump supporters, they w-1346970443673202688.mp4",
+      "size": "4.9",
+      "duration": "22.68 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "702596756194",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 13:46:16",
+      "video": "702596756194.mp4",
+      "image": "702596756194.png",
+      "description": " Ford Fischer - Just arrived at the Capitol to begin my coverage of today’s #StopTheSteal protest in -1346815918165405696.mp4",
+      "size": "7.6",
+      "duration": "27.00 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01213418743427",
+        "38.89147893040479",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "239255166740",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 01:06:04",
+      "video": "239255166740.mp4",
+      "image": "239255166740.png",
+      "description": " Ford Fischer - Of course, the main entrance on the capitol steps wasn't the only territory being fou-1346987504642084865.mp4",
+      "size": "18",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "521277931647",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 01:22:26",
+      "video": "521277931647.mp4",
+      "image": "521277931647.png",
+      "description": " Ford Fischer - Officers attempted to use zipties to lock the door shut. When that didn't work, they -1346991296695595009.mp4",
+      "size": "7.0",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "349497712038",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 23:55:24",
+      "video": "349497712038.mp4",
+      "image": "349497712038.png",
+      "description": " Ford Fischer - One person fell off the steps (which I didn't manage to capture on video).  Trump sup-1346969357855956992.mp4",
+      "size": "7.0",
+      "duration": "26.07 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.009832869254",
+        "38.89053453898078",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "128470944584",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-07 00:23:32",
+      "video": "128470944584.mp4",
+      "image": "128470944584.png",
+      "description": " Ford Fischer - People kept encouraging others to enter, and police struggled to force the door close-1346976595446280195.mp4",
+      "size": "15",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "718326012008",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 00:16:54",
+      "video": "718326012008.mp4",
+      "image": "718326012008.png",
+      "description": " Ford Fischer - People kept going in and out of the Capitol entrance. One man came outside to announc-1346974935730827265.mp4",
+      "size": "5.8",
+      "duration": "20.65 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00856902305941",
+        "38.88981789012335",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "837421267784",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:41:58",
+      "video": "837421267784.mp4",
+      "image": "837421267784.png",
+      "description": " Ford Fischer - Police are making some ground in clearing the people attempting to breach south side -1346936628980428807.mp4",
+      "size": "23",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "468520906013",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 01:01:24",
+      "video": "468520906013.mp4",
+      "image": "468520906013.png",
+      "description": " Ford Fischer - Police finally managed to get the door closed after several officers managed to spray-1346986054620995584.mp4",
+      "size": "10",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00855039023618",
+        "38.889806155197185",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "547120412658",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 18:27:38",
+      "video": "547120412658.mp4",
+      "image": "547120412658.png",
+      "description": " Ford Fischer - President Trump called for his supporters to march from the White House area down Pen-1346886726363578371.mp4",
+      "size": "4.9",
+      "duration": "17.90 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "519759322724",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 00:35:56",
+      "video": "519759322724.mp4",
+      "image": "519759322724.png",
+      "description": " Ford Fischer - Some participants in the Capitol insurgency seemed to find it a novelty.  This woman -1346979665207062529.mp4",
+      "size": "5.8",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00906825662696",
+        "38.89032372904544",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "282847657893",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:23:32",
+      "video": "282847657893.mp4",
+      "image": "282847657893.png",
+      "description": " Ford Fischer - South entrance to Capitol right now. Police have resorted to shooting fire extinguish-1346931575238356992.mp4",
+      "size": "9.3",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00912082060277",
+        "38.890354201529995",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "664701493021",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 00:09:18",
+      "video": "664701493021.mp4",
+      "image": "664701493021.png",
+      "description": " Ford Fischer - The Trump supporters began going up the east steps of the Capitol to storm through th-1346972919503724547.mp4",
+      "size": "9.7",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00847937215778",
+        "38.88984618079948",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "272081762701",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:26:54",
+      "video": "272081762701.mp4",
+      "image": "272081762701.png",
+      "description": " Ford Fischer - They’re beginning to clear outside-1346947517246799882.mp4",
+      "size": "16",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01032243913149",
+        "38.8904814277736",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "983085902762",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:32:52",
+      "video": "983085902762.mp4",
+      "image": "983085902762.png",
+      "description": " Ford Fischer - Trump supporters have effectively lost the ground they originally made by breaching b-1346948987111288832.mp4",
+      "size": "6.2",
+      "duration": "22.55 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "724106516893",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-07 00:14:14",
+      "video": "724106516893.mp4",
+      "image": "724106516893.png",
+      "description": " Ford Fischer - Trump supporters were blocked by riot cops when they got the door opened, but they pr-1346974462940491778.mp4",
+      "size": "24",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00856704724735",
+        "38.8898148729585",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "106179802860",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 19:25:20",
+      "video": "106179802860.mp4",
+      "image": "106179802860.png",
+      "description": " Ford Fischer - https -_t.co_6rsCa51aQC-1346901336307216384 (1).mp4",
+      "size": "4.4",
+      "duration": "15.72 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "543278572611",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:57:52",
+      "video": "543278572611.mp4",
+      "image": "543278572611.png",
+      "description": " Ford Fischer - “Fuck fake news!”  Trump supporters charged at the major media cameras set up on West-1346942284164706306.mp4",
+      "size": "32",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01199326323517",
+        "38.88934869460572",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "937344898179",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:06:28",
+      "video": "937344898179.mp4",
+      "image": "937344898179.png",
+      "description": " Igor Bobic - Here’s the scary moment when protesters initially got into the building from the first floor and made their way outside Senate chamber.-1346911809274478594.mp4",
+      "size": "19",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "912530796461",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:19:22",
+      "video": "912530796461.mp4",
+      "image": "912530796461.png",
+      "description": " Jeremy Lee Quinn - Kicked out   See last livestream for inside the Capitol riot-1346945128145903617.mp4",
+      "size": "6.1",
+      "duration": "24.96 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "499464771069",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:15:28",
+      "video": "499464771069.mp4",
+      "image": "499464771069.png",
+      "description": " Jeremy Lee Quinn - People getting up in it  Again I haven’t seen any weapons per Dc regulations. Cur-1346928974144933888.mp4",
+      "size": "7.7",
+      "duration": "27.68 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01023673567967",
+        "38.89000274550776",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "181874605286",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-10 03:41:38",
+      "video": "181874605286.mp4",
+      "image": "181874605286.png",
+      "description": " John Scott-Railton - NEW FOOTAGE - a long, disciplined line of men in body armor moves as a unit up -1348115530654347266.mp4",
+      "size": "8.4",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0083178702309",
+        "38.88989787675392",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "387983426111",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:35:34",
+      "video": "387983426111.mp4",
+      "image": "387983426111.png",
+      "description": " Joshua Potash - Holy shit they’re literally breaking into the Capitol-1346904724600188929.mp4",
+      "size": "5.9",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00908056112274",
+        "38.89031008696547",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "140363321441",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:22:38",
+      "video": "140363321441.mp4",
+      "image": "140363321441.png",
+      "description": " Leigh Ann Caldwell - FBI SWAT team in Capitol complex-1346930771575992321.mp4",
+      "size": "4.9",
+      "duration": "20.34 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00923215712781",
+        "38.889795516447705",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "983364411745",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 19:06:24",
+      "video": "983364411745.mp4",
+      "image": "983364411745.png",
+      "description": " Leigh Ann Caldwell - We are back in cannon. This is what’s happening at the steps of the Capitol, wh-1346896530729545732.mp4",
+      "size": "3.6",
+      "duration": "16.46 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "398720510500",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:47:42",
+      "video": "398720510500.mp4",
+      "image": "398720510500.png",
+      "description": " Matt Fuller - Video from the chamber.-1346906856581713922.mp4",
+      "size": "3.3",
+      "duration": "15.16 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00916304765131",
+        "38.890616546651245",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "054234348042",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:12:54",
+      "video": "054234348042.mp4",
+      "image": "054234348042.png",
+      "description": " Matt Laslo - They breached the Capitol-1346898208312713223.mp4",
+      "size": "4.0",
+      "duration": "19.92 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00918475573752",
+        "38.89035452398318",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "840788312786",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 22:17:56",
+      "video": "840788312786.mp4",
+      "image": "840788312786.png",
+      "description": " Matthew Miller - A line of people exit the Capitol building. One bloodied in the head and more came -1346944869588230144.mp4",
+      "size": "25",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "176125148301",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:53:48",
+      "video": "176125148301.mp4",
+      "image": "176125148301.png",
+      "description": " Mike Carter - BREAKING VIDEO - Woman shot inside U.S. Capitol.   The House of Congress is now a crim-1346938605948850176.mp4",
+      "size": "7.3",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00867550505156",
+        "38.88890018924047",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "966237335953",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:55:00",
+      "video": "966237335953.mp4",
+      "image": "966237335953.png",
+      "description": " Mike Gee - The moment an unarmed protester was shot in the neck #CapitolBuilding #DCProtests-1346939141896994817.mp4",
+      "size": "25",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "177524102103",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 03:36:10",
+      "video": "177524102103.mp4",
+      "image": "177524102103.png",
+      "description": " Miss N0b0dy - #blm plaza in #dc-1346662366029746177 (1).mp4",
+      "size": "6.4",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03650903003258",
+        "38.901173215157755",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "232584728903",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 03:41:24",
+      "video": "232584728903.mp4",
+      "image": "232584728903.png",
+      "description": " Miss N0b0dy - “Tomorrow we neee to go into the capital... Peacefully!” ##Washington  #dc-1346663698761449477 (1).mp4",
+      "size": "7.6",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "416509997204",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:04:22",
+      "video": "416509997204.mp4",
+      "image": "416509997204.png",
+      "description": " Shomari Stone - BREAKING. Mob of Trump supporters swarm the media near the US Capitol. They yell wha-1346941715895250949.mp4",
+      "size": "16",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01147235084976",
+        "38.88885921167297",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "507896299612",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:21:08",
+      "video": "507896299612.mp4",
+      "image": "507896299612.png",
+      "description": " Steven Nelson - Trump protesters just discharged a fire extinguisher outside Senate chamber. Many protesters are inside building, and most people are hiding from them-1346900228264308737.mp4",
+      "size": "2.4",
+      "duration": "10.86 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00923215712781",
+        "38.889795516447705",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "105249378607",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:14:00",
+      "video": "105249378607.mp4",
+      "image": "105249378607.png",
+      "description": " Tayler Hansen - A young woman was just shot in the neck right besides me in the Capitol Building-1346913549898149888.mp4",
+      "size": "5.2",
+      "duration": "29.65 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00868812352864",
+        "38.88890570129417",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "994118252815",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:14:30",
+      "video": "994118252815.mp4",
+      "image": "994118252815.png",
+      "description": " Tayler Hansen - https -_t.co_ZpzejGQSeD-1346913859102253056.mp4",
+      "size": "13",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "770862170987",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:44:42",
+      "video": "770862170987.mp4",
+      "image": "770862170987.png",
+      "description": " Tess Owen - Someone was reportedly shot inside - potentially this individual who was transported fro-1346921232655024130.mp4",
+      "size": "7.8",
+      "duration": "27.37 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0086302771346",
+        "38.88832796268545",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "407148397873",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:49:50",
+      "video": "407148397873.mp4",
+      "image": "407148397873.png",
+      "description": " What's Trending - Newsmax anchor seen asking for permission to report from inside of the Capitol ami-1346937663262113799.mp4",
+      "size": "6.3",
+      "duration": "27.31 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00941633659505",
+        "38.88980164953886",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "688635520716",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:37:28",
+      "video": "688635520716.mp4",
+      "image": "688635520716.png",
+      "description": " What's Trending - Protestors are seen recreating the George Floyd death at the National Capitol City-1346934524853186560.mp4",
+      "size": "763 KiB",
+      "duration": "9.05 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.03229809944844",
+        "38.906201915316245",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "475521273925",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 22:00:14",
+      "video": "475521273925.mp4",
+      "image": "475521273925.png",
+      "description": " William Turton - JUST NOW - protestors charging the media-1346940440935870472.mp4",
+      "size": "18",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00770256326042",
+        "38.89093481421837",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "271954232199",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:34:32",
+      "video": "271954232199.mp4",
+      "image": "271954232199.png",
+      "description": " Zachary Petrizzo - Montgomery County Police are moving in on the front side of the US Capitol Building.-1346918965889609728.mp4",
+      "size": "5.5",
+      "duration": "19.69 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.0080549963904",
+        "38.890312997965395",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "773001770052",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 21:02:54",
+      "video": "773001770052.mp4",
+      "image": "773001770052.png",
+      "description": " jr_majewski_1346925784192135170_1.mp4",
+      "size": "3.2",
+      "duration": "11.40 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01310954906084",
+        "38.890700732662054",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "040423809784",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:38:46",
+      "video": "040423809784.mp4",
+      "image": "040423809784.png",
+      "description": " talia JANE - Now that I have service, a rundown on what just happened_what I just saw. MAGAs rushed the Capitol steps, breaking-1346920683608047616.mp4",
+      "size": "27",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01025610744506",
+        "38.88983226549437",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "201608196776",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 19:57:42",
+      "video": "201608196776.mp4",
+      "image": "201608196776.png",
+      "description": " they didn’t “breach” or “storm” the capitol building THEY WERE LET IN-1346924307692318723.mp4",
+      "size": "3.2",
+      "duration": "13.68 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "254973105006",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:16:28",
+      "video": "254973105006.mp4",
+      "image": "254973105006.png",
+      "description": "_jRmmICpRxZe65FI.mp4",
+      "size": "4.4",
+      "duration": "19.90 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00884112986215",
+        "38.89061213968488",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "241434281687",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 21:20:58",
+      "video": "241434281687.mp4",
+      "image": "241434281687.png",
+      "description": "_lssSmHufCR-44Bj.mp4",
+      "size": "5.3",
+      "duration": "19.27 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "051614799983",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:55:44",
+      "video": "051614799983.mp4",
+      "image": "051614799983.png",
+      "description": "_wiHHoaTbSaoe-JC.mp4",
+      "size": "33",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "788462361019",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:46:18",
+      "video": "788462361019.mp4",
+      "image": "788462361019.png",
+      "description": "cJZIIaFWDepoE14q.mp4",
+      "size": "33",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00862118791585",
+        "38.88956614843948",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "965557886694",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 20:13:12",
+      "video": "965557886694.mp4",
+      "image": "965557886694.png",
+      "description": "nsECuxHg3gcpSCxn.mp4",
+      "size": "5.7",
+      "duration": "26.35 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "904058707734",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-06 18:54:48",
+      "video": "904058707734.mp4",
+      "image": "904058707734.png",
+      "description": "o1zZ_lKHbe6IATlv.mp4",
+      "size": "4.4",
+      "duration": "18.81 s",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "511582667599",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 19:59:24",
+      "video": "511582667599.mp4",
+      "image": "511582667599.png",
+      "description": "po7vn_oogd45efc4.mp4",
+      "size": "8.8",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.00882644693637",
+        "38.88979592029975",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "389978907839",
+      "listed": "true",
+      "platform": "twitter",
+      "time": "2021-01-06 20:33:32",
+      "video": "389978907839.mp4",
+      "image": "389978907839.png",
+      "description": "qd1I5z1I2z9uKBY8.mp4",
+      "size": "11",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "-77.01025742185588",
+        "38.8896553164837",
+        "0"
+      ],
+    },
+  },
+  {
+
+    "type": "Feature",
+    "properties": {
+      "id": "836207407493",
+      "listed": "false",
+      "platform": "twitter",
+      "time": "2021-01-10 01:29:28",
+      "video": "836207407493.mp4",
+      "image": "836207407493.png",
+      "description": "tUEMagZjvLVb_small.mp4",
+      "size": "111",
+      "duration": "0",
+      "tags": [],
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        "0",
+        "0",
+        "0"
+      ],
+    },
   },
 ]

@@ -18,6 +18,28 @@ const map = new mapboxgl.Map({
   zoom: 13,
 });
 
+window.onload = function() {
+  const urlParams = new URLSearchParams(window.location.search);
+  const videoId = urlParams.get('video')
+  if (videoId !== null) {
+    const video = datapoints.find(data => {
+      return data.properties.id === videoId;
+    });
+    if (video) {
+      setTimeout(() => {
+        map.flyTo({
+          center: video.geometry.coordinates,
+          zoom: 19
+        });
+        rightPanel.classList.add('is-visible');
+        renderVideoList([video]);
+        activateVideoTriggers();
+      }, 1000);
+    }
+  }
+
+};
+
 const filterData = (filters) => {
   const matches = datapoints.filter(data => {
     const tags = data.properties.tags;
@@ -155,8 +177,8 @@ const renderVideoList = (listItems) => {
     list += `
     <div class="c-Video">
       <div class="c-Video__meta">
-        <small><b>${props.id}</b></small>
-        <small class="c-Video__time">${props.time} | ${props.duration}s</small>
+        <small><b>${props.id}</b> (link <a id="${props.id}" href="?video=${props.id}" >${props.id}</a>)</small>
+        <small class="c-Video__time">${props.time} | ${props.duration}s | ${props.platform}</small>
         <small>${props.description}</small>
       </div>
       <a href="#" data-trigger data-id="${props.id}">
@@ -166,6 +188,7 @@ const renderVideoList = (listItems) => {
     `
     panelBody.innerHTML = list;
   })
+  new ClipboardJS('.btn');
 }
 
 const drawMapData = (data) => {
@@ -272,7 +295,7 @@ map.on('load', function () {
     clusterSource.getClusterLeaves(clusterId, point_count, 0, function(err, aFeatures){
 
       // Only list videos for smaller clusters
-      if (aFeatures.length <= 50) {
+      if (aFeatures.length <= 150) {
         deactivateVideoTriggers();
         rightPanel.classList.add('is-visible');
         renderVideoList(aFeatures);
