@@ -143,14 +143,14 @@ body {
   margin-bottom: 1em;
 }
 
+.c-Video img {
+  max-width: 100%;
+}
+
 .c-Video__meta {
   display: flex;
   flex-direction: column;
   margin-bottom: .5em;
-}
-
-.c-Video__meta img {
-  width: 100%;
 }
 
 .c-Video__time {
