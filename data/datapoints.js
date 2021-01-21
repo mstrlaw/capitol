@@ -20620,7 +20620,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "837421267784",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 21:41:58",
       "video": "837421267784.mp4",
@@ -20633,8 +20633,8 @@ export default [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00869659910329",
+        "38.88876784781255",
         "0"
       ],
     },
@@ -20884,7 +20884,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "937344898179",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 20:06:28",
       "video": "937344898179.mp4",
@@ -20892,13 +20892,16 @@ export default [
       "description": " Igor Bobic - Here’s the scary moment when protesters initially got into the building from the first floor and made their way outside Senate chamber.-1346911809274478594.mp4",
       "size": "19",
       "duration": "0",
-      "tags": [],
+      "tags": [
+        "riot",
+        "police",
+      ],
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00884114471536",
+        "38.89047130227635",
         "0"
       ],
     },
@@ -21028,7 +21031,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "983364411745",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 19:06:24",
       "video": "983364411745.mp4",
@@ -21041,8 +21044,8 @@ export default [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.0065728673525",
+        "38.8873522238231",
         "0"
       ],
     },
@@ -21100,7 +21103,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "840788312786",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 22:17:56",
       "video": "840788312786.mp4",
@@ -21113,8 +21116,8 @@ export default [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00913824584603",
+        "38.890356213403564",
         "0"
       ],
     },
@@ -21148,7 +21151,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "966237335953",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 21:55:00",
       "video": "966237335953.mp4",
@@ -21156,13 +21159,18 @@ export default [
       "description": " Mike Gee - The moment an unarmed protester was shot in the neck #CapitolBuilding #DCProtests-1346939141896994817.mp4",
       "size": "25",
       "duration": "0",
-      "tags": [],
+      "tags": [
+        "riot",
+        "violence",
+        "police",
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.0085440278063",
+        "38.88888906054327",
         "0"
       ],
     },
@@ -21292,7 +21300,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "994118252815",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 20:14:30",
       "video": "994118252815.mp4",
@@ -21300,13 +21308,16 @@ export default [
       "description": " Tayler Hansen - https -_t.co_ZpzejGQSeD-1346913859102253056.mp4",
       "size": "13",
       "duration": "0",
-      "tags": [],
+      "tags": [
+        "violence",
+        "conversation"
+      ],
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00854876009569",
+        "38.88890006861688",
         "0"
       ],
     },
@@ -21604,7 +21615,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "965557886694",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 20:13:12",
       "video": "965557886694.mp4",
@@ -21617,8 +21628,8 @@ export default [
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00889560475157",
+        "38.890286602974264",
         "0"
       ],
     },
@@ -21628,7 +21639,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "904058707734",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-06 18:54:48",
       "video": "904058707734.mp4",
@@ -21636,13 +21647,15 @@ export default [
       "description": "o1zZ_lKHbe6IATlv.mp4",
       "size": "4.4",
       "duration": "18.81 s",
-      "tags": [],
+      "tags": [
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.00805742036236",
+        "38.890913681181985",
         "0"
       ],
     },
@@ -21700,7 +21713,7 @@ export default [
     "type": "Feature",
     "properties": {
       "id": "836207407493",
-      "listed": "false",
+      "listed": "true",
       "platform": "twitter",
       "time": "2021-01-10 01:29:28",
       "video": "836207407493.mp4",
@@ -21708,13 +21721,16 @@ export default [
       "description": "tUEMagZjvLVb_small.mp4",
       "size": "111",
       "duration": "0",
-      "tags": [],
+      "tags": [
+        "conversation",
+        "chants"
+      ],
     },
     "geometry": {
       "type": "Point",
       "coordinates": [
-        "0",
-        "0",
+        "-77.01155199140842",
+        "38.89020009320116",
         "0"
       ],
     },
