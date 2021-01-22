@@ -261,7 +261,22 @@ body {
     background: rgba(0, 0, 0, .9);
   }
 
+  .c-Player.has-faces {
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+  }
+
+  .c-Player.has-faces video{
+    height: 70vh;
+  }
+
   .c-Player.has-faces .c-Player__faces {
+    height: 80px;
+    margin-top: 20px;
     width: 100%;
+  }
+  .c-Player__face {
+    height: 80px;
+    width: 80px;
   }
 }
