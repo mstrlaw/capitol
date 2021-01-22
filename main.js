@@ -9,6 +9,7 @@ const aboutPanel = document.getElementById('aboutPanel');
 const panelBody = document.getElementById('panelBody');
 const videoWrapper = document.getElementById('videoWrapper');
 const videoPlayer = document.getElementById('videoPlayer');
+const facesWrapper = document.getElementById('faces');
 const closePlayerTrigger = document.getElementById('closePlayer');
 const selectedFilters = [];
 const map = new mapboxgl.Map({
@@ -143,6 +144,8 @@ const closePlayer = () => {
   videoPlayer.pause();
   videoPlayer.removeAttribute('src');
   videoWrapper.classList.remove('is-visible');
+  videoWrapper.classList.remove('has-faces');
+  facesWrapper.innerHTML = '';
 }
 
 const activateVideoTriggers = () => {
@@ -150,7 +153,11 @@ const activateVideoTriggers = () => {
   videoTriggers.forEach(trigger => {
     trigger.addEventListener('click', e => {
       e.preventDefault();
-      openPlayer(e.target.parentElement.getAttribute('data-id'));
+      const vidId = e.target.parentElement.getAttribute('data-id')
+      openPlayer(vidId);
+      const video = datapoints.find(data => data.properties.id === vidId);
+      facesWrapper.innerHTML = '';
+      renderFacesList(video.properties);
     });
   });
 }
@@ -165,6 +172,28 @@ closePlayerTrigger.addEventListener('click', e => {
   closePlayer();
 });
 
+const renderFacesList = (props) => {
+  let { faces } = props;
+  faces = typeof faces === 'string'
+      ? JSON.parse("[" + faces + "]")[0]
+      : faces;
+  let images = '';
+
+
+  if (faces.length > 0) {
+    videoWrapper.classList.add('has-faces');
+    faces.forEach(face => {
+      images += `
+      <img class="c-Player__face" src="https://jan06.nyc3.cdn.digitaloceanspaces.com/faces/${face}" />
+      `
+    })
+    facesWrapper.innerHTML = images;
+  } else {
+    videoWrapper.classList.remove('has-faces');
+    facesWrapper.innerHTML = '';
+  }
+}
+
 /*
 Renders video list in the side panel
 */
@@ -173,7 +202,8 @@ const renderVideoList = (listItems) => {
   panelBody.innerHTML = '';
   listItems.forEach(item => {
     const { properties: props } = item;
-    let tags = props.tags
+    renderFacesList(props);
+
     list += `
     <div class="c-Video">
       <div class="c-Video__meta">
@@ -294,7 +324,7 @@ map.on('load', function () {
     clusterSource.getClusterLeaves(clusterId, point_count, 0, function(err, aFeatures){
 
       // Only list videos for smaller clusters
-      if (aFeatures.length <= 150) {
+      if (aFeatures.length <= 100) {
         deactivateVideoTriggers();
         rightPanel.classList.add('is-visible');
         renderVideoList(aFeatures);

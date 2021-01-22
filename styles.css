@@ -160,8 +160,8 @@ body {
 .c-Player {
   position: absolute;
   display: none;
-  align-items: center;
   justify-content: center;
+  flex-direction: column;
   width: 73vw;
   height: 98vh;
   top: 1vh;
@@ -174,9 +174,25 @@ body {
   display: flex;
 }
 
+.c-Player.has-faces video{
+  height: 78vh;
+}
+
+.c-Player.has-faces .c-Player__faces {
+  display: flex;
+  padding: 1em;
+  height: 20vh;
+  width: 73vw;
+  overflow: auto;
+}
+
 .c-Player video {
   width: 100%;
   max-height: 100%;
+}
+
+.c-Player__face {
+  margin-right: 1em;
 }
 
 #closePlayer {
