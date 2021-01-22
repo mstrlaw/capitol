@@ -82,7 +82,8 @@ We'll review it and improve the data source.
 Videos have been collected from a series of locations:
 
 - Parler leaked videos retrieved from [Tommy Carstensen](https://twitter.com/carstensenpol/)'s [hosted page](https://www.tommycarstensen.com/terrorism/index.html), which include geo locations;
-- Parler, Twitter, Instagram, Liveleak, Youtube and Facebook videos retrieved from a [mega.nz folder](https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA), collected throught [this Reddit thread](https://www.reddit.com/r/DataHoarder/comments/krx449/megathread_archiving_the_capitol_hill_riots/) from user [AdamLynch](https://www.reddit.com/user/AdamLynch/). These do not include location information upon uppload;
+- Twitter videos retrieved from a [mega.nz folder](https://mega.nz/folder/30MlkQib#RDOaGzmtFEHkxSYBaJSzVA), collected throught [this Reddit thread](https://www.reddit.com/r/DataHoarder/comments/krx449/megathread_archiving_the_capitol_hill_riots/) from user [AdamLynch](https://www.reddit.com/user/AdamLynch/). These do not include location information upon uppload;
+- Faces extracted and provided from [https://facesoftheriot.com/](https://facesoftheriot.com/)
 
 ## Video hosting
 
